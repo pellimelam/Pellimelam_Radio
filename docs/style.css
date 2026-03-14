@@ -18,33 +18,15 @@ box-shadow:0 5px 25px rgba(0,0,0,0.1);
 text-align:center;
 }
 
-h1{margin-bottom:20px;}
+h1{
+margin-bottom:20px;
+}
 
 .track{
-margin-bottom:6px;
+margin-bottom:15px;
 font-size:15px;
 color:#444;
-}
-
-.meta{
-font-size:13px;
-color:#777;
-margin-bottom:12px;
-}
-
-.moduleBar{
-display:flex;
-justify-content:center;
-gap:10px;
-margin-bottom:15px;
-}
-
-.moduleBar button{
-padding:6px 10px;
-border:none;
-border-radius:6px;
-background:#eef2f7;
-cursor:pointer;
+min-height:20px;
 }
 
 select{
@@ -53,7 +35,7 @@ padding:12px;
 font-size:16px;
 border-radius:6px;
 border:1px solid #ddd;
-margin-bottom:15px;
+margin-bottom:20px;
 }
 
 .controls{
@@ -94,7 +76,9 @@ gap:10px;
 margin-bottom:15px;
 }
 
-#seek{flex:1;}
+#seek{
+flex:1;
+}
 
 .volume{
 display:flex;
