@@ -23,9 +23,21 @@
 
 <select id="categorySelect"></select>
 
+<div class="moduleBar">
+
+<button id="modulePrev">◀</button>
+<span id="moduleLabel">Module 1</span>
+<button id="moduleNext">▶</button>
+
+<button id="moduleShuffle">🔀</button>
+<button id="moduleLoop">🔁</button>
+
+</div>
+
 <h2 id="title"></h2>
 
 <div id="trackTitle" class="track"></div>
+<div id="trackMeta" class="meta"></div>
 
 <div class="controls">
 
@@ -40,9 +52,7 @@
 <div class="progress">
 
 <span id="currentTime">0:00</span>
-
 <input type="range" id="seek" value="0">
-
 <span id="duration">0:00</span>
 
 </div>
@@ -61,5 +71,4 @@
 <script src="player.js"></script>
 
 </body>
-
 </html>
