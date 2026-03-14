@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Vidhwaan Radio</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+
+</head>
+
+<body>
+
+<div class="app">
+
+<h1>Vidhwaan Radio</h1>
+
+<select id="categorySelect"></select>
+
+<h2 id="title"></h2>
+
+<div id="trackTitle" class="track"></div>
+
+<div class="controls">
+
+<button id="shuffle">🔀</button>
+<button id="prev">⏮</button>
+<button id="play">▶</button>
+<button id="next">⏭</button>
+<button id="loop">🔁</button>
+
+</div>
+
+<div class="progress">
+
+<span id="currentTime">0:00</span>
+
+<input type="range" id="seek" value="0">
+
+<span id="duration">0:00</span>
+
+</div>
+
+<div class="volume">
+
+🔊
+<input type="range" id="volume" min="0" max="1" step="0.01">
+
+</div>
+
+<audio id="audio" preload="auto"></audio>
+
+</div>
+
+<script src="player.js"></script>
+
+</body>
+
+</html>

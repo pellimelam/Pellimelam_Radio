@@ -1,0 +1,56 @@
+name: Global Carnatic Radio Pipeline
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - uses: actions/checkout@v3
+
+    - uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+        pip install yt-dlp
+
+    - name: Run collectors
+      run: |
+        python collectors/distributed_collector.py
+
+    - name: Extract audio
+      run: |
+        python processors/archive_audio_extractor.py
+
+    - name: Clean dataset
+      run: |
+        python processors/dataset_cleaner.py
+
+    - name: Classify instruments
+      run: |
+        python processors/instrument_classifier.py
+
+    - name: Generate radios
+      run: |
+        python radios/generate_radios.py
+
+    - name: Commit dataset
+      run: |
+        git config --global user.name "radio-bot"
+        git config --global user.email "bot@pellimelam.com"
+        git add .
+        git commit -m "automatic dataset update" || echo "no changes"
+        git push
