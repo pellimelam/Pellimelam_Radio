@@ -35,6 +35,10 @@ select.appendChild(option)
 
 }
 
+/* important fix */
+
+select.value=data.categories[0].id
+
 loadCategory()
 
 }
