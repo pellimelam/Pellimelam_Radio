@@ -1,5 +1,5 @@
 const BASE =
-"https://cdn.jsdelivr.net/gh/pellimelam/pellimelam-music-infrastructure/radios/generated/"
+"https://cdn.jsdelivr.net/gh/pellimelam/Pellimelam_Radio/radios/generated/"
 
 const audio=document.getElementById("audio")
 
@@ -34,10 +34,6 @@ option.textContent=cat.name
 select.appendChild(option)
 
 }
-
-/* important fix */
-
-select.value=data.categories[0].id
 
 loadCategory()
 
