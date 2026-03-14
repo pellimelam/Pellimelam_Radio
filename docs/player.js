@@ -8,13 +8,16 @@ let queue=[]
 let index=0
 
 let category=""
-let page=1
-let hasMore=true
+let module=1
+let totalModules=1
 
 let shuffle=false
 let repeat=false
+let moduleLoop=false
 
 let nextAudio=new Audio()
+
+let categoriesData=[]
 
 
 /* LOAD CATEGORIES */
@@ -23,6 +26,8 @@ async function loadCategories(){
 
 const res=await fetch(BASE+"categories.json")
 const data=await res.json()
+
+categoriesData=data.categories
 
 const select=document.getElementById("categorySelect")
 
@@ -35,6 +40,8 @@ select.appendChild(option)
 
 }
 
+select.value=data.categories[0].id
+
 loadCategory()
 
 }
@@ -44,65 +51,45 @@ loadCategory()
 
 async function loadCategory(){
 
-const select=document.getElementById("categorySelect")
-
-category=select.value
+category=document.getElementById("categorySelect").value
 
 document.getElementById("title").innerText=
-select.options[select.selectedIndex].text
+document.getElementById("categorySelect").selectedOptions[0].text
 
-playlist=[]
-queue=[]
+module=1
 
-page=1
-hasMore=true
-
-await loadMore()
-
-createQueue()
-
-index=0
-
-prepareTrack()
+loadModule()
 
 }
 
 
-/* LOAD MORE TRACKS */
+/* LOAD MODULE */
 
-async function loadMore(){
+async function loadModule(){
 
-if(!hasMore) return
+document.getElementById("moduleLabel").innerText="Module "+module
 
-const res=await fetch(BASE+category+"/"+page+".json")
+const res=await fetch(BASE+category+"/"+module+".json")
 
 if(res.status!=200){
 
-hasMore=false
+if(moduleLoop){
+module=1
+return loadModule()
+}
+
 return
-
 }
 
-const data=await res.json()
-
-playlist.push(...data)
-
-page++
-
-}
-
-
-/* CREATE QUEUE */
-
-function createQueue(){
+playlist=await res.json()
 
 queue=[...playlist]
 
-if(shuffle){
+if(shuffle) shuffleArray(queue)
 
-shuffleArray(queue)
+index=Math.floor(Math.random()*queue.length)
 
-}
+prepareTrack()
 
 }
 
@@ -132,23 +119,10 @@ audio.src=queue[index].url
 document.getElementById("trackTitle").innerText=
 queue[index].title || ""
 
+document.getElementById("trackMeta").innerText=
+"Module "+module+" • Track "+(index+1)
+
 document.getElementById("play").innerText="▶"
-
-preloadNext()
-
-}
-
-
-/* PRELOAD NEXT */
-
-function preloadNext(){
-
-if(index+1<queue.length){
-
-nextAudio.src=queue[index+1].url
-nextAudio.preload="auto"
-
-}
 
 }
 
@@ -157,18 +131,17 @@ nextAudio.preload="auto"
 
 function playTrack(){
 
-if(!queue.length) return
-
 audio.src=queue[index].url
 
 document.getElementById("trackTitle").innerText=
 queue[index].title || ""
 
+document.getElementById("trackMeta").innerText=
+"Module "+module+" • Track "+(index+1)
+
 audio.play()
 
 document.getElementById("play").innerText="⏸"
-
-preloadNext()
 
 }
 
@@ -177,45 +150,31 @@ preloadNext()
 
 function togglePlay(){
 
-const btn=document.getElementById("play")
-
 if(audio.paused){
-
-audio.play()
-btn.innerText="⏸"
-
+playTrack()
 }else{
-
 audio.pause()
-btn.innerText="▶"
-
+document.getElementById("play").innerText="▶"
 }
 
 }
 
 
-/* NEXT */
+/* NEXT TRACK */
 
-async function next(){
+function next(){
 
 index++
 
-if(index>playlist.length-10){
-
-await loadMore()
-createQueue()
-
-}
-
 if(index>=queue.length){
-
-if(repeat){
 
 index=0
 
-}else{
+if(moduleLoop){
 
-index=queue.length-1
+module++
+
+loadModule()
 return
 
 }
@@ -227,39 +186,63 @@ playTrack()
 }
 
 
-/* PREVIOUS */
+/* PREVIOUS TRACK */
 
 function prev(){
 
-if(audio.currentTime>3){
-
-audio.currentTime=0
-return
-
-}
-
 index--
 
-if(index<0) index=0
+if(index<0) index=queue.length-1
 
 playTrack()
 
 }
 
 
-/* SONG ENDED */
+/* MODULE CONTROLS */
 
-audio.addEventListener("ended",next)
+document.getElementById("moduleNext").onclick=()=>{
+
+module++
+
+loadModule()
+
+}
+
+document.getElementById("modulePrev").onclick=()=>{
+
+module--
+if(module<1) module=1
+
+loadModule()
+
+}
+
+document.getElementById("moduleShuffle").onclick=()=>{
+
+module=Math.floor(Math.random()*5)+1
+
+loadModule()
+
+}
+
+document.getElementById("moduleLoop").onclick=()=>{
+
+moduleLoop=!moduleLoop
+
+document.getElementById("moduleLoop").classList.toggle("active")
+
+}
 
 
-/* BUTTONS */
+/* TRACK BUTTONS */
 
 document.getElementById("play").onclick=togglePlay
 document.getElementById("next").onclick=next
 document.getElementById("prev").onclick=prev
 
 
-/* SHUFFLE */
+/* SHUFFLE TRACKS */
 
 document.getElementById("shuffle").onclick=()=>{
 
@@ -267,12 +250,18 @@ shuffle=!shuffle
 
 document.getElementById("shuffle").classList.toggle("active")
 
-createQueue()
+queue=[...playlist]
+
+if(shuffle) shuffleArray(queue)
+
+index=0
+
+prepareTrack()
 
 }
 
 
-/* LOOP */
+/* LOOP TRACK */
 
 document.getElementById("loop").onclick=()=>{
 
@@ -285,66 +274,20 @@ document.getElementById("loop").classList.toggle("active")
 }
 
 
-/* SEEK */
-
-const seek=document.getElementById("seek")
-
-audio.addEventListener("timeupdate",()=>{
-
-seek.value=(audio.currentTime/audio.duration)*100||0
-
-document.getElementById("currentTime").innerText=format(audio.currentTime)
-document.getElementById("duration").innerText=format(audio.duration)
-
-})
-
-seek.oninput=()=>{
-
-audio.currentTime=(seek.value/100)*audio.duration
-
-}
-
-
-/* VOLUME */
-
-const volume=document.getElementById("volume")
-
-volume.value=0.8
-audio.volume=0.8
-
-volume.oninput=()=>{
-
-audio.volume=volume.value
-
-}
-
-
-/* FORMAT TIME */
-
-function format(t){
-
-if(!t) return "0:00"
-
-const m=Math.floor(t/60)
-const s=Math.floor(t%60)
-
-return m+":"+(s<10?"0":"")+s
-
-}
-
-
 /* CATEGORY CHANGE */
 
 document.getElementById("categorySelect").onchange=()=>{
 
 audio.pause()
 
-playlist=[]
-queue=[]
-
 loadCategory()
 
 }
+
+
+/* SONG END */
+
+audio.addEventListener("ended",next)
 
 
 /* INIT */
