@@ -9,15 +9,12 @@ let index=0
 
 let category=""
 let page=1
-let totalPages=1
 let hasMore=true
 
 let shuffle=false
 let repeat=false
 
 let nextAudio=new Audio()
-
-let categoriesData=[]
 
 
 /* LOAD CATEGORIES */
@@ -26,8 +23,6 @@ async function loadCategories(){
 
 const res=await fetch(BASE+"categories.json")
 const data=await res.json()
-
-categoriesData=data.categories
 
 const select=document.getElementById("categorySelect")
 
@@ -39,10 +34,6 @@ option.textContent=cat.name
 select.appendChild(option)
 
 }
-
-/* select first category */
-
-select.value=data.categories[0].id
 
 loadCategory()
 
@@ -57,29 +48,20 @@ const select=document.getElementById("categorySelect")
 
 category=select.value
 
-const catInfo=categoriesData.find(c=>c.id===category)
-
-totalPages=catInfo.pages || 1
-
 document.getElementById("title").innerText=
 select.options[select.selectedIndex].text
 
 playlist=[]
 queue=[]
 
-/* random starting json page */
-
-page=Math.floor(Math.random()*totalPages)+1
-
+page=1
 hasMore=true
 
 await loadMore()
 
 createQueue()
 
-/* random starting track */
-
-index=Math.floor(Math.random()*queue.length)
+index=0
 
 prepareTrack()
 
@@ -106,10 +88,6 @@ const data=await res.json()
 playlist.push(...data)
 
 page++
-
-if(page>totalPages){
-hasMore=false
-}
 
 }
 
@@ -222,7 +200,7 @@ async function next(){
 
 index++
 
-if(index>playlist.length-50){
+if(index>playlist.length-10){
 
 await loadMore()
 createQueue()
