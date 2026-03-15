@@ -10,12 +10,9 @@ let index=0
 let category=""
 let page=1
 let totalPages=1
-let hasMore=true
 
 let shuffle=false
 let repeat=false
-
-let nextAudio=new Audio()
 
 let categoriesData=[]
 
@@ -40,8 +37,6 @@ select.appendChild(option)
 
 }
 
-/* select first category */
-
 select.value=data.categories[0].id
 
 loadCategory()
@@ -53,78 +48,39 @@ loadCategory()
 
 async function loadCategory(){
 
-const select=document.getElementById("categorySelect")
-
-category=select.value
+category=document.getElementById("categorySelect").value
 
 const catInfo=categoriesData.find(c=>c.id===category)
 
 totalPages=catInfo.pages || 1
 
 document.getElementById("title").innerText=
-select.options[select.selectedIndex].text
+document.getElementById("categorySelect").selectedOptions[0].text
 
-playlist=[]
-queue=[]
-
-/* random starting json page */
+/* RANDOM MODULE */
 
 page=Math.floor(Math.random()*totalPages)+1
 
-hasMore=true
+await loadModule()
 
-await loadMore()
+}
 
-createQueue()
 
-/* random starting track */
+/* LOAD MODULE */
+
+async function loadModule(){
+
+const res=await fetch(BASE+category+"/"+page+".json")
+
+playlist=await res.json()
+
+queue=[...playlist]
+
+/* RANDOM START TRACK */
 
 index=Math.floor(Math.random()*queue.length)
 
 prepareTrack()
-
-}
-
-
-/* LOAD MORE TRACKS */
-
-async function loadMore(){
-
-if(!hasMore) return
-
-const res=await fetch(BASE+category+"/"+page+".json")
-
-if(res.status!=200){
-
-hasMore=false
-return
-
-}
-
-const data=await res.json()
-
-playlist.push(...data)
-
-page++
-
-if(page>totalPages){
-hasMore=false
-}
-
-}
-
-
-/* CREATE QUEUE */
-
-function createQueue(){
-
-queue=[...playlist]
-
-if(shuffle){
-
-shuffleArray(queue)
-
-}
 
 }
 
@@ -147,30 +103,15 @@ const j=Math.floor(Math.random()*(i+1))
 
 function prepareTrack(){
 
-if(!queue.length) return
-
 audio.src=queue[index].url
 
 document.getElementById("trackTitle").innerText=
 queue[index].title || ""
 
+document.getElementById("trackMeta").innerText=
+"Module "+page+" • Track "+(index+1)
+
 document.getElementById("play").innerText="▶"
-
-preloadNext()
-
-}
-
-
-/* PRELOAD NEXT */
-
-function preloadNext(){
-
-if(index+1<queue.length){
-
-nextAudio.src=queue[index+1].url
-nextAudio.preload="auto"
-
-}
 
 }
 
@@ -179,18 +120,17 @@ nextAudio.preload="auto"
 
 function playTrack(){
 
-if(!queue.length) return
-
 audio.src=queue[index].url
 
 document.getElementById("trackTitle").innerText=
 queue[index].title || ""
 
+document.getElementById("trackMeta").innerText=
+"Module "+page+" • Track "+(index+1)
+
 audio.play()
 
 document.getElementById("play").innerText="⏸"
-
-preloadNext()
 
 }
 
@@ -199,45 +139,36 @@ preloadNext()
 
 function togglePlay(){
 
-const btn=document.getElementById("play")
-
 if(audio.paused){
 
-audio.play()
-btn.innerText="⏸"
+playTrack()
 
 }else{
 
 audio.pause()
-btn.innerText="▶"
+document.getElementById("play").innerText="▶"
 
 }
 
 }
 
 
-/* NEXT */
+/* NEXT TRACK */
 
-async function next(){
+function next(){
 
 index++
 
-if(index>playlist.length-50){
-
-await loadMore()
-createQueue()
-
-}
-
 if(index>=queue.length){
-
-if(repeat){
 
 index=0
 
-}else{
+if(!repeat){
 
-index=queue.length-1
+/* RANDOM NEW MODULE */
+
+page=Math.floor(Math.random()*totalPages)+1
+loadModule()
 return
 
 }
@@ -249,29 +180,17 @@ playTrack()
 }
 
 
-/* PREVIOUS */
+/* PREVIOUS TRACK */
 
 function prev(){
 
-if(audio.currentTime>3){
-
-audio.currentTime=0
-return
-
-}
-
 index--
 
-if(index<0) index=0
+if(index<0) index=queue.length-1
 
 playTrack()
 
 }
-
-
-/* SONG ENDED */
-
-audio.addEventListener("ended",next)
 
 
 /* BUTTONS */
@@ -289,12 +208,18 @@ shuffle=!shuffle
 
 document.getElementById("shuffle").classList.toggle("active")
 
-createQueue()
+queue=[...playlist]
+
+if(shuffle) shuffleArray(queue)
+
+index=0
+
+prepareTrack()
 
 }
 
 
-/* LOOP */
+/* LOOP TRACK */
 
 document.getElementById("loop").onclick=()=>{
 
@@ -361,12 +286,14 @@ document.getElementById("categorySelect").onchange=()=>{
 
 audio.pause()
 
-playlist=[]
-queue=[]
-
 loadCategory()
 
 }
+
+
+/* SONG ENDED */
+
+audio.addEventListener("ended",next)
 
 
 /* INIT */
