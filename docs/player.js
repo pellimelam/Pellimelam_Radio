@@ -1,10 +1,9 @@
 const BASE =
 "https://cdn.jsdelivr.net/gh/pellimelam/Pellimelam_Radio/radios/generated/"
 
-const audio=document.getElementById("audio")
+const audio = document.getElementById("audio")
 
 let playlist=[]
-let queue=[]
 let index=0
 
 let category=""
@@ -39,7 +38,7 @@ select.appendChild(option)
 
 select.value=data.categories[0].id
 
-loadCategory()
+await loadCategory()
 
 }
 
@@ -52,12 +51,10 @@ category=document.getElementById("categorySelect").value
 
 const catInfo=categoriesData.find(c=>c.id===category)
 
-totalPages=catInfo.pages || 1
+totalPages=catInfo?.pages || 1
 
-document.getElementById("title").innerText=
+document.getElementById("title").innerText =
 document.getElementById("categorySelect").selectedOptions[0].text
-
-/* RANDOM MODULE */
 
 page=Math.floor(Math.random()*totalPages)+1
 
@@ -74,27 +71,11 @@ const res=await fetch(BASE+category+"/"+page+".json")
 
 playlist=await res.json()
 
-queue=[...playlist]
+if(!playlist.length) return
 
-/* RANDOM START TRACK */
-
-index=Math.floor(Math.random()*queue.length)
+index=Math.floor(Math.random()*playlist.length)
 
 prepareTrack()
-
-}
-
-
-/* SHUFFLE */
-
-function shuffleArray(arr){
-
-for(let i=arr.length-1;i>0;i--){
-
-const j=Math.floor(Math.random()*(i+1))
-[arr[i],arr[j]]=[arr[j],arr[i]]
-
-}
 
 }
 
@@ -103,13 +84,17 @@ const j=Math.floor(Math.random()*(i+1))
 
 function prepareTrack(){
 
-audio.src=queue[index].url
+const track = playlist[index]
 
-document.getElementById("trackTitle").innerText=
-queue[index].title || ""
+if(!track) return
 
-document.getElementById("trackMeta").innerText=
-"Module "+page+" • Track "+(index+1)
+audio.src = track.url
+
+const titleEl = document.getElementById("trackTitle")
+const metaEl = document.getElementById("trackMeta")
+
+if(titleEl) titleEl.innerText = track.title || ""
+if(metaEl) metaEl.innerText = "Module "+page+" • Track "+(index+1)
 
 document.getElementById("play").innerText="▶"
 
@@ -120,14 +105,11 @@ document.getElementById("play").innerText="▶"
 
 function playTrack(){
 
-audio.src=queue[index].url
+const track = playlist[index]
 
-document.getElementById("trackTitle").innerText=
-queue[index].title || ""
+if(!track) return
 
-document.getElementById("trackMeta").innerText=
-"Module "+page+" • Track "+(index+1)
-
+audio.src = track.url
 audio.play()
 
 document.getElementById("play").innerText="⏸"
@@ -153,19 +135,17 @@ document.getElementById("play").innerText="▶"
 }
 
 
-/* NEXT TRACK */
+/* NEXT */
 
 function next(){
 
 index++
 
-if(index>=queue.length){
+if(index>=playlist.length){
 
 index=0
 
 if(!repeat){
-
-/* RANDOM NEW MODULE */
 
 page=Math.floor(Math.random()*totalPages)+1
 loadModule()
@@ -175,19 +155,21 @@ return
 
 }
 
+prepareTrack()
 playTrack()
 
 }
 
 
-/* PREVIOUS TRACK */
+/* PREVIOUS */
 
 function prev(){
 
 index--
 
-if(index<0) index=queue.length-1
+if(index<0) index=playlist.length-1
 
+prepareTrack()
 playTrack()
 
 }
@@ -208,9 +190,7 @@ shuffle=!shuffle
 
 document.getElementById("shuffle").classList.toggle("active")
 
-queue=[...playlist]
-
-if(shuffle) shuffleArray(queue)
+playlist.sort(()=>Math.random()-0.5)
 
 index=0
 
@@ -219,7 +199,7 @@ prepareTrack()
 }
 
 
-/* LOOP TRACK */
+/* LOOP */
 
 document.getElementById("loop").onclick=()=>{
 
@@ -238,7 +218,9 @@ const seek=document.getElementById("seek")
 
 audio.addEventListener("timeupdate",()=>{
 
-seek.value=(audio.currentTime/audio.duration)*100||0
+if(!audio.duration) return
+
+seek.value=(audio.currentTime/audio.duration)*100
 
 document.getElementById("currentTime").innerText=format(audio.currentTime)
 document.getElementById("duration").innerText=format(audio.duration)
