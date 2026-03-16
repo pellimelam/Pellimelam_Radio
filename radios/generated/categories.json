@@ -2,35 +2,33 @@
   "categories": [
     {
       "id": "nadaswaram",
-      "name": "Nadaswaram"
+      "name": "Nadaswaram",
+      "pages": 1
     },
     {
       "id": "shehnai",
-      "name": "Shehnai"
+      "name": "Shehnai",
+      "pages": 1
     },
     {
       "id": "carnatic_instrumental",
-      "name": "Carnatic Instrumental"
+      "name": "Carnatic Instrumental",
+      "pages": 1
     },
     {
       "id": "veena",
-      "name": "Veena"
+      "name": "Veena",
+      "pages": 1
     },
     {
       "id": "temple_music",
-      "name": "Temple Music"
+      "name": "Temple Music",
+      "pages": 1
     },
     {
       "id": "mridangam",
-      "name": "Mridangam"
-    },
-    {
-      "id": "chenda",
-      "name": "Chenda"
-    },
-    {
-      "id": "thavil",
-      "name": "Thavil"
+      "name": "Mridangam",
+      "pages": 1
     }
   ]
 }
