@@ -24718,5 +24718,38 @@
       "https://youtube.com/watch?v=RwjxoTuvu6E"
     ],
     "instrument": "nadaswaram"
+  },
+  {
+    "identifier": "78_ved-den-skonne-gronne-isar-fred-dompke-med-sine-instrumental",
+    "title": "Ved den sk\u00f8nne gr\u00f8nne Isar",
+    "creator": [
+      "Fred D\u00f6mpke med sine instrumental-solister",
+      "Georg Freundorier & Bernard Derksen"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_ved-den-skonne-gronne-isar-fred-dompke-med-sine-instrumental/16282 Vittighedsj\u00e6geren.mp3"
+    ],
+    "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "Cs7mkdQYNnE",
+    "title": "Bhairavi Dadra | Ustad Bismillah Khan, V. G. Jog | Shehnai & Violin | Classical Instrumental Music",
+    "creator": "Saregama Hindustani Classical",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=Cs7mkdQYNnE"
+    ],
+    "instrument": "shehnai"
+  },
+  {
+    "identifier": "WMYatiCiyYM",
+    "title": "Shinkari Melam At #Sabarmati #Riverfront #Ahmedabad #shinkarimelam #beatsofgandhinagar",
+    "creator": "ChinjusCreativeCorner",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=WMYatiCiyYM"
+    ],
+    "instrument": "chenda"
   }
 ]
