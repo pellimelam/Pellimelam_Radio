@@ -25042,5 +25042,45 @@
       "https://youtube.com/watch?v=Zrg8lZtt3vw"
     ],
     "instrument": "nadaswaram"
+  },
+  {
+    "identifier": "neon-q-egoism-instrumental",
+    "title": "Neon-Q - Egoism ( Instrumental)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/neon-q-egoism-instrumental/Neon-Q - Egoism (Instrumental).mp3"
+    ],
+    "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "w3SxnBenZCM",
+    "title": "2026 New Year Special Nadaswaram & Davil Music | Classical Instrumental Music | Happy New Year 2026",
+    "creator": "Sounds of India",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=w3SxnBenZCM"
+    ],
+    "instrument": "nadaswaram"
+  },
+  {
+    "identifier": "NW21j6X3tgA",
+    "title": "Veena Vandhanam | E.Gayathri | 1 Hour of Veena Instrumental Music for Relaxation & Stress Relief |",
+    "creator": "Geethanjali - Indian Classical Music",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=NW21j6X3tgA"
+    ],
+    "instrument": "veena"
+  },
+  {
+    "identifier": "XmWtKv3ZtAo",
+    "title": "Nadaswaram Music - \u0baa\u0bcb \u0b9a\u0bae\u0bcd\u0baa\u0bcb \u0b9a\u0bbf\u0bb5\u0b9a\u0bae\u0bcd\u0baa\u0bcb | BhO Sambho - Classical Nadaswaram & Tavil | Vijay Musicals",
+    "creator": "Vijay Musical",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=XmWtKv3ZtAo"
+    ],
+    "instrument": "nadaswaram"
   }
 ]
