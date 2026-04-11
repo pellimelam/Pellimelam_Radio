@@ -130649,5 +130649,763 @@
     "audio_urls": [
       "https://youtube.com/watch?v=gKpN2DLMvoM"
     ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-05-00-Meyer-Davis-Hotel-Astor-Orch-An-Eyeful-Of-You",
+    "title": "Meyer Davis Hotel Astor Orch An Eyeful Of You",
+    "creator": "Meyer Davis Hotel Astor Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-05-00-Meyer-Davis-Hotel-Astor-Orch-An-Eyeful-Of-You/1929(USA)Archives19290500MeyerDavisHotelAstorOrch-AnEyefulOfYou.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-05-02-Willie-Creager-Orch-I-Feel-As-Happy-As-A-Lark",
+    "title": "Willie Creager Orch I Feel As Happy As A Lark",
+    "creator": "Willie Creager Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-05-02-Willie-Creager-Orch-I-Feel-As-Happy-As-A-Lark/1929(USA)Archives19290502WillieCreagerOrch-IFeelAsHappyAsALark.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-05-09-Jack-Pettis-His-Pets-Bugle-Call-Blues",
+    "title": "Jack Pettis His Pets Bugle Call Blues",
+    "creator": "Jack Pettis His Pets",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-05-09-Jack-Pettis-His-Pets-Bugle-Call-Blues/1929(USA)Archives19290509JackPettisHisPets-BugleCallBlues.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-07-00-Dick-Cherwin-Orch-Ive-Waited-A-Lifetime-For-You-w",
+    "title": "Dick Cherwin Orch Ive Waited A Lifetime For You w",
+    "creator": "Dick Cherwin Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-07-00-Dick-Cherwin-Orch-Ive-Waited-A-Lifetime-For-You-w/1929(USA)Archives19290700DickCherwinOrch-IveWaitedALifetimeForYou(w).mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-07-00-Fred-Rich-Orch-Sweetness",
+    "title": "Fred Rich Orch Sweetness",
+    "creator": "Fred Rich Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-07-00-Fred-Rich-Orch-Sweetness/1929(USA)Archives19290700FredRichOrch-Sweetness.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-12-03-Tiny-Parham-Musicians-Dixieland-Doins",
+    "title": "Tiny Parham Musicians Dixieland Doins",
+    "creator": "Tiny Parham Musicians",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-12-03-Tiny-Parham-Musicians-Dixieland-Doins/1929(USA)Archives19291203TinyParhamMusicians-DixielandDoins.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-11-08-Lloyd-Keating-And-His-Music-Ben-Selvin-v-Sammy-Fain-Low-Down-Rhythm",
+    "title": "Lloyd Keating And His Music Ben Selvin v Sammy Fain Low Down Rhythm",
+    "creator": "Lloyd Keating",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-11-08-Lloyd-Keating-And-His-Music-Ben-Selvin-v-Sammy-Fain-Low-Down-Rhythm/1929(USA)Archives19291108LloydKeatingAndHisMusic(BenSelvin)vSammyFain-LowDownRhythm.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-11-17-Jesse-Stafford-Orch-The-Woman-In-The-Shoe-",
+    "title": "Jesse Stafford Orch The Woman In The Shoe",
+    "creator": "Jesse Stafford Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-11-17-Jesse-Stafford-Orch-The-Woman-In-The-Shoe-/1929(USA)Archives19291117JesseStaffordOrch-TheWomanInTheShoe.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-00-00-Colonial-Club-Orch-Bob-Haring-Out-Of-a-Clear-Blue-Sky",
+    "title": "Colonial Club Orch Bob Haring Out Of a Clear Blue Sky",
+    "creator": "Colonial Club Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-00-00-Colonial-Club-Orch-Bob-Haring-Out-Of-a-Clear-Blue-Sky/1930(USA)Archives19300000ColonialClubOrch(BobHaring)-OutOfaClearBlueSky.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-00-00-The-Allan-Selby-Band-Low-Down-Rhythm",
+    "title": "The Allan Selby Band Low Down Rhythm",
+    "creator": "The Allan Selby Band",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-00-00-The-Allan-Selby-Band-Low-Down-Rhythm/1930(USA)Archives19300000TheAllanSelbyBand-LowDownRhythm.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-02-27-Ipana-Troubadours-I-Never-Dreamt",
+    "title": "Ipana Troubadours I Never Dreamt",
+    "creator": "Ipana Troubadours",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-02-27-Ipana-Troubadours-I-Never-Dreamt/1930(USA)Archives19300227IpanaTroubadours-INeverDreamt.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-03-00-Grey-Gull-Carlton-Dance-Orch-Gee-Its-Great-to-Build-a-Nest",
+    "title": "Grey Gull Carlton Dance Orch Gee Its Great to Build a Nest",
+    "creator": "Grey Gull Carlton Dance Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-03-00-Grey-Gull-Carlton-Dance-Orch-Gee-Its-Great-to-Build-a-Nest/1930(USA)Archives19300300GreyGull(CarltonDanceOrch)-GeeItsGreattoBuildaNest.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-04-00-Grey-Gull-Studio-Band-Would-You-Like-To-Take-A-Walk",
+    "title": "Grey Gull Studio Band Would You Like To Take A Walk",
+    "creator": "Grey Gull Studio Band",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-04-00-Grey-Gull-Studio-Band-Would-You-Like-To-Take-A-Walk/1930(USA)Archives19300400GreyGullStudioBand-WouldYouLikeToTakeAWalk.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-05-23-Buddy-Blue-Texans-Smith-Ballew-College-Campus",
+    "title": "Buddy Blue Texans Smith Ballew College Campus",
+    "creator": "Buddy Blue Texans",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-05-23-Buddy-Blue-Texans-Smith-Ballew-College-Campus/1930(USA)Archives19300523BuddyBlueTexans(SmithBallew)-CollegeCampus.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-07-24-Ben-Bernie-Orch-For-Instance",
+    "title": "Ben Bernie Orch For Instance",
+    "creator": "Ben Bernie Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-07-24-Ben-Bernie-Orch-For-Instance/1930(USA)Archives19300724BenBernieOrch-ForInstance.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-08-05-California-Ramblers-Without-You",
+    "title": "California Ramblers Without You",
+    "creator": "California Ramblers",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-08-05-California-Ramblers-Without-You/1930(USA)Archives19300805CaliforniaRamblers-WithoutYou.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-09-05-Luis-Russell-Orch-High-Tension",
+    "title": "Luis Russell Orch High Tension",
+    "creator": "Luis Russell Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-09-05-Luis-Russell-Orch-High-Tension/1930(USA)Archives19300905LuisRussellOrch-HighTension.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-11-00-Jack-Albins-Hotel-Pennsylvania-Dance-Orch-Cheerful-Little-Earful",
+    "title": "Jack Albins Hotel Pennsylvania Dance Orch Cheerful Little Earful",
+    "creator": "Jack Albins Hotel Pennsylvania Dance Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-11-00-Jack-Albins-Hotel-Pennsylvania-Dance-Orch-Cheerful-Little-Earful/1930(USA)Archives19301100JackAlbinsHotelPennsylvaniaDanceOrch-CheerfulLittleEarful.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-11-00-Joe-Greens-Marimba-Players-Im-Alone-Because-I-Love-You-w",
+    "title": "Joe Greens Marimba Players Im Alone Because I Love You w",
+    "creator": "Joe Greens Marimba Players",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-11-00-Joe-Greens-Marimba-Players-Im-Alone-Because-I-Love-You-w/1930(USA)Archives19301100JoeGreensMarimbaPlayers-ImAloneBecauseILoveYou(w).mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-10-09-McKinneys-Cotton-Pickers-Okay-Baby",
+    "title": "McKinneys Cotton Pickers Okay Baby",
+    "creator": "McKinneys Cotton Pickers",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-10-09-McKinneys-Cotton-Pickers-Okay-Baby/1930(USA)Archives19301009McKinneysCottonPickers-OkayBaby.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-12-03-Joe-Greens-Marimba-Players-Moonlight-On-The-Colorado-w",
+    "title": "Joe Greens Marimba Players Moonlight On The Colorado w",
+    "creator": "Joe Greens Marimba Players",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-12-03-Joe-Greens-Marimba-Players-Moonlight-On-The-Colorado-w/1930(USA)Archives19301203JoeGreensMarimbaPlayers-MoonlightOnTheColorado(w).mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-12-19-Mickie-Alpert-Orch-Ben-Selvin-Tears",
+    "title": "Mickie Alpert Orch Ben Selvin Tears",
+    "creator": "Mickie Alpert Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-12-19-Mickie-Alpert-Orch-Ben-Selvin-Tears/1930(USA)Archives19301219MickieAlpertOrch(BenSelvin)-Tears.mp3"
+    ]
+  },
+  {
+    "identifier": "1930-USA-Archives-1930-12-23-Cab-Calloway-Orch-Is-That-Religion",
+    "title": "Cab Calloway Orch Is That Religion",
+    "creator": "Cab Calloway Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1930-USA-Archives-1930-12-23-Cab-Calloway-Orch-Is-That-Religion/1930(USA)Archives19301223CabCallowayOrch-IsThatReligion.mp3"
+    ]
+  },
+  {
+    "identifier": "1931-USA-Archives-1931-01-22-Joe-Morgan-Palais-dOr-Orch-Blue-Pacific-Moonlight",
+    "title": "Joe Morgan Palais dOr Orch Blue Pacific Moonlight",
+    "creator": "Joe Morgan Palais dOr Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1931-USA-Archives-1931-01-22-Joe-Morgan-Palais-dOr-Orch-Blue-Pacific-Moonlight/1931(USA)Archives19310122JoeMorganPalaisdOrOrch-BluePacificMoonlight.mp3"
+    ]
+  },
+  {
+    "identifier": "1931-USA-Archives-1931-02-19-Ted-Weems-Orch-Little-Joe-",
+    "title": "Ted Weems Orch Little Joe",
+    "creator": "Ted Weems Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1931-USA-Archives-1931-02-19-Ted-Weems-Orch-Little-Joe-/1931(USA)Archives19310219TedWeemsOrch-LittleJoe.mp3"
+    ]
+  },
+  {
+    "identifier": "1931-USA-Archives-1931-02-20-Jack-Bergers-Hotel-Astor-Orch-Falling-In-Love-Again",
+    "title": "Jack Bergers Hotel Astor Orch Falling In Love Again",
+    "creator": "Jack Bergers Hotel Astor Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1931-USA-Archives-1931-02-20-Jack-Bergers-Hotel-Astor-Orch-Falling-In-Love-Again/1931(USA)Archives19310220JackBergersHotelAstorOrch-FallingInLoveAgain.mp3"
+    ]
+  },
+  {
+    "identifier": "1931-USA-Archives-1931-06-12-Snooks-Memphis-Stompers-Thats-My-Desire",
+    "title": "Snooks Memphis Stompers Thats My Desire",
+    "creator": "Snooks Memphis Stompers",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1931-USA-Archives-1931-06-12-Snooks-Memphis-Stompers-Thats-My-Desire/1931(USA)Archives19310612SnooksMemphisStompers-ThatsMyDesire.mp3"
+    ]
+  },
+  {
+    "identifier": "1931-USA-Archives-1931-06-20-Don-Voorhees-Maxwell-House-Orch-Roll-On-Missisippi-Roll-On",
+    "title": "Don Voorhees Maxwell House Orch Roll On Missisippi Roll On",
+    "creator": "Don Voorhees Maxwell House Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1931-USA-Archives-1931-06-20-Don-Voorhees-Maxwell-House-Orch-Roll-On-Missisippi-Roll-On/1931(USA)Archives19310620DonVoorheesMaxwellHouseOrch-RollOnMissisippiRollOn.mp3"
+    ]
+  },
+  {
+    "identifier": "1931-USA-Archives-1931-03-06-Lou-Gold-Orch-Would-You-Like-to-Take-a-Walk",
+    "title": "Lou Gold Orch Would You Like to Take a Walk",
+    "creator": "Lou Gold Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1931-USA-Archives-1931-03-06-Lou-Gold-Orch-Would-You-Like-to-Take-a-Walk/1931(USA)Archives19310306LouGoldOrch-WouldYouLiketoTakeaWalk.mp3"
+    ]
+  },
+  {
+    "identifier": "1931-USA-Archives-1931-03-18-ARC-Brunswick-Studio-Band-Ive-Got-Five-Dollars",
+    "title": "ARC Brunswick Studio Band Ive Got Five Dollars",
+    "creator": "ARC Brunswick Studio Band",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1931-USA-Archives-1931-03-18-ARC-Brunswick-Studio-Band-Ive-Got-Five-Dollars/1931(USA)Archives19310318ARCBrunswickStudioBand-IveGotFiveDollars.mp3"
+    ]
+  },
+  {
+    "identifier": "1931-USA-Archives-1931-08-31-Don-Voorhees-Maxwell-House-Orch-Many-Happy-Returns-Of-The-Day",
+    "title": "Don Voorhees Maxwell House Orch Many Happy Returns Of The Day",
+    "creator": "Don Voorhees Maxwell House Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1931-USA-Archives-1931-08-31-Don-Voorhees-Maxwell-House-Orch-Many-Happy-Returns-Of-The-Day/1931(USA)Archives19310831DonVoorheesMaxwellHouseOrch-ManyHappyReturnsOfTheDay.mp3"
+    ]
+  },
+  {
+    "identifier": "1931-USA-Archives-1931-10-23-Abe-Lyman-California-Orch-Youre-My-Everything",
+    "title": "Abe Lyman California Orch Youre My Everything",
+    "creator": "Abe Lyman Orch California Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1931-USA-Archives-1931-10-23-Abe-Lyman-California-Orch-Youre-My-Everything/1931(USA)Archives19311023AbeLymanCaliforniaOrch-YoureMyEverything.mp3"
+    ]
+  },
+  {
+    "identifier": "1931-USA-Archives-1931-11-20-ARC-Brunswick-Studio-Band-By-The-Sycamore-Tree",
+    "title": "ARC Brunswick Studio Band By The Sycamore Tree",
+    "creator": "ARC Brunswick Studio Band",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1931-USA-Archives-1931-11-20-ARC-Brunswick-Studio-Band-By-The-Sycamore-Tree/1931(USA)Archives19311120ARCBrunswickStudioBand-ByTheSycamoreTree.mp3"
+    ]
+  },
+  {
+    "identifier": "1932-USA-Archives-1932-03-03-Eddy-Duchin-Central-Park-Casino-Orch-Soft-Lights-And-Sweet-Music",
+    "title": "Eddy Duchin Central Park Casino Orch Soft Lights And Sweet Music",
+    "creator": "Eddy Duchin Central Park Casino Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1932-USA-Archives-1932-03-03-Eddy-Duchin-Central-Park-Casino-Orch-Soft-Lights-And-Sweet-Music/1932(USA)Archives19320303EddyDuchinCentralParkCasinoOrch-SoftLightsAndSweetMusic.mp3"
+    ]
+  },
+  {
+    "identifier": "1932-USA-Archives-1932-03-14-Dick-Robertson-Orch-You-Can-Make-My-Life-A-Bed-Of-Roses",
+    "title": "Dick Robertson Orch You Can Make My Life A Bed Of Roses",
+    "creator": "Dick Robertson Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1932-USA-Archives-1932-03-14-Dick-Robertson-Orch-You-Can-Make-My-Life-A-Bed-Of-Roses/1932(USA)Archives19320314DickRobertsonOrch-YouCanMakeMyLifeABedOfRoses.mp3"
+    ]
+  },
+  {
+    "identifier": "1932-USA-Archives-1932-05-18-Buddy-Rogers-California-Cavaliers-With-My-Sweetie-In-The-Moonlight",
+    "title": "Buddy Rogers California Cavaliers With My Sweetie In The Moonlight",
+    "creator": "Buddy Rogers California Cavaliers",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1932-USA-Archives-1932-05-18-Buddy-Rogers-California-Cavaliers-With-My-Sweetie-In-The-Moonlight/1932(USA)Archives19320518BuddyRogersCaliforniaCavaliers-WithMySweetieInTheMoonlight.mp3"
+    ]
+  },
+  {
+    "identifier": "1932-USA-Archives-1932-05-02-Abe-Lyman-Orch-Milenberg-Joys",
+    "title": "Abe Lyman Orch Milenberg Joys",
+    "creator": "Abe Lyman Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1932-USA-Archives-1932-05-02-Abe-Lyman-Orch-Milenberg-Joys/1932(USA)Archives19320502AbeLymanOrch-MilenbergJoys.mp3"
+    ]
+  },
+  {
+    "identifier": "1932-USA-Archives-1932-05-13-Gene-Kardos-Pennsylvania-Collegians-In-a-Shanty-in-Old-Shanty-Town",
+    "title": "Gene Kardos Pennsylvania Collegians In a Shanty in Old Shanty Town",
+    "creator": "Gene Kardos",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1932-USA-Archives-1932-05-13-Gene-Kardos-Pennsylvania-Collegians-In-a-Shanty-in-Old-Shanty-Town/1932(USA)Archives19320513GeneKardosPennsylvaniaCollegians-InaShantyinOldShantyTown.mp3"
+    ]
+  },
+  {
+    "identifier": "1932-USA-Archives-1932-05-16-Lew-Conrad-Orch-All-of-a-Sudden",
+    "title": "Lew Conrad Orch All of a Sudden",
+    "creator": "Lew Conrad Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1932-USA-Archives-1932-05-16-Lew-Conrad-Orch-All-of-a-Sudden/1932(USA)Archives19320516LewConradOrch.-AllofaSudden.mp3"
+    ]
+  },
+  {
+    "identifier": "1932-USA-Archives-1932-12-19-Glen-Gray-Casa-Loma-Orch-The-Dance-Of-The-Lame-Duck",
+    "title": "Glen Gray Casa Loma Orch The Dance Of The Lame Duck",
+    "creator": "Glen Gray Casa Loma Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1932-USA-Archives-1932-12-19-Glen-Gray-Casa-Loma-Orch-The-Dance-Of-The-Lame-Duck/1932(USA)Archives19321219GlenGrayCasaLomaOrch-TheDanceOfTheLameDuck.mp3"
+    ]
+  },
+  {
+    "identifier": "1932-USA-Archives-1932-10-00-Frank-La-Motta-Orch-Art-Landry-Orch-Here-Lies-Love",
+    "title": "Frank La Motta Orch Art Landry Orch Here Lies Love",
+    "creator": "Frank La Motta Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1932-USA-Archives-1932-10-00-Frank-La-Motta-Orch-Art-Landry-Orch-Here-Lies-Love/1932(USA)Archives19321000FrankLaMottaOrch(ArtLandryOrch)-HereLiesLove.mp3"
+    ]
+  },
+  {
+    "identifier": "1932-USA-Archives-1932-10-00-Leo-Hannon-Broadway-Bellhops-Lets-Put-Out-The-Lights-And-Go-To-Sleep",
+    "title": "Leo Hannon Broadway Bellhops Lets Put Out The Lights And Go To Sleep",
+    "creator": "Leo Hannon Broadway Bellhops",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1932-USA-Archives-1932-10-00-Leo-Hannon-Broadway-Bellhops-Lets-Put-Out-The-Lights-And-Go-To-Sleep/1932(USA)Archives19321000LeoHannonBroadwayBellhops-LetsPutOutTheLightsAndGoToSleep.mp3"
+    ]
+  },
+  {
+    "identifier": "1933-USA-Archives-1933-00-00-Henry-King-Orch-as-Don-Walker-Count-Your-Blessings",
+    "title": "Henry King Orch as Don Walker Count Your Blessings",
+    "creator": "Henry King Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1933-USA-Archives-1933-00-00-Henry-King-Orch-as-Don-Walker-Count-Your-Blessings/1933(USA)Archives19330000HenryKingOrch(asDonWalker)-CountYourBlessings.mp3"
+    ]
+  },
+  {
+    "identifier": "1933-USA-Archives-1933-00-00-Tom-Coakley-Broadcast-Mademoiselle",
+    "title": "Tom Coakley Broadcast Mademoiselle",
+    "creator": "Tom Coakley",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1933-USA-Archives-1933-00-00-Tom-Coakley-Broadcast-Mademoiselle/1933(USA)Archives19330000TomCoakleyBroadcast-Mademoiselle.mp3"
+    ]
+  },
+  {
+    "identifier": "1933-USA-Archives-1933-01-00-Owen-Fallon-Californians-You-Must-Believe-Me",
+    "title": "Owen Fallon Californians You Must Believe Me",
+    "creator": "Owen Fallon Californians",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1933-USA-Archives-1933-01-00-Owen-Fallon-Californians-You-Must-Believe-Me/1933(USA)Archives19330100OwenFallonCalifornians-YouMustBelieveMe.mp3"
+    ]
+  },
+  {
+    "identifier": "1933-USA-Archives-1933-01-16-Freddy-Martin-Orch-If-You-Dont-Want-To-Be-Sweethearts-",
+    "title": "Freddy Martin Orch If You Dont Want To Be Sweethearts",
+    "creator": "Freddy Martin Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1933-USA-Archives-1933-01-16-Freddy-Martin-Orch-If-You-Dont-Want-To-Be-Sweethearts-/1933(USA)Archives19330116FreddyMartinOrch-IfYouDontWantToBeSweethearts.mp3"
+    ]
+  },
+  {
+    "identifier": "1934-NL-Archives-1934-08-22-The-Ramblers-Dance-Band-Farewell-Blues",
+    "title": "The Ramblers Dance Band Farewell Blues",
+    "creator": "The Ramblers",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1934-NL-Archives-1934-08-22-The-Ramblers-Dance-Band-Farewell-Blues/1934(NL)Archives19340822TheRamblersDanceBand-FarewellBlues.mp3"
+    ]
+  },
+  {
+    "identifier": "khaldoun_45",
+    "title": "khaldoun",
+    "creator": "khaldoun",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/khaldoun_45/101.mp3",
+      "https://archive.org/download/khaldoun_45/101.ogg"
+    ]
+  },
+  {
+    "identifier": "kldspobfed",
+    "title": "atdmlspde",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/kldspobfed/17tkcjk.mp3",
+      "https://archive.org/download/kldspobfed/18fguqd.mp3",
+      "https://archive.org/download/kldspobfed/19dwkii.mp3",
+      "https://archive.org/download/kldspobfed/20mtcmh.mp3",
+      "https://archive.org/download/kldspobfed/21kjtdk.mp3",
+      "https://archive.org/download/kldspobfed/22hgumq.mp3",
+      "https://archive.org/download/kldspobfed/23alche.mp3",
+      "https://archive.org/download/kldspobfed/24kaavp.mp3",
+      "https://archive.org/download/kldspobfed/25binfv.mp3",
+      "https://archive.org/download/kldspobfed/26ajywt.mp3",
+      "https://archive.org/download/kldspobfed/27mxmob.mp3",
+      "https://archive.org/download/kldspobfed/28byeqb.mp3",
+      "https://archive.org/download/kldspobfed/29rlnlv.mp3",
+      "https://archive.org/download/kldspobfed/30geglq.mp3"
+    ]
+  },
+  {
+    "identifier": "istochnikjiznikh_gmail_20181204095801",
+    "title": "\u041f\u044f\u0442\u043d\u0438\u0447\u043d\u043e\u0435 \u0441\u043b\u0443\u0436\u0435\u043d\u0438\u0435 30.11.2018",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/01.\u0412\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435.mp3",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/01.\u0412\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435.ogg",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/02.\u0417\u0430 \u043b\u044e\u0431\u043e\u0432\u044c.mp3",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/02.\u0417\u0430 \u043b\u044e\u0431\u043e\u0432\u044c.ogg",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/03.\u0411\u043e\u0433 \u043c\u043e\u0439.mp3",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/03.\u0411\u043e\u0433 \u043c\u043e\u0439.ogg",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/04.\u0421\u043b\u0430\u0432\u044c\u0442\u0435 \u0411\u043e\u0433\u0430.mp3",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/04.\u0421\u043b\u0430\u0432\u044c\u0442\u0435 \u0411\u043e\u0433\u0430.ogg",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/05.\u041f\u0440\u043e\u043f\u043e\u0432\u0435\u0434\u044c - \u0421\u043e\u0440\u043e\u043a\u0438\u043d.mp3",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/05.\u041f\u0440\u043e\u043f\u043e\u0432\u0435\u0434\u044c - \u0421\u043e\u0440\u043e\u043a\u0438\u043d.ogg",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/06.\u041f\u0440\u043e\u043f\u043e\u0432\u0435\u0434\u044c - \u0427\u043c\u0443\u0442.mp3",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/06.\u041f\u0440\u043e\u043f\u043e\u0432\u0435\u0434\u044c - \u0427\u043c\u0443\u0442.ogg",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/07.\u0417\u0430\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0441\u043b\u043e\u0432\u043e.mp3",
+      "https://archive.org/download/istochnikjiznikh_gmail_20181204095801/07.\u0417\u0430\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0441\u043b\u043e\u0432\u043e.ogg"
+    ]
+  },
+  {
+    "identifier": "hachi-powaa-s-01-e-06-0",
+    "title": "Hachi Powaa S 01 E 06, 0",
+    "creator": "magickirua",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/hachi-powaa-s-01-e-06-0/Hachi Powaa - S01E06,0.mp3"
+    ]
+  },
+  {
+    "identifier": "hawwacha_2011-08-13",
+    "title": "\u0647\u0644 \u0627\u0644\u062a\u0651\u0636\u064e\u062e\u064f\u0651\u0645 \u0645\u064f\u0628\u0631\u0651\u0631\u064c \u0644\u0644\u0631\u0650\u0651\u0628\u0627\u061f - \u062f.\u062e\u0627\u0644\u062f \u0628\u0646 \u0645\u062d\u0645\u062f \u0628\u0627\u0628\u0643\u0631",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/hawwacha_2011-08-13/2011-08-13.mp3",
+      "https://archive.org/download/hawwacha_2011-08-13/2011-08-13.ogg"
+    ]
+  },
+  {
+    "identifier": "hawwacha_2012-07-25",
+    "title": "\u0627\u0644\u0623\u062b\u0631 \u0627\u0644\u062d\u0642\u064a\u0642\u064a \u0644\u0644\u0645\u0648\u0627\u0639\u0638 \u0648 \u0627\u0644\u062f\u0631\u0648\u0633 \u0627\u0644\u0645\u0633\u062c\u062f\u064a\u0629 - \u0625\u0628\u0631\u0627\u0647\u064a\u0645 \u0628\u0646 \u0628\u0643\u064a\u0631 \u0628\u062d\u0627\u0632",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/hawwacha_2012-07-25/2012-07-25.mp3",
+      "https://archive.org/download/hawwacha_2012-07-25/2012-07-25.ogg"
+    ]
+  },
+  {
+    "identifier": "impemba",
+    "title": "impemba",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/impemba/impemba.mp3"
+    ]
+  },
+  {
+    "identifier": "silver_Llah",
+    "title": "Llah",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/silver_Llah/llah.mp3",
+      "https://archive.org/download/silver_Llah/llah.ogg"
+    ]
+  },
+  {
+    "identifier": "scifi20191020",
+    "title": "Scifi 20191020",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/scifi20191020/Scifi20191020A.mp3",
+      "https://archive.org/download/scifi20191020/Scifi20191020A.ogg",
+      "https://archive.org/download/scifi20191020/Scifi20191020B.mp3",
+      "https://archive.org/download/scifi20191020/Scifi20191020B.ogg",
+      "https://archive.org/download/scifi20191020/Scifi20191020C.mp3",
+      "https://archive.org/download/scifi20191020/Scifi20191020C.ogg",
+      "https://archive.org/download/scifi20191020/Scifi20191020D.mp3",
+      "https://archive.org/download/scifi20191020/Scifi20191020D.ogg",
+      "https://archive.org/download/scifi20191020/Scifi20191020E.mp3",
+      "https://archive.org/download/scifi20191020/Scifi20191020E.ogg",
+      "https://archive.org/download/scifi20191020/Scifi20191020_ALL.mp3",
+      "https://archive.org/download/scifi20191020/Scifi20191020_ALL.ogg"
+    ]
+  },
+  {
+    "identifier": "octubre-rosa-reporte-adri-18-oct",
+    "title": "Octubre Rosa Reporte Adri 18 Oct",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/octubre-rosa-reporte-adri-18-oct/octubre rosa reporte adri 18 oct.mp3"
+    ]
+  },
+  {
+    "identifier": "ord-24-2020",
+    "title": "Ord 24 2020",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ord-24-2020/Ord 24 2020.mp3"
+    ]
+  },
+  {
+    "identifier": "orson_659",
+    "title": "orson",
+    "creator": "marcelo",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/orson_659/NaTribunaEspirita-111011NaTribunaEspirita.mp3",
+      "https://archive.org/download/orson_659/NaTribunaEspirita-111011NaTribunaEspirita.ogg"
+    ]
+  },
+  {
+    "identifier": "pablo-gatti-damnificado-incendio-epuyen",
+    "title": "Pablo Gatti Damnificado Incendio Epuyen",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/pablo-gatti-damnificado-incendio-epuyen/Pablo Gatti damnificado incendio Epuyen.mp3"
+    ]
+  },
+  {
+    "identifier": "partizzan1941_yandex_160",
+    "title": "\u0412\u0410\u041b\u0415\u0420\u0418\u0419 \u0411\u041e\u0415\u0412\u041a\u0418\u041d \u0420\u0435\u0432\u043e\u043b\u044c\u0432\u0435\u0440 (\u0422\u0410 160)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/partizzan1941_yandex_160/\u0412\u0410\u041b\u0415\u0420\u0418\u0419 \u0411\u041e\u0415\u0412\u041a\u0418\u041d - \u0420\u0435\u0432\u043e\u043b\u044c\u0432\u0435\u0440 (\u0422\u0410 160).mp3",
+      "https://archive.org/download/partizzan1941_yandex_160/\u0412\u0410\u041b\u0415\u0420\u0418\u0419 \u0411\u041e\u0415\u0412\u041a\u0418\u041d - \u0420\u0435\u0432\u043e\u043b\u044c\u0432\u0435\u0440 (\u0422\u0410 160).ogg"
+    ]
+  },
+  {
+    "identifier": "78_sax-appeal-chubby-jackson-and-his-all-star",
+    "title": "Sax appeal",
+    "creator": "Chubby Jackson and his all star band",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_sax-appeal-chubby-jackson-and-his-all-star/28317 Sax appeal.mp3"
+    ]
+  },
+  {
+    "identifier": "78_14858-I-en-kelder-sort-som-kul",
+    "title": "I en kalder sort som kul",
+    "creator": [
+      "Boolsen kvartetten",
+      "med orkester"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_14858-I-en-kelder-sort-som-kul/14858-I-en-kelder-sort-som-kul.mp3"
+    ]
+  },
+  {
+    "identifier": "78_13421-Take-a-gal-like-you",
+    "title": "Take a gal like you",
+    "creator": [
+      "Johs White and his Guitar",
+      "with rhythm accomp - supervised by Dennis Preston",
+      "Jacques Wolfe"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_13421-Take-a-gal-like-you/13421-Take-a-gal-like-you.mp3"
+    ]
+  },
+  {
+    "identifier": "georges-regiet-pierred-assa-adolphe-adam-le-chalet-gramophone-034037",
+    "title": "Georges Regiset Pierred Assay, Adolphe Adam, Le Chalet, Gramophone 034037",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/georges-regiet-pierred-assa-adolphe-adam-le-chalet-gramophone-034037/GeorgesRegisetPierredAssy,AdolpheAdam,LeChalet,Gramophone034037.mp3"
+    ]
+  },
+  {
+    "identifier": "78_13387-Wenn-du-einmal-dein-Herz-verschenkst",
+    "title": "Wenn du einmal dein Herz verschenkst",
+    "creator": [
+      "mit gesang",
+      "K. Schwalbach - M. Rosen",
+      "Pigmynette orch.",
+      "Willy Rosen"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_13387-Wenn-du-einmal-dein-Herz-verschenkst/13387-Wenn-du-einmal-dein-Herz-verschenkst.mp3"
+    ]
+  },
+  {
+    "identifier": "78_posin-fletcher-henderson-and-his-orchestra-cahn",
+    "title": "Posin'",
+    "creator": [
+      "Fletcher Henderson and his orchestra",
+      "Cahn - Chaplin"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_posin-fletcher-henderson-and-his-orchestra-cahn/26358 Posin'.mp3"
+    ]
+  },
+  {
+    "identifier": "78_seul-depuis-toujours-orchesta-direction-a-lasry-charles-trenet-ch-trenet-arr",
+    "title": "Seul - depuis toujours",
+    "creator": [
+      "Charles Trenet",
+      "Orchesta direction A. Lasry",
+      "Ch. Trenet, arr.: A. Lasry",
+      "Ch. Trenet"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_seul-depuis-toujours-orchesta-direction-a-lasry-charles-trenet-ch-trenet-arr/21201 Seul - depuis toujours.mp3"
+    ]
+  },
+  {
+    "identifier": "78_la-cucaracha-lecuona-cuban-boys-gertrude-niesen",
+    "title": "La cucaracha",
+    "creator": [
+      "Gertrude Niesen",
+      "Lecuona cuban boys",
+      "Adams"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_la-cucaracha-lecuona-cuban-boys-gertrude-niesen/21043 La cucaracha.mp3"
+    ]
+  },
+  {
+    "identifier": "78_la-vie-qui-va-accomp-par-wal-berg-et-son-orch-charles-trenet-charles",
+    "title": "La vie qui va",
+    "creator": [
+      "Charles Trenet",
+      "accomp. par Wal-Berg et son orch."
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_la-vie-qui-va-accomp-par-wal-berg-et-son-orch-charles-trenet-charles/19872 La vie qui va.mp3"
+    ]
+  },
+  {
+    "identifier": "78_en-avril-a-paris-orchestre-dir-jo-boyer-charles-trenet-charles-trene-et-walt",
+    "title": "En Avril a Paris",
+    "creator": [
+      "Charles Trenet",
+      "Orchestre dir.: Jo Boyer",
+      "Charles Trene et Walter Eiger"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_en-avril-a-paris-orchestre-dir-jo-boyer-charles-trenet-charles-trene-et-walt/22610 En Avril a Paris.mp3"
+    ]
+  },
+  {
+    "identifier": "_1a75VRO3dk",
+    "title": "Soothing Ambient Shehnai Melodies | Ustad Bismillah Khan | Indian Classical Instrumental Music",
+    "creator": "Saregama Hindustani Classical",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=_1a75VRO3dk"
+    ]
+  },
+  {
+    "identifier": "_ICVV4i9JOY",
+    "title": "Morning to Midnight Ragas | Hindustani Classical Instrumental | Sarod, Shehnai, Flute, Esraj",
+    "creator": "Saregama Hindustani Classical",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=_ICVV4i9JOY"
+    ]
+  },
+  {
+    "identifier": "4I8xS3TENnc",
+    "title": "N Ramani (Flute)-- (1 Hour Excellent Concert)",
+    "creator": "MyCarnatic",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=4I8xS3TENnc"
+    ]
+  },
+  {
+    "identifier": "EEXIY4-oWvE",
+    "title": "Thaaye Karumari I LR Eswari I #ammansongs I Nadhaswaram I Shri Kanaga Thurkkai Amman Ealing 2022",
+    "creator": "London Mathavan",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=EEXIY4-oWvE"
+    ]
+  },
+  {
+    "identifier": "gUp6dgQTR00",
+    "title": "Women Chenda Melam | Ultimate Temple Festival Energy \ud83d\udc18\ud83c\udfb6 | Indian Traditional Drumming",
+    "creator": "tamil bakthi",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=gUp6dgQTR00"
+    ]
   }
 ]
