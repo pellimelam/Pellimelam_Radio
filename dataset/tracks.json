@@ -131407,5 +131407,998 @@
     "audio_urls": [
       "https://youtube.com/watch?v=gUp6dgQTR00"
     ]
+  },
+  {
+    "identifier": "Bandcamp-3972384775",
+    "title": "Nasqueron - My Folks",
+    "creator": "Nasqueron",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/Bandcamp-3972384775/3972384775.mp3"
+    ]
+  },
+  {
+    "identifier": "casfjazz_000123",
+    "title": "San Francisco Jazz Festival 1992, Bobby Murray Blues Band and Larry Vuckovich",
+    "creator": "San Francisco Jazz Festival",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "ka-46-kay-kyser-by-u-by-o",
+    "title": "46. Kay Kyser - By-U By-O (Columbia 36422) 1941",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-46-kay-kyser-by-u-by-o/46. Kay Kyser - By-U By-O (Columbia 36422) 1941.mp3"
+    ]
+  },
+  {
+    "identifier": "jerrybumpus_20200421",
+    "title": "Q & A with Jerry Bumpus, graduate class",
+    "creator": "McCaffery, Larry",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/jerrybumpus_20200421/BumpusJerry3.mp3"
+    ]
+  },
+  {
+    "identifier": "ka-104-jack-smith-with-the-clark-sisters-dainty-brenda-lee",
+    "title": "104. Jack Smith with the Clark Sisters - Dainty Brenda Lee (Capitol 15328) 1948",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-104-jack-smith-with-the-clark-sisters-dainty-brenda-lee/104. Jack Smith with the Clark Sisters - Dainty Brenda Lee (Capitol 15328) 1948.mp3"
+    ]
+  },
+  {
+    "identifier": "ka-07-harry-james-i-dont-want-to-walk-without-you",
+    "title": "07. Harry James - I Don't Want to Walk Without You (Columbia 36478) 1941",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-07-harry-james-i-dont-want-to-walk-without-you/07. Harry James - I Don't Want to Walk Without You (Columbia 36478) 1941.mp3"
+    ]
+  },
+  {
+    "identifier": "ka-115-clyde-mccoy-i-just-love-affection",
+    "title": "115. Clyde McCoy - I Just Love Affection (Capitol 1937)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-115-clyde-mccoy-i-just-love-affection/115. Clyde McCoy - I Just Love Affection (Capitol 1937).mp3"
+    ]
+  },
+  {
+    "identifier": "ka-21-amos-and-andy-the-dairy",
+    "title": "21. Amos and Andy - The Dairy (Victor 22234)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-21-amos-and-andy-the-dairy/21. Amos and Andy - The Dairy (Victor 22234).mp3"
+    ]
+  },
+  {
+    "identifier": "ka-23-eddy-arnold-and-his-tennessee-plowboys-be-sure-theres-no-mistake",
+    "title": "23. Eddy Arnold and his Tennessee Plowboys - Be Sure There's No Mistake (RCA Victor 20-2058) 1946",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-23-eddy-arnold-and-his-tennessee-plowboys-be-sure-theres-no-mistake/23. Eddy Arnold and his Tennessee Plowboys - Be Sure There's No Mistake (RCA Victor 20-2058) 1946.mp3"
+    ]
+  },
+  {
+    "identifier": "ka-28-margaret-whiting-the-sun-is-always-shineing",
+    "title": "28. Margaret whiting - The sun is always shineing (Capitol 57-776)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-28-margaret-whiting-the-sun-is-always-shineing/28. Margaret whiting - The sun is always shineing (Capitol 57-776).mp3"
+    ]
+  },
+  {
+    "identifier": "ka-30-duke-ellington-you-of-all-people",
+    "title": "30. Duke Ellington - You of All People (Columbia 38606)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-30-duke-ellington-you-of-all-people/30. Duke Ellington - You of All People (Columbia 38606).mp3"
+    ]
+  },
+  {
+    "identifier": "ka-43-three-suns-once-in-a-while-majestic-1043-1946",
+    "title": "43. Three Suns - Once in a While (Majestic 1043) 1946",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-43-three-suns-once-in-a-while-majestic-1043-1946/43. Three Suns - Once in a While (Majestic 1043) 1946.mp3"
+    ]
+  },
+  {
+    "identifier": "ka-13-eddy-arnold-the-tennessee-plowboy-theres-not-a-thing",
+    "title": "13. Eddy Arnold the Tennessee Plowboy - There's Not a Thing (RCA Victor 21-0002)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-13-eddy-arnold-the-tennessee-plowboy-theres-not-a-thing/13. Eddy Arnold the Tennessee Plowboy - There's Not a Thing (RCA Victor 21-0002).mp3"
+    ]
+  },
+  {
+    "identifier": "ka-47-del-gilman-and-his-bar-x-boys-i-cant-help-it",
+    "title": "47. Del Gilman and his Bar-X Boys - I Can't Help It (Tops 298)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-47-del-gilman-and-his-bar-x-boys-i-cant-help-it/47. Del Gilman and his Bar-X Boys - I Can't Help It (Tops 298).mp3"
+    ]
+  },
+  {
+    "identifier": "ka-55-russ-morgan-careless-kisses",
+    "title": "55. Russ Morgan - Careless Kisses (Decca 24814) 1949",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-55-russ-morgan-careless-kisses/55. Russ Morgan - Careless Kisses (Decca 24814) 1949.mp3"
+    ]
+  },
+  {
+    "identifier": "ka-57-tony-martin-too-marvelous-for-words",
+    "title": "57. Tony Martin - Too Marvelous for Words (RCA Victor 20-2293)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-57-tony-martin-too-marvelous-for-words/57. Tony Martin - Too Marvelous for Words (RCA Victor 20-2293).mp3"
+    ]
+  },
+  {
+    "identifier": "ka-73-andrews-sisters-with-vic-schoen-rancho-pillow",
+    "title": "73. Andrews Sisters with Vic Schoen - Rancho Pillow (Decca 4019) skip",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-73-andrews-sisters-with-vic-schoen-rancho-pillow/73. Andrews Sisters with Vic Schoen - Rancho Pillow (Decca 4019) skip.mp3"
+    ]
+  },
+  {
+    "identifier": "ka-81-patti-page-my-restless-lover-mercury-70302-1954",
+    "title": "81. Patti Page - My Restless Lover (Mercury 70302) 1954",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-81-patti-page-my-restless-lover-mercury-70302-1954/81. Patti Page - My Restless Lover (Mercury 70302) 1954.mp3"
+    ]
+  },
+  {
+    "identifier": "ka-diggin-a-hole",
+    "title": "Diggin' A Hole",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-diggin-a-hole/Diggin' A Hole.mp3"
+    ]
+  },
+  {
+    "identifier": "ka-its-worth-it-with-joy-mckean",
+    "title": "It's Worth It (With Joy McKean)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-its-worth-it-with-joy-mckean/It's Worth It (With Joy McKean).mp3"
+    ]
+  },
+  {
+    "identifier": "lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla",
+    "title": "Canciones Populares Espa\u00f1olas",
+    "creator": [
+      "Teresa Berganza",
+      "Felix Lavilla"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.01. Pregon.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.01. Pregon_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.02. Mediterranea.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.02. Mediterranea_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.03. Solo Las Flores.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.03. Solo Las Flores_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.04. Te Presentia Como El Mar.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.04. Te Presentia Como El Mar_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.05. Cancao De Berco.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.05. Cancao De Berco_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.06. Ai, Que Linda Moca.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.06. Ai, Que Linda Moca_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.07. Cancion De Cuna.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.07. Cancion De Cuna_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.08. El Puente Y El Arroyo.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.08. El Puente Y El Arroyo_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.09. Triptico.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/01.09. Triptico_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.01. Cancion De Cuna.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.01. Cancion De Cuna_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.02. De Ronda.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.02. De Ronda_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.03. Adela.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.03. Adela_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.04. Cancion De Baile Con Pandero.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.04. Cancion De Baile Con Pandero_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.05. Cuatro Canciones Espanolas.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.05. Cuatro Canciones Espanolas_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.06. Nana.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.06. Nana_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.07. Dos Canciones Castellanas.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.07. Dos Canciones Castellanas_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.08. As Frolinas Dos Toxos.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.08. As Frolinas Dos Toxos_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.09. Menta Y Farigola.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/02.09. Menta Y Farigola_sample.mp3",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla_disc1side1.flac",
+      "https://archive.org/download/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla/disc1/lp_canciones-populares-espaolas_teresa-berganza-felix-lavilla_disc1side2.flac"
+    ]
+  },
+  {
+    "identifier": "Flex_Vs_Kamikaze_-_THR_July_10_99",
+    "title": "Flex Vs Kamikaze - THR July 10 99",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/Flex_Vs_Kamikaze_-_THR_July_10_99/Flex Vs Kamikaze - THR July 10 99 Side A.mp3",
+      "https://archive.org/download/Flex_Vs_Kamikaze_-_THR_July_10_99/Flex Vs Kamikaze - THR July 10 99 Side A.ogg",
+      "https://archive.org/download/Flex_Vs_Kamikaze_-_THR_July_10_99/Flex Vs Kamikaze - THR July 10 99 Side B.mp3",
+      "https://archive.org/download/Flex_Vs_Kamikaze_-_THR_July_10_99/Flex Vs Kamikaze - THR July 10 99 Side B.ogg"
+    ]
+  },
+  {
+    "identifier": "lp_water-music-complete_georg-friedrich-handel-berliner-philhar",
+    "title": "Water Music (Complete)",
+    "creator": [
+      "Georg Friedrich H\u00e4ndel",
+      "Berliner Philharmoniker",
+      "Fritz Lehmann"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.01. Water Music - Concerto No. 25: Overture.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.01. Water Music - Concerto No. 25: Overture_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.02. Water Music - Concerto No. 25: Adagio.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.02. Water Music - Concerto No. 25: Adagio_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.03. Water Music - Concerto No. 25: Allegro - Andante - Allegro.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.03. Water Music - Concerto No. 25: Allegro - Andante - Allegro_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.04. Water Music - Concerto No. 25: Menuet.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.04. Water Music - Concerto No. 25: Menuet_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.05. Water Music - Concerto No. 25: Air.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.05. Water Music - Concerto No. 25: Air_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.06. Water Music - Concerto No. 25: Menuet.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.06. Water Music - Concerto No. 25: Menuet_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.07. Water Music - Concerto No. 25: Bouree.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/01.07. Water Music - Concerto No. 25: Bouree_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.01. Water Music - Concerto No. 25: Hornpipe.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.01. Water Music - Concerto No. 25: Hornpipe_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.02. Water Music - Concerto No. 25: Andante.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.02. Water Music - Concerto No. 25: Andante_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.03. Water Music - Concerto No. 25: Allegro Moderato.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.03. Water Music - Concerto No. 25: Allegro Moderato_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.04. Water Music - Concerto No. 25: Andante Allegro.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.04. Water Music - Concerto No. 25: Andante Allegro_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.05. Water Music - Concerto No. 25: Minuet.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.05. Water Music - Concerto No. 25: Minuet_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.06. Water Music - Concerto No. 25: Aria.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.06. Water Music - Concerto No. 25: Aria_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.07. Water Music - Concerto No. 25: Lentement.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.07. Water Music - Concerto No. 25: Lentement_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.08. Water Music - Concerto No. 25: Air.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.08. Water Music - Concerto No. 25: Air_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.09. Water Music - Concerto No. 25: Menuet.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.09. Water Music - Concerto No. 25: Menuet_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.10. Water Music - Concerto No. 25: Menuet.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.10. Water Music - Concerto No. 25: Menuet_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.11. Water Music - Concerto No. 25: Andante Moderato.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.11. Water Music - Concerto No. 25: Andante Moderato_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.12. Water Music - Concerto No. 25: Andante.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.12. Water Music - Concerto No. 25: Andante_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.13. Water Music - Concerto No. 25: Coro.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/02.13. Water Music - Concerto No. 25: Coro_sample.mp3",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/lp_water-music-complete_georg-friedrich-handel-berliner-philhar_disc1side1.flac",
+      "https://archive.org/download/lp_water-music-complete_georg-friedrich-handel-berliner-philhar/disc1/lp_water-music-complete_georg-friedrich-handel-berliner-philhar_disc1side2.flac"
+    ]
+  },
+  {
+    "identifier": "lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra",
+    "title": "Shorty'S Old Favorites",
+    "creator": "Shorty Shoemaker And His Orchestra",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.01. Nebraska Polka .mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.01. Nebraska Polka _sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.02. Frances Waltz.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.02. Frances Waltz_sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.03. Chained To A Memory Of You .mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.03. Chained To A Memory Of You _sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.04. E Flat- A Flat Polka .mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.04. E Flat- A Flat Polka _sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.05. Springtime In The Rockies .mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.05. Springtime In The Rockies _sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.06. Your Cheatin' Heart.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.06. Your Cheatin' Heart_sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.07. Linda Polka .mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/01.07. Linda Polka _sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.01. Susie Polka .mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.01. Susie Polka _sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.02. San Antonio Rose.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.02. San Antonio Rose_sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.03. Nobody's Darlin' But Mine .mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.03. Nobody's Darlin' But Mine _sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.04. Headin' Down The Wrong Highway.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.04. Headin' Down The Wrong Highway_sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.05. Old Lady Polka .mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.05. Old Lady Polka _sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.06. Oh How I Miss You Tonight .mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.06. Oh How I Miss You Tonight _sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.07. Outdoor Waltz.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/02.07. Outdoor Waltz_sample.mp3",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra_disc1side1.flac",
+      "https://archive.org/download/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra/disc1/lp_shortys-old-favorites_shorty-shoemaker-and-his-orchestra_disc1side2.flac"
+    ]
+  },
+  {
+    "identifier": "lp_musikalische-musketiere-75_musikalische-musketiere-ev",
+    "title": "Musikalische Musketiere 75",
+    "creator": "Musikalische Musketiere e.V.",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/01.01. Dixie Parade.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/01.02. Mixed Pickles \u2013 Modern Selection.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/01.03. Spanischer Zigeunertanz.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/01.04. Swinging Bavaria.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/01.05. La Cucaracha.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/01.06. Amazing Grace.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/02.01. Anker Gelichtet.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/02.02. Pan American.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/02.03. Spaniens Gitarren.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/02.04. Night Flight.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/02.05. Tiger Rag Smil.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/02.06. St. Louis-Blues-March.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/02.07. Gr\u00fc\u00dfe Aus Amerika - Hill-Billy- Und Western Potpourri.mp3",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/lp_musikalische-musketiere-75_musikalische-musketiere-ev_disc1side1.flac",
+      "https://archive.org/download/lp_musikalische-musketiere-75_musikalische-musketiere-ev/disc1/lp_musikalische-musketiere-75_musikalische-musketiere-ev_disc1side2.flac"
+    ]
+  },
+  {
+    "identifier": "lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju",
+    "title": "Trois Esquisses Symphoniques Pour Orchestre / Concerto Pour Deux Pianos Et Orchestre",
+    "creator": [
+      "Ren\u00e9 Defossez",
+      "Belgian National Orchestra",
+      "Juliette Poumay",
+      "Suzette Gobert"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/01.01. Trois Esquisses Symphoniques Pour Orchestre: Giocoso.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/01.01. Trois Esquisses Symphoniques Pour Orchestre: Giocoso_sample.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/01.02. Trois Esquisses Symphoniques Pour Orchestre: Ostinato.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/01.02. Trois Esquisses Symphoniques Pour Orchestre: Ostinato_sample.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/01.03. Trois Esquisses Symphoniques Pour Orchestre: Animato.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/01.03. Trois Esquisses Symphoniques Pour Orchestre: Animato_sample.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/02.01. Concerto Pour Deux Pianos Et Orchestre: Furioso e Marcato.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/02.01. Concerto Pour Deux Pianos Et Orchestre: Furioso e Marcato_sample.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/02.02. Concerto Pour Deux Pianos Et Orchestre: Relioso.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/02.02. Concerto Pour Deux Pianos Et Orchestre: Relioso_sample.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/02.03. Concerto Pour Deux Pianos Et Orchestre: Allegro giocoso.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/02.03. Concerto Pour Deux Pianos Et Orchestre: Allegro giocoso_sample.mp3",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju_disc1side1.flac",
+      "https://archive.org/download/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju/disc1/lp_trois-esquisses-symphoniques-pour-orchestr_ren-defossez-belgian-national-orchestra-ju_disc1side2.flac"
+    ]
+  },
+  {
+    "identifier": "031_20231211",
+    "title": "Odlyan, seu Aeris Libertatis",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/031_20231211/001.mp3",
+      "https://archive.org/download/031_20231211/002.mp3",
+      "https://archive.org/download/031_20231211/003.mp3",
+      "https://archive.org/download/031_20231211/004.mp3",
+      "https://archive.org/download/031_20231211/005.mp3",
+      "https://archive.org/download/031_20231211/006.mp3",
+      "https://archive.org/download/031_20231211/007.mp3",
+      "https://archive.org/download/031_20231211/008.mp3",
+      "https://archive.org/download/031_20231211/009.mp3",
+      "https://archive.org/download/031_20231211/010.mp3",
+      "https://archive.org/download/031_20231211/011.mp3",
+      "https://archive.org/download/031_20231211/012.mp3",
+      "https://archive.org/download/031_20231211/013.mp3",
+      "https://archive.org/download/031_20231211/014.mp3",
+      "https://archive.org/download/031_20231211/015.mp3",
+      "https://archive.org/download/031_20231211/016.mp3",
+      "https://archive.org/download/031_20231211/017.mp3",
+      "https://archive.org/download/031_20231211/018.mp3",
+      "https://archive.org/download/031_20231211/019.mp3",
+      "https://archive.org/download/031_20231211/020.mp3",
+      "https://archive.org/download/031_20231211/021.mp3",
+      "https://archive.org/download/031_20231211/022.mp3",
+      "https://archive.org/download/031_20231211/023.mp3",
+      "https://archive.org/download/031_20231211/024.mp3",
+      "https://archive.org/download/031_20231211/025.mp3",
+      "https://archive.org/download/031_20231211/026.mp3",
+      "https://archive.org/download/031_20231211/027.mp3",
+      "https://archive.org/download/031_20231211/028.mp3",
+      "https://archive.org/download/031_20231211/029.mp3",
+      "https://archive.org/download/031_20231211/030.mp3",
+      "https://archive.org/download/031_20231211/031.mp3",
+      "https://archive.org/download/031_20231211/032.mp3",
+      "https://archive.org/download/031_20231211/033.mp3",
+      "https://archive.org/download/031_20231211/034.mp3",
+      "https://archive.org/download/031_20231211/035.mp3",
+      "https://archive.org/download/031_20231211/036.mp3",
+      "https://archive.org/download/031_20231211/037.mp3",
+      "https://archive.org/download/031_20231211/038.mp3",
+      "https://archive.org/download/031_20231211/039.mp3",
+      "https://archive.org/download/031_20231211/040.mp3",
+      "https://archive.org/download/031_20231211/041.mp3",
+      "https://archive.org/download/031_20231211/042.mp3",
+      "https://archive.org/download/031_20231211/043.mp3",
+      "https://archive.org/download/031_20231211/044.mp3",
+      "https://archive.org/download/031_20231211/045.mp3",
+      "https://archive.org/download/031_20231211/046.mp3",
+      "https://archive.org/download/031_20231211/047.mp3",
+      "https://archive.org/download/031_20231211/048.mp3",
+      "https://archive.org/download/031_20231211/049.mp3",
+      "https://archive.org/download/031_20231211/050.mp3",
+      "https://archive.org/download/031_20231211/051.mp3",
+      "https://archive.org/download/031_20231211/052.mp3",
+      "https://archive.org/download/031_20231211/053.mp3",
+      "https://archive.org/download/031_20231211/054.mp3",
+      "https://archive.org/download/031_20231211/055.mp3",
+      "https://archive.org/download/031_20231211/056.mp3",
+      "https://archive.org/download/031_20231211/057.mp3",
+      "https://archive.org/download/031_20231211/058.mp3",
+      "https://archive.org/download/031_20231211/059.mp3",
+      "https://archive.org/download/031_20231211/060.mp3",
+      "https://archive.org/download/031_20231211/061.mp3",
+      "https://archive.org/download/031_20231211/062.mp3",
+      "https://archive.org/download/031_20231211/063.mp3",
+      "https://archive.org/download/031_20231211/064.mp3",
+      "https://archive.org/download/031_20231211/065.mp3",
+      "https://archive.org/download/031_20231211/066.mp3",
+      "https://archive.org/download/031_20231211/067.mp3",
+      "https://archive.org/download/031_20231211/068.mp3",
+      "https://archive.org/download/031_20231211/069.mp3",
+      "https://archive.org/download/031_20231211/070.mp3",
+      "https://archive.org/download/031_20231211/071.mp3",
+      "https://archive.org/download/031_20231211/072.mp3",
+      "https://archive.org/download/031_20231211/073.mp3",
+      "https://archive.org/download/031_20231211/074.mp3",
+      "https://archive.org/download/031_20231211/075.mp3",
+      "https://archive.org/download/031_20231211/076.mp3",
+      "https://archive.org/download/031_20231211/077.mp3",
+      "https://archive.org/download/031_20231211/078.mp3",
+      "https://archive.org/download/031_20231211/079.mp3",
+      "https://archive.org/download/031_20231211/080.mp3",
+      "https://archive.org/download/031_20231211/081.mp3",
+      "https://archive.org/download/031_20231211/082.mp3",
+      "https://archive.org/download/031_20231211/083.mp3",
+      "https://archive.org/download/031_20231211/084.mp3",
+      "https://archive.org/download/031_20231211/085.mp3",
+      "https://archive.org/download/031_20231211/086.mp3",
+      "https://archive.org/download/031_20231211/087.mp3",
+      "https://archive.org/download/031_20231211/088.mp3",
+      "https://archive.org/download/031_20231211/089.mp3",
+      "https://archive.org/download/031_20231211/090.mp3",
+      "https://archive.org/download/031_20231211/091.mp3",
+      "https://archive.org/download/031_20231211/092.mp3",
+      "https://archive.org/download/031_20231211/093.mp3",
+      "https://archive.org/download/031_20231211/094.mp3",
+      "https://archive.org/download/031_20231211/095.mp3",
+      "https://archive.org/download/031_20231211/096.mp3",
+      "https://archive.org/download/031_20231211/097.mp3",
+      "https://archive.org/download/031_20231211/098.mp3",
+      "https://archive.org/download/031_20231211/099.mp3",
+      "https://archive.org/download/031_20231211/100.mp3",
+      "https://archive.org/download/031_20231211/101.mp3",
+      "https://archive.org/download/031_20231211/102.mp3",
+      "https://archive.org/download/031_20231211/103.mp3",
+      "https://archive.org/download/031_20231211/104.mp3",
+      "https://archive.org/download/031_20231211/105.mp3",
+      "https://archive.org/download/031_20231211/106.mp3",
+      "https://archive.org/download/031_20231211/107.mp3",
+      "https://archive.org/download/031_20231211/108.mp3",
+      "https://archive.org/download/031_20231211/109.mp3",
+      "https://archive.org/download/031_20231211/110.mp3",
+      "https://archive.org/download/031_20231211/111.mp3",
+      "https://archive.org/download/031_20231211/112.mp3"
+    ]
+  },
+  {
+    "identifier": "032-032",
+    "title": "La venganza del orco",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/032-032/028 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 028.mp3",
+      "https://archive.org/download/032-032/029 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 029.mp3",
+      "https://archive.org/download/032-032/030 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 030.mp3",
+      "https://archive.org/download/032-032/031 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 031.mp3",
+      "https://archive.org/download/032-032/032 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 032.mp3",
+      "https://archive.org/download/032-032/033 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 033.mp3",
+      "https://archive.org/download/032-032/034 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 034.mp3",
+      "https://archive.org/download/032-032/035 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 035.mp3",
+      "https://archive.org/download/032-032/036 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 036.mp3",
+      "https://archive.org/download/032-032/037 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 037.mp3",
+      "https://archive.org/download/032-032/038 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 038.mp3",
+      "https://archive.org/download/032-032/039 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 039.mp3",
+      "https://archive.org/download/032-032/040 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 040.mp3",
+      "https://archive.org/download/032-032/041 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 041.mp3",
+      "https://archive.org/download/032-032/042 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 042.mp3",
+      "https://archive.org/download/032-032/043 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 043.mp3",
+      "https://archive.org/download/032-032/044 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 044.mp3",
+      "https://archive.org/download/032-032/045 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 045.mp3",
+      "https://archive.org/download/032-032/046 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 046.mp3",
+      "https://archive.org/download/032-032/047 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 047.mp3",
+      "https://archive.org/download/032-032/048 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 048.mp3",
+      "https://archive.org/download/032-032/049 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 049.mp3",
+      "https://archive.org/download/032-032/050 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 050.mp3",
+      "https://archive.org/download/032-032/051 \u0425\u0432\u0430\u043b\u0430 \u041e\u0440\u043a\u0443 - \u0413\u043b\u0430\u0432\u0430 051.mp3"
+    ]
+  },
+  {
+    "identifier": "06052011gunahokinahusat6",
+    "title": "gunahokinahusat",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/06052011gunahokinahusat6/06052011gunahokinahusat6.mp3",
+      "https://archive.org/download/06052011gunahokinahusat6/06052011gunahokinahusat6.ogg"
+    ]
+  },
+  {
+    "identifier": "1919-15",
+    "title": "1919-15",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1919-15/Ak Ingin Engkau.ogg",
+      "https://archive.org/download/1919-15/Aku Dan Air Mata.ogg",
+      "https://archive.org/download/1919-15/Bersama terang.ogg",
+      "https://archive.org/download/1919-15/Bertahan.mp3",
+      "https://archive.org/download/1919-15/Bertahan.ogg",
+      "https://archive.org/download/1919-15/Biarkan Waktu.ogg",
+      "https://archive.org/download/1919-15/Bunda.ogg",
+      "https://archive.org/download/1919-15/Cinta Dimana.ogg",
+      "https://archive.org/download/1919-15/Cinta Tak Pernah Singgah.mp3",
+      "https://archive.org/download/1919-15/Cinta Tak Pernah Singgah.ogg",
+      "https://archive.org/download/1919-15/Cobalah.ogg",
+      "https://archive.org/download/1919-15/De Ja Vu.ogg",
+      "https://archive.org/download/1919-15/Dibawah Hujan.mp3",
+      "https://archive.org/download/1919-15/Dibawah Hujan.ogg",
+      "https://archive.org/download/1919-15/Dunia Lain.ogg",
+      "https://archive.org/download/1919-15/Guna Guna.mp3",
+      "https://archive.org/download/1919-15/Guna Guna.ogg",
+      "https://archive.org/download/1919-15/Ikuti Cahaya.ogg",
+      "https://archive.org/download/1919-15/Ingatku.mp3",
+      "https://archive.org/download/1919-15/Ingatku.ogg",
+      "https://archive.org/download/1919-15/Jatuh.ogg",
+      "https://archive.org/download/1919-15/Keinginan Tinggi.ogg",
+      "https://archive.org/download/1919-15/Kekasih Cadangan.mp3",
+      "https://archive.org/download/1919-15/Kekasih Cadangan.ogg",
+      "https://archive.org/download/1919-15/Ku Tetap Sayang.mp3",
+      "https://archive.org/download/1919-15/Ku Tetap Sayang.ogg",
+      "https://archive.org/download/1919-15/Kurindukan Namun.ogg",
+      "https://archive.org/download/1919-15/Lihatlah.ogg",
+      "https://archive.org/download/1919-15/Lima Menit.mp3",
+      "https://archive.org/download/1919-15/Lima Menit.ogg",
+      "https://archive.org/download/1919-15/Malaikat Pencabut Rindu.mp3",
+      "https://archive.org/download/1919-15/Malaikat Pencabut Rindu.ogg",
+      "https://archive.org/download/1919-15/Mendengar Dunia.ogg",
+      "https://archive.org/download/1919-15/Pergi.ogg",
+      "https://archive.org/download/1919-15/Sampah.mp3",
+      "https://archive.org/download/1919-15/Sampah.ogg",
+      "https://archive.org/download/1919-15/Sampai KAu Bicara.ogg",
+      "https://archive.org/download/1919-15/Sapuku Sapumu Sapu Sapu.mp3",
+      "https://archive.org/download/1919-15/Sapuku Sapumu Sapu Sapu.ogg",
+      "https://archive.org/download/1919-15/Selalu Begitu.ogg",
+      "https://archive.org/download/1919-15/Sepakbola.mp3",
+      "https://archive.org/download/1919-15/Sepakbola.ogg",
+      "https://archive.org/download/1919-15/Sesuatu Yang Sempurna.mp3",
+      "https://archive.org/download/1919-15/Sesuatu Yang Sempurna.ogg",
+      "https://archive.org/download/1919-15/Setiap Detik.ogg",
+      "https://archive.org/download/1919-15/Siang seberang istana.mp3",
+      "https://archive.org/download/1919-15/Siang seberang istana.ogg",
+      "https://archive.org/download/1919-15/Sisa Hati.ogg",
+      "https://archive.org/download/1919-15/Sore Tugu Pancoran.mp3",
+      "https://archive.org/download/1919-15/Sore Tugu Pancoran.ogg",
+      "https://archive.org/download/1919-15/Su Putri Dan Si Fulan.mp3",
+      "https://archive.org/download/1919-15/Su Putri Dan Si Fulan.ogg",
+      "https://archive.org/download/1919-15/Suara (Ku Berharap).mp3",
+      "https://archive.org/download/1919-15/Suara (Ku Berharap).ogg",
+      "https://archive.org/download/1919-15/Suara.ogg",
+      "https://archive.org/download/1919-15/Tunggu Aku Pulang.mp3",
+      "https://archive.org/download/1919-15/Tunggu Aku Pulang.ogg",
+      "https://archive.org/download/1919-15/dewi.ogg",
+      "https://archive.org/download/1919-15/rinduku.mp3",
+      "https://archive.org/download/1919-15/rinduku.ogg",
+      "https://archive.org/download/1919-15/selamat tidur sayang.mp3",
+      "https://archive.org/download/1919-15/selamat tidur sayang.ogg"
+    ]
+  },
+  {
+    "identifier": "1919-67",
+    "title": "1919-67",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1919-67/Kekasih Sejati ft Hedi Yunus.mp3",
+      "https://archive.org/download/1919-67/Kekasih Sejati ft Hedi Yunus.ogg",
+      "https://archive.org/download/1919-67/Malam Mingguku (feat. Airlangga).mp3",
+      "https://archive.org/download/1919-67/Malam Mingguku (feat. Airlangga).ogg",
+      "https://archive.org/download/1919-67/Manis.mp3",
+      "https://archive.org/download/1919-67/Manis.ogg",
+      "https://archive.org/download/1919-67/Mantan Terindah ft Raisa.mp3",
+      "https://archive.org/download/1919-67/Mantan Terindah ft Raisa.ogg",
+      "https://archive.org/download/1919-67/Menjaga Hati.mp3",
+      "https://archive.org/download/1919-67/Menjaga Hati.ogg",
+      "https://archive.org/download/1919-67/Mudah Melupakan.mp3",
+      "https://archive.org/download/1919-67/Mudah Melupakan.ogg",
+      "https://archive.org/download/1919-67/Obat Hati.ogg",
+      "https://archive.org/download/1919-67/Pada Hari Ini.ogg",
+      "https://archive.org/download/1919-67/Sakit Hati.mp3",
+      "https://archive.org/download/1919-67/Sakit Hati.ogg",
+      "https://archive.org/download/1919-67/Satu Mimpiku ft Marcell.mp3",
+      "https://archive.org/download/1919-67/Satu Mimpiku ft Marcell.ogg",
+      "https://archive.org/download/1919-67/Seindah rembulan.ogg",
+      "https://archive.org/download/1919-67/Sejuta Cinta.ogg",
+      "https://archive.org/download/1919-67/Selingkuh ft Monita.ogg",
+      "https://archive.org/download/1919-67/Sempat Memiliki.ogg",
+      "https://archive.org/download/1919-67/Seperti Bintang.mp3",
+      "https://archive.org/download/1919-67/Seperti Bintang.ogg",
+      "https://archive.org/download/1919-67/Suratku ft Alexa.mp3",
+      "https://archive.org/download/1919-67/Suratku ft Alexa.ogg",
+      "https://archive.org/download/1919-67/Tak Memilikimu.mp3",
+      "https://archive.org/download/1919-67/Tak Memilikimu.ogg",
+      "https://archive.org/download/1919-67/Tak Pandai Memilih.mp3",
+      "https://archive.org/download/1919-67/Tak Pandai Memilih.ogg",
+      "https://archive.org/download/1919-67/Tak setampan romeo.ogg",
+      "https://archive.org/download/1919-67/Tergoda Bidadari.mp3",
+      "https://archive.org/download/1919-67/Tergoda Bidadari.ogg",
+      "https://archive.org/download/1919-67/Together We Will Shine ft Andien.mp3",
+      "https://archive.org/download/1919-67/Together We Will Shine ft Andien.ogg",
+      "https://archive.org/download/1919-67/kamu bukan kekasihku.mp3",
+      "https://archive.org/download/1919-67/kamu bukan kekasihku.ogg",
+      "https://archive.org/download/1919-67/kemenangan hati.mp3",
+      "https://archive.org/download/1919-67/kemenangan hati.ogg",
+      "https://archive.org/download/1919-67/malam genic.mp3",
+      "https://archive.org/download/1919-67/malam genic.ogg",
+      "https://archive.org/download/1919-67/man jadda wajada (ost negeri 5 menara).ogg",
+      "https://archive.org/download/1919-67/manusia biasa.ogg",
+      "https://archive.org/download/1919-67/maukah denganku.mp3",
+      "https://archive.org/download/1919-67/maukah denganku.ogg",
+      "https://archive.org/download/1919-67/merenda kasih.mp3",
+      "https://archive.org/download/1919-67/merenda kasih.ogg",
+      "https://archive.org/download/1919-67/sampai akhir waktu.ogg",
+      "https://archive.org/download/1919-67/satu yg terindah.mp3",
+      "https://archive.org/download/1919-67/satu yg terindah.ogg",
+      "https://archive.org/download/1919-67/seandainya aku bisa terbang.mp3",
+      "https://archive.org/download/1919-67/seandainya aku bisa terbang.ogg",
+      "https://archive.org/download/1919-67/selingkuh.mp3",
+      "https://archive.org/download/1919-67/selingkuh.ogg",
+      "https://archive.org/download/1919-67/suratku.mp3",
+      "https://archive.org/download/1919-67/suratku.ogg",
+      "https://archive.org/download/1919-67/takkan terganti.mp3",
+      "https://archive.org/download/1919-67/takkan terganti.ogg",
+      "https://archive.org/download/1919-67/tentang diriku.mp3",
+      "https://archive.org/download/1919-67/tentang diriku.ogg"
+    ]
+  },
+  {
+    "identifier": "192-kbps_202306",
+    "title": "\u062d\u0644\u064a\u0629 \u0637\u0627\u0644\u0628 \u0627\u0644\u0639\u0644\u0645 \u0648\u0623\u062e\u0644\u0627\u0642 \u062d\u0645\u0644\u0629 \u0627\u0644\u0642\u0631\u0622\u0646",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/192-kbps_202306/\u0627\u0644\u062a\u0639\u0644\u064a\u0642 \u0639\u0644\u0649 #\u062d\u0644\u064a\u0629 \u0637\u0627\u0644\u0628 \u0627\u0644\u0639\u0644\u0645  \u0627\u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u062b\u0627\u0644\u062b \u0623 \u062f \u0639\u0645\u0631 \u0627\u0644\u0645\u0642\u0628\u0644 (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0627\u0644\u062a\u0639\u0644\u064a\u0642 \u0639\u0644\u0649 #\u062d\u0644\u064a\u0629 \u0637\u0627\u0644\u0628 \u0627\u0644\u0639\u0644\u0645  \u0627\u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u062e\u0627\u0645\u0633 \u0623 \u062f \u0639\u0645\u0631 \u0627\u0644\u0645\u0642\u0628\u0644 (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0627\u0644\u062a\u0639\u0644\u064a\u0642 \u0639\u0644\u0649 #\u062d\u0644\u064a\u0629 \u0637\u0627\u0644\u0628 \u0627\u0644\u0639\u0644\u0645  \u0627\u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u0631\u0627\u0628\u0639 \u0623 \u062f \u0639\u0645\u0631 \u0627\u0644\u0645\u0642\u0628\u0644 (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0627\u0644\u062a\u0639\u0644\u064a\u0642 \u0639\u0644\u0649 #\u062d\u0644\u064a\u0629 \u0637\u0627\u0644\u0628 \u0627\u0644\u0639\u0644\u0645  \u0627\u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u0633\u0627\u0628\u0639 \u0623 \u062f \u0639\u0645\u0631 \u0627\u0644\u0645\u0642\u0628\u0644  (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0627\u0644\u062a\u0639\u0644\u064a\u0642 \u0639\u0644\u0649 #\u062d\u0644\u064a\u0629 \u0637\u0627\u0644\u0628 \u0627\u0644\u0639\u0644\u0645  \u0627\u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u0633\u0627\u062f\u0633 \u0623 \u062f \u0639\u0645\u0631 \u0627\u0644\u0645\u0642\u0628\u0644 (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0627\u0644\u062a\u0639\u0644\u064a\u0642 \u0639\u0644\u0649 #\u062d\u0644\u064a\u0629 \u0637\u0627\u0644\u0628 \u0627\u0644\u0639\u0644\u0645 \u0627\u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u0623\u0648\u0644 \u0623 \u062f \u0639\u0645\u0631 \u0627\u0644\u0645\u0642\u0628\u0644 (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0627\u0644\u062a\u0639\u0644\u064a\u0642 \u0639\u0644\u0649 #\u062d\u0644\u064a\u0629 \u0637\u0627\u0644\u0628 \u0627\u0644\u0639\u0644\u0645 \u0627\u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u062b\u0627\u0646\u064a \u0623 \u062f \u0639\u0645\u0631 \u0627\u0644\u0645\u0642\u0628\u0644 (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0645\u062e\u062a\u0635\u0631 \u0623\u062e\u0644\u0627\u0642 \u062d\u0645\u0644\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0644\u0644\u0622\u062c\u0631\u064a (4) \u0645\u0646 \u0642\u0648\u0644\u0647 \u0639\u0646 \u0625\u064a\u0627\u0633 \u0628\u0646 \u0639\u0627\u0645\u0631 \u0623\u0646 \u0639\u0644\u064a \u0628\u0646 \u0623\u0628\u064a \u0637\u0627\u0644\u0628 \u0642\u0627\u0644\u0647 \u0644\u0647 \u0625\u0646\u0643 ... (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0645\u062e\u062a\u0635\u0631 \u0623\u062e\u0644\u0627\u0642 \u062d\u0645\u0644\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0644\u0644\u0622\u062c\u0631\u064a _ (1) \u0645\u0646 \u0628\u062f\u0627\u064a\u0629 \u0627\u0644\u0645\u062a\u0646 \u0625\u0644\u0649 \u0642\u0648\u0644 \u0627\u0644\u0645\u0627\u062a\u0646 \u062b\u0645 \u0625\u0646 \u0627\u0644\u0644\u0647 \u0639\u0632 \u0648\u062c\u0644 \u062d\u062b \u062e\u0644\u0642\u0647 .. (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0645\u062e\u062a\u0635\u0631 \u0623\u062e\u0644\u0627\u0642 \u062d\u0645\u0644\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0644\u0644\u0622\u062c\u0631\u064a _ (2) \u0645\u0646 \u0642\u0648\u0644\u0647 \u0623\u0644\u0627 \u062a\u0631\u0648\u0646 \u0631\u062d\u0645\u0643\u0645 \u0627\u0644\u0644\u0647 \u0625\u0644\u0649 \u0645\u0648\u0644\u0627\u0643\u0645 \u0627\u0644\u0643\u0631\u064a\u0645.. (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0645\u062e\u062a\u0635\u0631 \u0623\u062e\u0644\u0627\u0642 \u062d\u0645\u0644\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0644\u0644\u0622\u062c\u0631\u064a _ (3) \u0645\u0646 \u0642\u0648\u0644\u0647 \u0639\u0646 \u0639\u0642\u0628\u0629 \u0628\u0646 \u0639\u0627\u0645\u0631 \u064a\u0642\u0648\u0644 \u062e\u0631\u062c \u0625\u0644\u064a\u0646\u0627 \u0631\u0633\u0648\u0644 \u0627\u0644\u0644\u0647 .. (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0645\u062e\u062a\u0635\u0631 \u0623\u062e\u0644\u0627\u0642 \u062d\u0645\u0644\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0644\u0644\u0622\u062c\u0631\u064a _ (5) \u0645\u0646 \u0642\u0648\u0644\u0647 \u0648\u0623\u062d\u0628 \u0644\u0645\u0646 \u0643\u0627\u0646 \u064a\u064f\u0642\u0652\u0631\u0650\u0626\u064f \u0623\u0644\u0627 \u064a\u062f\u0631\u0633 \u0639\u0644\u064a\u0647 \u0648\u0642\u062a \u0627\u0644\u062f\u0631\u0633 \u0625\u0644\u0627 \u0648\u0627\u062d\u062f (192 kbps).mp3",
+      "https://archive.org/download/192-kbps_202306/\u0645\u062e\u062a\u0635\u0631 \u0623\u062e\u0644\u0627\u0642 \u062d\u0645\u0644\u0629 \u0627\u0644\u0642\u0631\u0622\u0646 \u0644\u0644\u0622\u062c\u0631\u064a _ (6) \u0645\u0646 \u0623\u0648\u0644 \u0628\u0627\u0628 \u0622\u062f\u0627\u0628 \u0627\u0644\u0642\u0631\u0627\u0621 \u0639\u0646\u062f \u062a\u0644\u0627\u0648\u062a\u0647\u0645 \u0627\u0644\u0642\u0631\u0622\u0646 \u0645\u0645\u0627 \u0644\u0627 \u064a\u0646\u0628\u063a\u064a \u0644\u0647\u0645.. (192 kbps).mp3"
+    ]
+  },
+  {
+    "identifier": "1920_20200313",
+    "title": "rasa sakit",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 13-14.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 15-16.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 17-18.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 19-20.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 21-22.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 23-24.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 25-26.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 27-28.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 29-30.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 31-32.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 33-34.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 35-36.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 37-38.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 39-40.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 41-42.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 43-44.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 45-46.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 47-48.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 49-50.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 51-52.mp3",
+      "https://archive.org/download/1920_20200313/\u0413\u043b\u0430\u0432\u044b 53-54.mp3"
+    ]
+  },
+  {
+    "identifier": "14toProgramaCarpeDiem",
+    "title": "14to programa CArpe Diem",
+    "creator": "Dietytan",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/14toProgramaCarpeDiem/03-02-11.mp3",
+      "https://archive.org/download/14toProgramaCarpeDiem/03-02-11.ogg"
+    ]
+  },
+  {
+    "identifier": "15098620532901197598455",
+    "title": "15098620532901197598455",
+    "creator": "",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "1566644437-0003",
+    "title": "1566644437 0003",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1566644437-0003/1566644332_0001.mp3",
+      "https://archive.org/download/1566644437-0003/1566644367_0002.mp3",
+      "https://archive.org/download/1566644437-0003/1566644437_0003.mp3",
+      "https://archive.org/download/1566644437-0003/1566644473_0004.mp3",
+      "https://archive.org/download/1566644437-0003/1566644497_0005.mp3",
+      "https://archive.org/download/1566644437-0003/1566644525_0006.mp3",
+      "https://archive.org/download/1566644437-0003/1566644550_0007.mp3",
+      "https://archive.org/download/1566644437-0003/1566644571_0008.mp3",
+      "https://archive.org/download/1566644437-0003/1566644591_0009.mp3",
+      "https://archive.org/download/1566644437-0003/1566644620_0010.mp3",
+      "https://archive.org/download/1566644437-0003/1566644648_0011.mp3",
+      "https://archive.org/download/1566644437-0003/1566644692_0012.mp3",
+      "https://archive.org/download/1566644437-0003/1566644738_0013.mp3",
+      "https://archive.org/download/1566644437-0003/1566644797_0014.mp3",
+      "https://archive.org/download/1566644437-0003/1566644876_0015.mp3",
+      "https://archive.org/download/1566644437-0003/1566644970_0016.mp3",
+      "https://archive.org/download/1566644437-0003/1566645075_0017.mp3",
+      "https://archive.org/download/1566644437-0003/1566645150_0018.mp3",
+      "https://archive.org/download/1566644437-0003/1566645228_0019.mp3",
+      "https://archive.org/download/1566644437-0003/1566645280_0020.mp3",
+      "https://archive.org/download/1566644437-0003/1566645324_0021.mp3",
+      "https://archive.org/download/1566644437-0003/1566645367_0022.mp3",
+      "https://archive.org/download/1566644437-0003/1566645402_0023.mp3",
+      "https://archive.org/download/1566644437-0003/1566645426_0024.mp3",
+      "https://archive.org/download/1566644437-0003/1566645455_0025.mp3",
+      "https://archive.org/download/1566644437-0003/1566645506_0026.mp3",
+      "https://archive.org/download/1566644437-0003/1566645548_0027.mp3",
+      "https://archive.org/download/1566644437-0003/1566645581_0028.mp3",
+      "https://archive.org/download/1566644437-0003/1566645621_0029.mp3",
+      "https://archive.org/download/1566644437-0003/1566645657_0030.mp3",
+      "https://archive.org/download/1566644437-0003/1566645684_0031.mp3",
+      "https://archive.org/download/1566644437-0003/1566645719_0032.mp3",
+      "https://archive.org/download/1566644437-0003/1566645769_0033.mp3",
+      "https://archive.org/download/1566644437-0003/1566645819_0034.mp3",
+      "https://archive.org/download/1566644437-0003/1566645873_0035.mp3",
+      "https://archive.org/download/1566644437-0003/1566645910_0036.mp3",
+      "https://archive.org/download/1566644437-0003/1566645943_0037.mp3",
+      "https://archive.org/download/1566644437-0003/1566646019_0038.mp3",
+      "https://archive.org/download/1566644437-0003/1566646110_0039.mp3",
+      "https://archive.org/download/1566644437-0003/1566646183_0040.mp3",
+      "https://archive.org/download/1566644437-0003/1566646281_0041.mp3",
+      "https://archive.org/download/1566644437-0003/1566646391_0042.mp3",
+      "https://archive.org/download/1566644437-0003/1566646466_0043.mp3",
+      "https://archive.org/download/1566644437-0003/1566646547_0044.mp3",
+      "https://archive.org/download/1566644437-0003/1566646628_0045.mp3",
+      "https://archive.org/download/1566644437-0003/1566646675_0046.mp3",
+      "https://archive.org/download/1566644437-0003/1566646742_0047.mp3",
+      "https://archive.org/download/1566644437-0003/1566646805_0048.mp3",
+      "https://archive.org/download/1566644437-0003/1566646875_0049.mp3",
+      "https://archive.org/download/1566644437-0003/1566646923_0050.mp3",
+      "https://archive.org/download/1566644437-0003/1566646971_0051.mp3",
+      "https://archive.org/download/1566644437-0003/1566647019_0052.mp3",
+      "https://archive.org/download/1566644437-0003/1566647073_0053.mp3",
+      "https://archive.org/download/1566644437-0003/1566647129_0054.mp3",
+      "https://archive.org/download/1566644437-0003/1566647189_0055.mp3",
+      "https://archive.org/download/1566644437-0003/1566647258_0056.mp3",
+      "https://archive.org/download/1566644437-0003/1566647320_0057.mp3",
+      "https://archive.org/download/1566644437-0003/1566647383_0058.mp3",
+      "https://archive.org/download/1566644437-0003/1566647432_0059.mp3",
+      "https://archive.org/download/1566644437-0003/1566647466_0060.mp3"
+    ]
+  },
+  {
+    "identifier": "17JuanCarlosMonederoAlbertoFordPolticaDeLaPresenciaOPollticaRepresentativa",
+    "title": "17 Juan Carlos Monedero Alberto Ford ( Pol\u00edtica De La Presencia O Pol\u00edtica Representativa)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/17JuanCarlosMonederoAlbertoFordPolticaDeLaPresenciaOPollticaRepresentativa/17 Juan Carlos Monedero-Alberto Ford (Pol%C3%ADtica de la presencia o Pol%C3%ADtica representativa).mp3",
+      "https://archive.org/download/17JuanCarlosMonederoAlbertoFordPolticaDeLaPresenciaOPollticaRepresentativa/17 Juan Carlos Monedero-Alberto Ford (Pol%C3%ADtica de la presencia o Pol%C3%ADtica representativa).ogg"
+    ]
+  },
+  {
+    "identifier": "17_20200404",
+    "title": "\u1290\u1343",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (01).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (02).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (03).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (04).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (05).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (06).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (07).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (08).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (09).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (10).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (11).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (12).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (13).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (14).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (15).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (16).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (17).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (18).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (19).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (20).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (21).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (22).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (23).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (24).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (25).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (26).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (27).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (28).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (29).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (30).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (31).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (32).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (33).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (34).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (35).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (36).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (37).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (38).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (39).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (40).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (41).mp3",
+      "https://archive.org/download/17_20200404/\u0421\u0442\u0438\u0432 \u0414\u0436\u043e\u0431\u0441 (42).mp3"
+    ]
+  },
+  {
+    "identifier": "78_mickey-mouse-rheinlender-gellin-borgstroms-nyheds-kvintet-nils",
+    "title": "Mickey Mouse Rheinlender",
+    "creator": [
+      "Gellin & Borgstr\u00f8ms nyheds kvintet",
+      "Nils Wollter"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_mickey-mouse-rheinlender-gellin-borgstroms-nyheds-kvintet-nils/28529 Mickey Mouse Rheinlender.mp3"
+    ]
+  },
+  {
+    "identifier": "78_begin-the-beguine-eddie-heywood-and-his-orchestra-cole",
+    "title": "Begin the Beguine",
+    "creator": [
+      "Eddie Heywood and his orchestra",
+      "Cole Porter"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_begin-the-beguine-eddie-heywood-and-his-orchestra-cole/21429 Begin the Beguine.mp3"
+    ]
+  },
+  {
+    "identifier": "78_e-liliu-e-hula-beautiful-queen-the-tau-moe-trio-felix-mendelssohn-and-his-ha",
+    "title": "E-Liliu-E, Hula (Beautiful Queen)",
+    "creator": [
+      "Felix Mendelssohn and His Hawaiian Serenaders",
+      "The Tau Moe Trio",
+      "Tau Moe"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_e-liliu-e-hula-beautiful-queen-the-tau-moe-trio-felix-mendelssohn-and-his-ha/27336 E-Liliu-E, - Felix Mendelssohn and His Hawaiian Serenaders.mp3"
+    ]
+  },
+  {
+    "identifier": "78_4495-Stranger-in-paradise",
+    "title": "Stranger in paradise",
+    "creator": [
+      "Eddie Calvert",
+      "Norrie Paramor",
+      "Wright - Forrest"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_4495-Stranger-in-paradise/4495-Stranger-in-paradise.mp3"
+    ]
+  },
+  {
+    "identifier": "78_the-man-i-love-with-orchestra-dorothy-lamour",
+    "title": "The man I love",
+    "creator": [
+      "Dorothy Lamour",
+      "with orchestra",
+      "Gershwin"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_the-man-i-love-with-orchestra-dorothy-lamour/26059 The man I love.mp3"
+    ]
+  },
+  {
+    "identifier": "78_14770-Den-glade-vandraren",
+    "title": "Den glade vandraren",
+    "creator": [
+      "Alice Babs",
+      "Harry Arnolds orkester",
+      "F.W. Maller - G. Wersen"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_14770-Den-glade-vandraren/14770-Den-glade-vandraren.mp3"
+    ]
+  },
+  {
+    "identifier": "78_1778-Vals-pa-Furusund",
+    "title": "Vals i Furusund",
+    "creator": [
+      "Calle Reinholdz",
+      "Evert Taube",
+      "Jularbo jun."
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_1778-Vals-pa-Furusund/1778-Vals-pa-Furusund.mp3"
+    ]
+  },
+  {
+    "identifier": "78_8286-Laura",
+    "title": "Laura",
+    "creator": [
+      "Stan Kenton and his orch",
+      "Rankin Mercer"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_8286-Laura/8286-Laura.mp3"
+    ]
+  },
+  {
+    "identifier": "SWrqN_mJIrM",
+    "title": "Trichur Brothers ||  Srikrishna Mohan and Ramkumar Mohan || Carnatic classical musicians.",
+    "creator": "Anamika Edathara",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=SWrqN_mJIrM"
+    ]
+  },
+  {
+    "identifier": "08hdYTsRINw",
+    "title": "Sriman Narayana | Nadaswaram | Nemmara Brothers | Shree Vishnumoorthi Temple, Kodangala",
+    "creator": "Karthik S Mudrady",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=08hdYTsRINw"
+    ]
   }
 ]
