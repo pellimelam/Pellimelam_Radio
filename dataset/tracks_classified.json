@@ -25272,5 +25272,25 @@
       "https://youtube.com/watch?v=08hdYTsRINw"
     ],
     "instrument": "nadaswaram"
+  },
+  {
+    "identifier": "0uKRRt3GogU",
+    "title": "Shape of You Medley (Live) - Carnatic 2.0 | Mahesh Raghvan & Shravan Sridhar",
+    "creator": "Mahesh Raghvan",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=0uKRRt3GogU"
+    ],
+    "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "CVxRL9Cczms",
+    "title": "Carnatic Concert K.S Harishankar | Vaikkom Mahadeva Temple Carnatic Concert K.S Harishankar #live",
+    "creator": "Yatras Channel",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=CVxRL9Cczms"
+    ],
+    "instrument": "temple_music"
   }
 ]
