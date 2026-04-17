@@ -24847,5 +24847,36 @@
     "audio_urls": [
       "https://youtube.com/watch?v=JHGOXy5Y3vU"
     ]
+  },
+  {
+    "identifier": "78_2910-I-templets-lyse-hal",
+    "title": "I templets lyse hal",
+    "creator": [
+      "Stefan Islandi & Henry Skjar",
+      "Det Kgl. Kapel",
+      "Bizet"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_2910-I-templets-lyse-hal/2910-I-templets-lyse-hal.mp3"
+    ]
+  },
+  {
+    "identifier": "T9K0VfAyxLs",
+    "title": "Mahaganapathim | P Jayachandran | Natta | Muthuswami Deekshithar | Carnatic Classical",
+    "creator": "Carnatic Classical Manorama Music",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=T9K0VfAyxLs"
+    ]
+  },
+  {
+    "identifier": "DCmWBJm1Y0U",
+    "title": "2014 - Concert by Dr. M Balamuralikrishna (Carnatic Vocal) - Part One",
+    "creator": "Bharatiya Samagana Sabha",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=DCmWBJm1Y0U"
+    ]
   }
 ]
