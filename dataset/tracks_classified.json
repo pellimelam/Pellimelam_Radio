@@ -26319,5 +26319,50 @@
       "https://youtube.com/watch?v=LxgGPWDGHVA"
     ],
     "instrument": "chenda"
+  },
+  {
+    "identifier": "56InstrumentalHymnstPiano",
+    "title": "51-60",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/56InstrumentalHymnstPiano/51 In Christ Alone.mp3",
+      "https://archive.org/download/56InstrumentalHymnstPiano/52 In His Time  instrumental.mp3",
+      "https://archive.org/download/56InstrumentalHymnstPiano/53 In The Garden Hymn.mp3",
+      "https://archive.org/download/56InstrumentalHymnstPiano/54 Instrumental  Christian Music.mp3",
+      "https://archive.org/download/56InstrumentalHymnstPiano/55 Instrumental Hymn Sweet Hour.mp3",
+      "https://archive.org/download/56InstrumentalHymnstPiano/56 Instrumental Hymnst (Piano).mp3"
+    ],
+    "instrument": "unknown"
+  },
+  {
+    "identifier": "97ACG_aLqtM",
+    "title": "Powerful Temple Bell & Shank Naad Sound For Pooja | Aarti Sound \u0936\u0902\u0916 \u0935 \u0918\u0902\u091f\u093e Spiritual Chant",
+    "creator": "Mind & Soul",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=97ACG_aLqtM"
+    ],
+    "instrument": "temple_music"
+  },
+  {
+    "identifier": "tOFaCU6WTMU",
+    "title": "Ustad Bismillah Khan | Gunkali | Shehnai Music | Indian Classical Instrumental Music",
+    "creator": "Saregama Hindustani Classical",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=tOFaCU6WTMU"
+    ],
+    "instrument": "shehnai"
+  },
+  {
+    "identifier": "EyeJOyKf48I",
+    "title": "Apsara Aali | A Carnatic Quartet #acarnaticquartet #apsaraaali",
+    "creator": "A Carnatic Quartet",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=EyeJOyKf48I"
+    ],
+    "instrument": "carnatic_instrumental"
   }
 ]
