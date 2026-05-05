@@ -26584,5 +26584,25 @@
       "https://youtube.com/watch?v=ANfavpPHtWE"
     ],
     "instrument": "chenda"
+  },
+  {
+    "identifier": "tv3gMQ1Z1pE",
+    "title": "his Sound Feels Like a Temple Festival \ud83c\udfb6 | Nadaswaram & Thavil Magic",
+    "creator": "svara",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=tv3gMQ1Z1pE"
+    ],
+    "instrument": "nadaswaram"
+  },
+  {
+    "identifier": "zqtXoj4U6uI",
+    "title": "Perth Bala Murugan Temple - Annual Festival 2026 - 23 April - Nadaswaram & Thavil",
+    "creator": "Perth Bala Murugan Temple Mahotsavam 2026",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=zqtXoj4U6uI"
+    ],
+    "instrument": "nadaswaram"
   }
 ]
