@@ -26604,5 +26604,45 @@
       "https://youtube.com/watch?v=zqtXoj4U6uI"
     ],
     "instrument": "nadaswaram"
+  },
+  {
+    "identifier": "7EI61E8wKpc",
+    "title": "Tu Mujhe Kabul - Shehnai Instrumental Cover - Indian Wedding Bride Entrance",
+    "creator": "Shehnai Guy",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=7EI61E8wKpc"
+    ],
+    "instrument": "shehnai"
+  },
+  {
+    "identifier": "_wUPpTpFa9M",
+    "title": "HCL Concerts presents Baithak Ep: 65 - The Carnatic Quest 2020 Winners (Group 3)",
+    "creator": "HCL Concerts",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=_wUPpTpFa9M"
+    ],
+    "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "mFFC_m786iI",
+    "title": "Bantu Reeti | Trichur Brothers Live | Powerful Tyagaraja Kriti | Carnatic Vocals | Concert-o-gram",
+    "creator": "concert-o-gram",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=mFFC_m786iI"
+    ],
+    "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "b9GM2eUq4BU",
+    "title": "KFAC - Purandara Darshana - Carnatic Classical (Vocal) Music - Vidyabhushana",
+    "creator": "Kalavanta KFAC",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=b9GM2eUq4BU"
+    ],
+    "instrument": "carnatic_instrumental"
   }
 ]
