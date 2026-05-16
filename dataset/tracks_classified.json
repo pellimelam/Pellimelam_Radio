@@ -27332,5 +27332,35 @@
       "https://youtube.com/watch?v=FAl5UNtbliE"
     ],
     "instrument": "chenda"
+  },
+  {
+    "identifier": "VovuSwUFMio",
+    "title": "The Soulful Shehnai: India's Enchanting Instrumental Elegance",
+    "creator": "CREATE MUSIC K.P",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=VovuSwUFMio"
+    ],
+    "instrument": "shehnai"
+  },
+  {
+    "identifier": "8hOL6nPpD0c",
+    "title": "Fusion Strings - Vatapi Ganapatim by Veena Gayatri",
+    "creator": "Spicy Strings -Veena Gayatri Raj",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=8hOL6nPpD0c"
+    ],
+    "instrument": "veena"
+  },
+  {
+    "identifier": "FrAvPhej-DM",
+    "title": "Chenda Melam @ Madipakkam Sri Ayyappan Temple on Panguni Uthiram Day:25th March 2024",
+    "creator": "Madipakkam Ayyappan Temple",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=FrAvPhej-DM"
+    ],
+    "instrument": "chenda"
   }
 ]
