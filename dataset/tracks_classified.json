@@ -27492,5 +27492,49 @@
       "https://youtube.com/watch?v=vMdIKthc3lI"
     ],
     "instrument": "nadaswaram"
+  },
+  {
+    "identifier": "78_13820-Gone",
+    "title": "Gone",
+    "creator": [
+      "Slim Whitman",
+      "with instrumental accomp",
+      "Rogers"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_13820-Gone/13820-Gone.mp3"
+    ],
+    "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "ZsYmq5cnsoM",
+    "title": "2016 - Savishkar Concerts - Carnatic Guitar by Shrinidhi Hemmige",
+    "creator": "Bharatiya Samagana Sabha",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=ZsYmq5cnsoM"
+    ],
+    "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "tjGWQ0_FDOg",
+    "title": "Varnam - Reetigowla - Ata - Veena Kuppaiyyer",
+    "creator": "Ranjani - Gayatri",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=tjGWQ0_FDOg"
+    ],
+    "instrument": "veena"
+  },
+  {
+    "identifier": "CABcibpobDE",
+    "title": "Rangapura Vihara | Sooryagayathri | Carnatic Krithi",
+    "creator": "Strumm Spiritual",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=CABcibpobDE"
+    ],
+    "instrument": "carnatic_instrumental"
   }
 ]
