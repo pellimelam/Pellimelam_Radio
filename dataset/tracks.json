@@ -206166,7 +206166,11 @@
     "identifier": "ElTarraTierraDelTrueno",
     "title": "Tierra Del Trueno",
     "creator": "Red de Reporteros Colombia",
-    "source": "archive_org"
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ElTarraTierraDelTrueno/El Tarra - Tierra del Trueno.mp3",
+      "https://archive.org/download/ElTarraTierraDelTrueno/El Tarra - Tierra del Trueno.ogg"
+    ]
   },
   {
     "identifier": "ElaSalatyv1.4_201509",
@@ -207161,7 +207165,10 @@
     "identifier": "78_juleaften-pa-sydhavet-axel-andreasen-arvid-ringheim-frederik-buch-kate-fabia",
     "title": "Juleaften p\u00e5 sydhavet",
     "creator": "Axel Andreasen, Arvid Ringheim, Frederik Buch, Kate Fabian m.fl.",
-    "source": "archive_org"
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_juleaften-pa-sydhavet-axel-andreasen-arvid-ringheim-frederik-buch-kate-fabia/22167 Juleaften pa\u030a sydhavet.mp3"
+    ]
   },
   {
     "identifier": "78_k-oknu-pridem",
@@ -207995,6 +208002,468 @@
     "source": "youtube",
     "audio_urls": [
       "https://youtube.com/watch?v=Vz6ixrMOTrY"
+    ]
+  },
+  {
+    "identifier": "0044826-anton-achitei-vino-mandra-n-dumbravioara_202108",
+    "title": "ANTON ACHITEI - VINO, MANDRA-N DUMBRAVIOARA \ud83c\uddf7\ud83c\uddf4\ud83c\udfb6\ud83c\udfbb",
+    "creator": "Alexandru Georgescu Ploie\u0219ti",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/0044826-anton-achitei-vino-mandra-n-dumbravioara_202108/0044826_ANTON ACHITEI - VINO, MANDRA-N DUMBRAVIOARA  \ud83c\uddf7\ud83c\uddf4\ud83c\udfb6\ud83c\udfbb.mp3"
+    ]
+  },
+  {
+    "identifier": "78_hvis-du-vil-vaer-min-kone-otto-lington-and-his-lingtorians-niels",
+    "title": "Hvis du vil v\u00e6r' min kone",
+    "creator": [
+      "Niels Baunsgaard",
+      "Otto Lington and his Lingtorians",
+      "H. Mortensen, arr.: A. Hansen"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_hvis-du-vil-vaer-min-kone-otto-lington-and-his-lingtorians-niels/24390 Hvis du vil v\u00e6r' min kone.mp3"
+    ]
+  },
+  {
+    "identifier": "flp2veg-p7y887",
+    "title": "FLP2VEG",
+    "creator": "EdotJdot",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/flp2veg-p7y887/EdotJdot - FLP2VEG.flac",
+      "https://archive.org/download/flp2veg-p7y887/EdotJdot - FLP2VEG.mp3"
+    ]
+  },
+  {
+    "identifier": "02102011_presscress_004_by_jurasze_last_days_of_summer",
+    "title": "02102011_presscress_004_by_jurasze_last_days_of_summer",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/02102011_presscress_004_by_jurasze_last_days_of_summer/02_10_11_presscress_004_by_Jurasze_last_Day_of_summer.mp3",
+      "https://archive.org/download/02102011_presscress_004_by_jurasze_last_days_of_summer/02_10_11_presscress_004_by_Jurasze_last_Day_of_summer.ogg"
+    ]
+  },
+  {
+    "identifier": "030_20240623",
+    "title": "52cofsyc",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/030_20240623/001_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/002_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/003_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/004_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/005_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/006_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/007_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/008_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/009_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/010_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/011_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/012_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/013_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/014_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/015_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/016_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/017_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/018_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/019_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/020_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/021_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/022_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/023_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/024_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/025_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/026_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/027_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/028_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/029_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/030_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/031_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/032_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/033_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/034_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/035_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/036_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/037_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/038_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/039_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/040_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/041_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/042_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/043_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/044_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/045_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/046_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/047_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/048_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/049_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/050_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/051_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/052_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/053_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/054_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/055_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/056_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/057_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/058_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/059_\u0423\u0413.mp3",
+      "https://archive.org/download/030_20240623/060_\u0423\u0413.mp3"
+    ]
+  },
+  {
+    "identifier": "3.-sargento-1-ro-a-sargento-mayor-3-investigacion-y-procedimientos-en-materia-de-transito",
+    "title": "3. Sargento 1 RO A Sargento Mayor 3 INVESTIGACION Y PROCEDIMIENTOS EN MATERIA DE TRANSITO",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/3.-sargento-1-ro-a-sargento-mayor-3-investigacion-y-procedimientos-en-materia-de-transito/3.- Sargento 1RO a Sargento Mayor - 3_INVESTIGACION Y PROCEDIMIENTOS EN MATERIA DE TRANSITO.mp3"
+    ]
+  },
+  {
+    "identifier": "Yaomat-mo7amad",
+    "title": "Yaomat-mo7amad",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/Yaomat-mo7amad/mp3.ogg"
+    ]
+  },
+  {
+    "identifier": "maria-nemeth-giuseppe-verdi-aida-isacri-nomi-di-padre-polydor-66625",
+    "title": "Maria Nemeth, Giuseppe Verdi, Aida, ISacri Nomi Di Padre, Polydor 66625",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/maria-nemeth-giuseppe-verdi-aida-isacri-nomi-di-padre-polydor-66625/MariaNemeth,GiuseppeVerdi,Aida,ISacriNomiDiPadre,Polydor66625.mp3"
+    ]
+  },
+  {
+    "identifier": "78_6046-They-didnt-believe-me",
+    "title": "They didn't believe me",
+    "creator": [
+      "The Delta Rythm Boys",
+      "Andrew Burmans Band",
+      "Jerome Kern"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_6046-They-didnt-believe-me/6046-They-didnt-believe-me.mp3"
+    ]
+  },
+  {
+    "identifier": "78_6343-Cloe",
+    "title": "Cloe",
+    "creator": [
+      "Red Swamphead Ingle",
+      "Moret",
+      "Spike Jones and his City slickert",
+      "Kann"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_6343-Cloe/6343-Cloe.mp3"
+    ]
+  },
+  {
+    "identifier": "78_8637-Wiener-bonbons",
+    "title": "Wiener bonbons",
+    "creator": [
+      "Marek Weber und sien orch.",
+      "J. Strauss"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_8637-Wiener-bonbons/8637-Wiener-bonbons.mp3"
+    ]
+  },
+  {
+    "identifier": "78_cest-si-bon-bob-castella-et-som-rythmes-yves-montand-henri-betti-andre",
+    "title": "C'est si bon",
+    "creator": [
+      "Yves Montand",
+      "Bob Castella et som rythmes",
+      "Henri Betti - Andr\u00e9 Hornez"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_cest-si-bon-bob-castella-et-som-rythmes-yves-montand-henri-betti-andre/18757 C'est si bon.mp3"
+    ]
+  },
+  {
+    "identifier": "78_cho-cho-san-eddie-elkins-orchestra",
+    "title": "Cho-cho-san",
+    "creator": [
+      "Eddie Elkins orchestra",
+      "Puccini"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_cho-cho-san-eddie-elkins-orchestra/22592 Cho-cho-san.mp3"
+    ]
+  },
+  {
+    "identifier": "78_4192-Grethe-Synger-del-2",
+    "title": "Grethe Synger - del 2",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_4192-Grethe-Synger-del-2/4192-Grethe-Synger-del-2.mp3"
+    ]
+  },
+  {
+    "identifier": "78_poor-little-angeline-roy-fox-and-his-orchestra-vocal-refrain-by-id",
+    "title": "Poor little Angeline",
+    "creator": [
+      "vocal refrain by id Buckman",
+      "Roy Fox and his orchestra",
+      "Grosz & J. Kennedy"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_poor-little-angeline-roy-fox-and-his-orchestra-vocal-refrain-by-id/27823 Poor little Angeline.mp3"
+    ]
+  },
+  {
+    "identifier": "78_serenade-de-pierrot-akkomp-de-pianoforte-jan-kubelik-soloviolin-a",
+    "title": "S\u00e9r\u00e9nade de Pierrot",
+    "creator": [
+      "Jan Kubelik, soloviolin",
+      "akkomp. de pianoforte",
+      "A. Randeger"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_serenade-de-pierrot-akkomp-de-pianoforte-jan-kubelik-soloviolin-a/29729 Se\u0301re\u0301nade de Pierrot.mp3"
+    ]
+  },
+  {
+    "identifier": "78_you-cant-stop-me-from-dreaming-dick-robertson-his-orchestra-vocal-chorus-by-",
+    "title": "You can't stop me from dreaming",
+    "creator": [
+      "vocal chorus by Dick Robertson",
+      "Dick Robertson & his orchestra",
+      "Friend - Frnklin"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_you-cant-stop-me-from-dreaming-dick-robertson-his-orchestra-vocal-chorus-by-/26631 You can't stop me from dreaming.mp3"
+    ]
+  },
+  {
+    "identifier": "78_15532-Flamingo",
+    "title": "Flamingo",
+    "creator": [
+      "Dany Dauberson",
+      "Accompanied by orchestra under the direction of Primo Gregori",
+      "Ed. Anderson - Ted Grouya"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_15532-Flamingo/15532-Flamingo.mp3"
+    ]
+  },
+  {
+    "identifier": "78_1794-Udtog-Zigeunerbaronen-del-2",
+    "title": "Udtog 'Zigeunerbaronen' del 2",
+    "creator": [
+      "Else Marie + Hans Kurt",
+      "Fl. Geil",
+      "Louis Prell",
+      "Johan Strauss"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_1794-Udtog-Zigeunerbaronen-del-2/1794-Udtog-Zigeunerbaronen-del-2.mp3"
+    ]
+  },
+  {
+    "identifier": "78_2098-Kentycky-Waltz",
+    "title": "Kentucky Waltz",
+    "creator": [
+      "Gustav Winckler",
+      "Calle Martins"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_2098-Kentycky-Waltz/2098-Kentycky-Waltz.mp3"
+    ]
+  },
+  {
+    "identifier": "78_3963-Cocktail-rytmer-nr-3",
+    "title": "Cocktail-rytmer nr. 3",
+    "creator": "Borge Friis",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_3963-Cocktail-rytmer-nr-3/3963-Cocktail-rytmer-nr-3.mp3"
+    ]
+  },
+  {
+    "identifier": "78_13338-Whatll-I-do",
+    "title": "What'll I do",
+    "creator": [
+      "Victor Salon Orch.",
+      "Irving Berlin"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_13338-Whatll-I-do/13338-Whatll-I-do.mp3"
+    ]
+  },
+  {
+    "identifier": "78_15677-Ba-Tu-Ca-Da",
+    "title": "Ba-Tu-Ca-Da",
+    "creator": [
+      "Katherine Dunham and ensemble",
+      "Alfonso, Trindade"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_15677-Ba-Tu-Ca-Da/15677-Ba-Tu-Ca-Da.mp3"
+    ]
+  },
+  {
+    "identifier": "78_1115-Forst-blinker-du-goddag",
+    "title": "Forst blinker du goddag",
+    "creator": [
+      "Else Marie + Hans Kurt",
+      "Borge Maller",
+      "Arne Hammelboe",
+      "Kai Norman Andersen"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_1115-Forst-blinker-du-goddag/1115-Forst-blinker-du-goddag.mp3"
+    ]
+  },
+  {
+    "identifier": "78_11740-Mimosa-walzer",
+    "title": "Mimosa-walzer",
+    "creator": [
+      "Adalbert Lutter med seinem orch.",
+      "Sidney Jones"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_11740-Mimosa-walzer/11740-Mimosa-walzer.mp3"
+    ]
+  },
+  {
+    "identifier": "78_jeg-ku-li-og-sprnge-ud-teddy-petersen-og-hans-orkester-tove-steines-og-knud",
+    "title": "Jeg ku' li' og sprnge ud",
+    "creator": [
+      "Tove Steines og Knud Pheiffer",
+      "Teddy Petersen og hans orkester",
+      "Kai Normann Andersen",
+      "Poeten"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_jeg-ku-li-og-sprnge-ud-teddy-petersen-og-hans-orkester-tove-steines-og-knud/18638 Jeg ku' li' og sprnge ud.mp3"
+    ]
+  },
+  {
+    "identifier": "78_2403-Jeg-sang-den-som-barn",
+    "title": "Jeg sang den som barn",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_2403-Jeg-sang-den-som-barn/2403-Jeg-sang-den-som-barn.mp3"
+    ]
+  },
+  {
+    "identifier": "78_12545-Les-yeux-dAngeline",
+    "title": "Les yeux d'Angeline",
+    "creator": [
+      "Tino Rossi",
+      "Raymond Legrand",
+      "March Lanjean"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_12545-Les-yeux-dAngeline/12545-Les-yeux-dAngeline.mp3"
+    ]
+  },
+  {
+    "identifier": "78_1459-Oppe-pa-bjerget",
+    "title": "Oppe pa bjerget",
+    "creator": [
+      "Frederik",
+      "B. Linz",
+      "Frederik med orkester",
+      "Meredith Wilsan"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_1459-Oppe-pa-bjerget/1459-Oppe-pa-bjerget.mp3"
+    ]
+  },
+  {
+    "identifier": "antenore-reali-amilcare-ponchielli-la-gioconda-omonumento-cetra-bb-25150",
+    "title": "Antenore Reali, Amilcare Ponchielli, La Gioconda, OMonumento, Cetra BB 25150",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/antenore-reali-amilcare-ponchielli-la-gioconda-omonumento-cetra-bb-25150/AntenoreReali,AmilcarePonchielli,LaGioconda,OMonumento,CetraBB25150.mp3"
+    ]
+  },
+  {
+    "identifier": "LittleAhSid",
+    "title": "Little Ah Sid",
+    "creator": "The Ranch Boys",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/LittleAhSid/Little Ah Sid.flac",
+      "https://archive.org/download/LittleAhSid/Little Ah Sid.mp3",
+      "https://archive.org/download/LittleAhSid/Little Ah Sid.ogg"
+    ]
+  },
+  {
+    "identifier": "hjngcCYnTdg",
+    "title": "Let It Go - Disney's Frozen - Shehnai Instrumental",
+    "creator": "Shehnai Guy",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=hjngcCYnTdg"
+    ]
+  },
+  {
+    "identifier": "qZvGMRWhS4c",
+    "title": "AR Rehman_The Dichotomy of Fame.wmv",
+    "creator": "inderpretation",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=qZvGMRWhS4c"
+    ]
+  },
+  {
+    "identifier": "KQmvODV2A9Y",
+    "title": "Jukebox - 1 hour Violin Instrumental - JJ Brothers Live Carnatic Classical - Guntur, 17-May-26",
+    "creator": "JJ Brothers",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=KQmvODV2A9Y"
+    ]
+  },
+  {
+    "identifier": "Mshi-7hfKJM",
+    "title": "Raag Gorakh Kalyan | Soumik Datta & Sukhvinder Singh \u2018Pinky\u2019 | Sarod & Tabla | Music of India",
+    "creator": "darbarfestival",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=Mshi-7hfKJM"
+    ]
+  },
+  {
+    "identifier": "jlWr_KXDlZE",
+    "title": "Bantureethi Koluvu | Abhishek Raghuram | Carnatic Fever",
+    "creator": "Carnatic Fever",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=jlWr_KXDlZE"
     ]
   }
 ]
