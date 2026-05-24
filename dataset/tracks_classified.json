@@ -27606,5 +27606,45 @@
       "https://youtube.com/watch?v=vWnz06BSoT4"
     ],
     "instrument": "veena"
+  },
+  {
+    "identifier": "0w5jhidva_U",
+    "title": "Carnatic Instrumental Concert - Lalgudi siblings, Prof. Trichy Sankaran, Vidwan KV Gopalakrishnan",
+    "creator": "SPIC MACAY NIT Trichy Chapter",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=0w5jhidva_U"
+    ],
+    "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "PdxS953SdtU",
+    "title": "Sid Sriram l Carnatic Vocal  l Global Heritage Music Fest 2017 l Web Streaming",
+    "creator": "carnaticworld",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=PdxS953SdtU"
+    ],
+    "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "lxORCeqflkw",
+    "title": "Mahabala Lalithakala Sabha Classical Carnatic Music Concert Dr Sunder | Puttur | 2025",
+    "creator": "Dr Sunder's Music",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=lxORCeqflkw"
+    ],
+    "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "Mxu_tdiVqNs",
+    "title": "Carnatic Vocal Concert | Haricharan with GrooviDa | Chennaiyil Thiruvaiyaru 2015 | Kamarajar Arangam",
+    "creator": "Haricharan Seshadri",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=Mxu_tdiVqNs"
+    ],
+    "instrument": "carnatic_instrumental"
   }
 ]
