@@ -27646,5 +27646,35 @@
       "https://youtube.com/watch?v=Mxu_tdiVqNs"
     ],
     "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "1GmicrAkzs4",
+    "title": "Shehnai Instrumental Chaiti Songs| Rare Instrument of India | Lokesh Anand",
+    "creator": "Crypto Cipher",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=1GmicrAkzs4"
+    ],
+    "instrument": "shehnai"
+  },
+  {
+    "identifier": "i_JSAffbM6o",
+    "title": "Chendamelam Arangettam at Karikkakom Temple | Celebrating Kerala's Rhythmic Heritage",
+    "creator": "Chenda Kalari",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=i_JSAffbM6o"
+    ],
+    "instrument": "chenda"
+  },
+  {
+    "identifier": "sNzZPdRsym8",
+    "title": "Chenda Melam Samarpanam",
+    "creator": "Sri Venkateswara Temple - Pittsburgh Official",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=sNzZPdRsym8"
+    ],
+    "instrument": "chenda"
   }
 ]
