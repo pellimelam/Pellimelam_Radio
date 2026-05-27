@@ -26985,5 +26985,36 @@
     "audio_urls": [
       "https://youtube.com/watch?v=nS7U3cu11vE"
     ]
+  },
+  {
+    "identifier": "78_bornholmervalsen-alex-og-richard-m-instrumentalakk-hans-bacher",
+    "title": "Bornholmervalsen",
+    "creator": [
+      "Cederkvist",
+      "Hans Bacher",
+      "Alex og Richard m. instrumentalakk."
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_bornholmervalsen-alex-og-richard-m-instrumentalakk-hans-bacher/19165 Bornholmervalsen.mp3"
+    ]
+  },
+  {
+    "identifier": "e64NqEsbQb4",
+    "title": "Raag : Durga - Teen Taal (Shehnai Classical Instrumental) - By Ustad Bismillah Khan",
+    "creator": "T-Series Classical",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=e64NqEsbQb4"
+    ]
+  },
+  {
+    "identifier": "U9N04G_7Bsk",
+    "title": "Naad | Thirst | A Heartbroken Shehnai Crying in the Desert | Indian Classical Shehnai Fusion Music",
+    "creator": "MAHAL Studio",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=U9N04G_7Bsk"
+    ]
   }
 ]
