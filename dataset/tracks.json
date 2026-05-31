@@ -228919,5 +228919,1474 @@
     "audio_urls": [
       "https://youtube.com/watch?v=oomDCuer3us"
     ]
+  },
+  {
+    "identifier": "bucalet",
+    "title": "Bucal\u00e8t",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/bucalet/Bucal\u00e8t.mp3"
+    ]
+  },
+  {
+    "identifier": "trigfon-23-caldo",
+    "title": "TRIGFON 23 Caldo",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/trigfon-23-caldo/TRIGFON23 Caldo.mp3"
+    ]
+  },
+  {
+    "identifier": "lamet_202006",
+    "title": "Lam\u00e8t",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/lamet_202006/Lam\u00e8t.mp3"
+    ]
+  },
+  {
+    "identifier": "pause_202006",
+    "title": "Pa\u00fcs\u00e9",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/pause_202006/Pa\u00fcs\u00e9.mp3"
+    ]
+  },
+  {
+    "identifier": "nuela",
+    "title": "Nu\u00e8la",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/nuela/Nu\u00e8la.mp3"
+    ]
+  },
+  {
+    "identifier": "offless-65-il-mestolo",
+    "title": "OFFLESS 65 Il Mestolo",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/offless-65-il-mestolo/OFFLESS65 Il mestolo.mp3"
+    ]
+  },
+  {
+    "identifier": "20230714_20230714_1352",
+    "title": "\u0623\u0645\u0648\u0627\u062c \u0627\u0644\u0628\u062d\u0631\u064a\u0646 - \u062a\u0641\u0627\u0621\u0644 \u062e\u0644\u064a\u062c\u064a",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/20230714_20230714_1352/\u0623\u0645\u0648\u0627\u062c \u0627\u0644\u0628\u062d\u0631\u064a\u0646 - \u062a\u0641\u0627\u0621\u0644 \u062e\u0644\u064a\u062c\u064a/\u0623\u062a\u0639\u0628 \u0645\u0639 \u0627\u0644\u062f\u0646\u064a\u0627.mp3",
+      "https://archive.org/download/20230714_20230714_1352/\u0623\u0645\u0648\u0627\u062c \u0627\u0644\u0628\u062d\u0631\u064a\u0646 - \u062a\u0641\u0627\u0621\u0644 \u062e\u0644\u064a\u062c\u064a/\u0623\u062d\u0644\u0649 \u0635\u0628\u0627\u062d.mp3",
+      "https://archive.org/download/20230714_20230714_1352/\u0623\u0645\u0648\u0627\u062c \u0627\u0644\u0628\u062d\u0631\u064a\u0646 - \u062a\u0641\u0627\u0621\u0644 \u062e\u0644\u064a\u062c\u064a/\u0627\u0644\u0623\u0646\u0628\u064a\u0627\u0621.mp3",
+      "https://archive.org/download/20230714_20230714_1352/\u0623\u0645\u0648\u0627\u062c \u0627\u0644\u0628\u062d\u0631\u064a\u0646 - \u062a\u0641\u0627\u0621\u0644 \u062e\u0644\u064a\u062c\u064a/\u0627\u0644\u062f\u0648\u0627.mp3",
+      "https://archive.org/download/20230714_20230714_1352/\u0623\u0645\u0648\u0627\u062c \u0627\u0644\u0628\u062d\u0631\u064a\u0646 - \u062a\u0641\u0627\u0621\u0644 \u062e\u0644\u064a\u062c\u064a/\u0631\u062d\u0644\u062a.mp3",
+      "https://archive.org/download/20230714_20230714_1352/\u0623\u0645\u0648\u0627\u062c \u0627\u0644\u0628\u062d\u0631\u064a\u0646 - \u062a\u0641\u0627\u0621\u0644 \u062e\u0644\u064a\u062c\u064a/\u0631\u0636\u064a\u062a - \u0631\u0632\u0642\u064a.mp3",
+      "https://archive.org/download/20230714_20230714_1352/\u0623\u0645\u0648\u0627\u062c \u0627\u0644\u0628\u062d\u0631\u064a\u0646 - \u062a\u0641\u0627\u0621\u0644 \u062e\u0644\u064a\u062c\u064a/\u0633\u064a\u062f\u064a \u0645\u0648\u0644\u0627\u064a.mp3",
+      "https://archive.org/download/20230714_20230714_1352/\u0623\u0645\u0648\u0627\u062c \u0627\u0644\u0628\u062d\u0631\u064a\u0646 - \u062a\u0641\u0627\u0621\u0644 \u062e\u0644\u064a\u062c\u064a/\u0645\u062d\u0631\u0648\u0645.mp3",
+      "https://archive.org/download/20230714_20230714_1352/\u0623\u0645\u0648\u0627\u062c \u0627\u0644\u0628\u062d\u0631\u064a\u0646 - \u062a\u0641\u0627\u0621\u0644 \u062e\u0644\u064a\u062c\u064a/\u0647\u0644\u0627 \u0648\u0627\u0644\u0644\u0647.mp3",
+      "https://archive.org/download/20230714_20230714_1352/\u0623\u0645\u0648\u0627\u062c \u0627\u0644\u0628\u062d\u0631\u064a\u0646 - \u062a\u0641\u0627\u0621\u0644 \u062e\u0644\u064a\u062c\u064a/\u064a\u0627 \u062f\u0627\u0641\u0639 \u0627\u0644\u0628\u0644\u0648\u0649.mp3"
+    ]
+  },
+  {
+    "identifier": "ka-45-carmen-y-laura-contestacion-a-por-una-mujer-ideal-639-spanish",
+    "title": "45. Carmen Y Laura - Contestacion A Por Una Mujer (Ideal 639) SPANISH",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-45-carmen-y-laura-contestacion-a-por-una-mujer-ideal-639-spanish/45. Carmen Y Laura - Contestacion A Por Una Mujer (Ideal 639) SPANISH.mp3"
+    ]
+  },
+  {
+    "identifier": "computer-love-wjddll",
+    "title": "Computer Love",
+    "creator": "Aristotle's Hard Drive",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 01 Chemtrail #9.flac",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 01 Chemtrail #9.mp3",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 02 W I L H E LM.flac",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 02 W I L H E LM.mp3",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 03 Chemical Erotica.flac",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 03 Chemical Erotica.mp3",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 04 Serenity.flac",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 04 Serenity.mp3",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 05 It's A Beautiful Night (Don't You Think-).flac",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 05 It's A Beautiful Night (Don't You Think-).mp3",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 06 Tropic.flac",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 06 Tropic.mp3",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 07 Right Click My Heart.flac",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 07 Right Click My Heart.mp3",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 08 Haze.flac",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 08 Haze.mp3",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 09 Viceroy, Yet_Unsung.flac",
+      "https://archive.org/download/computer-love-wjddll/Aristotle's Hard Drive - Computer Love - 09 Viceroy, Yet_Unsung.mp3"
+    ]
+  },
+  {
+    "identifier": "melt-plus-dmt-218-wnbr6w",
+    "title": "MELT: PLUS \uff0f\uff0f DMT-218",
+    "creator": "Dante Mars Ajeto\uff01",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 01 INTRO.flac",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 01 INTRO.mp3",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 02 HOLD TITE.flac",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 02 HOLD TITE.mp3",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 03 REAL.flac",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 03 REAL.mp3",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 04 CHAMP CAR 1999.flac",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 04 CHAMP CAR 1999.mp3",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 05 ALRIGHT.flac",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 05 ALRIGHT.mp3",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 06 LIFE IS JUST A GROOVE.flac",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 06 LIFE IS JUST A GROOVE.mp3",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 07 1-800 SEXY ROBOT.flac",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 07 1-800 SEXY ROBOT.mp3",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 08 MELT.flac",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 08 MELT.mp3",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 09 HOLD TIGHT (\uff12\uff18\uff11\uff14 Remix).flac",
+      "https://archive.org/download/melt-plus-dmt-218-wnbr6w/Dante Mars Ajeto\uff01 - MELT- PLUS \uff0f\uff0f DMT-218 - 09 HOLD TIGHT (\uff12\uff18\uff11\uff14 Remix).mp3"
+    ]
+  },
+  {
+    "identifier": "ka-maury-finney",
+    "title": "maury finney",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ka-maury-finney/45 Record Cabinet/M/maury finney/Maury Finney - Your love takes me so high.mp3",
+      "https://archive.org/download/ka-maury-finney/45 Record Cabinet/M/maury finney/maury finney - i want to play my horn on the grand old opry (vinal).mp3"
+    ]
+  },
+  {
+    "identifier": "fiersabesari45",
+    "title": "Fiersa Besari Stein",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 1.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 10.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 11.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 12.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 13.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 14.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 15.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 16.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 17.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 18.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 19.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 2.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 20.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 21.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 22.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 23.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 24.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 25.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 26.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 27.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 28.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 29.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 3.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 30.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 31.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 32.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 33.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 34.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 35.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 36.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 37.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 38.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 39.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 4.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 40.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 41.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 42.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 43.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 44.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 45.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 5.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 6.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 7.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 8.mp3",
+      "https://archive.org/download/fiersabesari45/Fiersa Besari 9.mp3"
+    ]
+  },
+  {
+    "identifier": "dr-m-elnashar-042022",
+    "title": "Dr M Elnashar 20220510",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220406.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220407.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220409.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220410.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220411.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220412.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220416.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220418.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220419.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220426.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220427.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220510.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220516.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220517.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220524.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220531.mp3",
+      "https://archive.org/download/dr-m-elnashar-042022/DrM-Elnashar20220601.mp3"
+    ]
+  },
+  {
+    "identifier": "game_3_leo",
+    "title": "game_3_leo",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/game_3_leo/game_3_leo.mp3"
+    ]
+  },
+  {
+    "identifier": "EntrevistaPlantonMagisterialEnElDf",
+    "title": "Entrevista Planton Magisterial en el DF",
+    "creator": "Multimedios Cronopios",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_Concluciones.mp3",
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_Concluciones.ogg",
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_ElCasodelosNormalistas.mp3",
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_ElCasodelosNormalistas.ogg",
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_SobreelSNTE.mp3",
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_SobreelSNTE.ogg",
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_SobrelaDemanda_deDialogoPublico.mp3",
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_SobrelaDemanda_deDialogoPublico.ogg",
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_SobrelaLucha.mp3",
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_SobrelaLucha.ogg",
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_SobrelaReforma.mp3",
+      "https://archive.org/download/EntrevistaPlantonMagisterialEnElDf/EntrevistaReformaEducativa_PlantonZocalo_SobrelaReforma.ogg"
+    ]
+  },
+  {
+    "identifier": "20210321_20210326",
+    "title": "20210321 \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u041f\u043e\u043b\u043e\u0432\u043a\u043e \u0411\u043e\u0433 \u0417\u0430\u0431\u043e\u0442\u0438\u0442\u0441\u044f \u041e \u041d\u0430\u0441",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/20210321_20210326/20210321 - \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u041f\u043e\u043b\u043e\u0432\u043a\u043e - \u0411\u043e\u0433 \u0437\u0430\u0431\u043e\u0442\u0438\u0442\u0441\u044f \u043e \u043d\u0430\u0441.mp3"
+    ]
+  },
+  {
+    "identifier": "25_20230706",
+    "title": "25",
+    "creator": "",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "7Jags49KOBK2",
+    "title": "7 Jags 49 KOBK 2",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/7Jags49KOBK2/7Jags49_KOBK2.mp3",
+      "https://archive.org/download/7Jags49KOBK2/7Jags49_KOBK2.ogg"
+    ]
+  },
+  {
+    "identifier": "sncn-32a",
+    "title": "Sncn 32a",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/sncn-32a/sncn 32a.mp3"
+    ]
+  },
+  {
+    "identifier": "pi26en23",
+    "title": "pi26en23",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/pi26en23/pani18abr24.mp3",
+      "https://archive.org/download/pi26en23/pani19abr24.mp3",
+      "https://archive.org/download/pi26en23/pi26en23.mp3"
+    ]
+  },
+  {
+    "identifier": "para-salvarte-la-gracia-santificante",
+    "title": "PARA SALVARTE LA GRACIA SANTIFICANTE",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/para-salvarte-la-gracia-santificante/PARA_SALVARTE_LA_GRACIA_SANTIFICANTE.mp3"
+    ]
+  },
+  {
+    "identifier": "tmoo72",
+    "title": "tmoo72",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/tmoo72/tmoo72.mp3"
+    ]
+  },
+  {
+    "identifier": "michelle-nascimento-honra-e-majestade-2023",
+    "title": "Michelle Nascimento Honra E Majestade 2023",
+    "creator": "",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "twilio-test-1",
+    "title": "Twilio Test 1",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/twilio-test-1/Twilio test-1.mp3"
+    ]
+  },
+  {
+    "identifier": "charco-de-arena-12-8-2024",
+    "title": "Charco De Arena 12 8 2024",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/charco-de-arena-12-8-2024/Charco de arena 12-8-2024.mp3"
+    ]
+  },
+  {
+    "identifier": "hickey-remix-tito-dj-dj-luckas",
+    "title": "Hickey ( Remix ) Tito DJ DJ Luckas",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/hickey-remix-tito-dj-dj-luckas/Hickey ( Remix ) Tito DJ DJ Luckas.mp3"
+    ]
+  },
+  {
+    "identifier": "rgc_e154-chpt_art",
+    "title": "Retro Game Club - Phantasy Star, Congo Bongo (low quality audio)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/rgc_e154-chpt_art/e154-chpt_art.mp3"
+    ]
+  },
+  {
+    "identifier": "said-debbah_202004",
+    "title": "\u0639\u0646\u062f\u0645\u0627 \u064a\u0628\u062f\u0639 \u0633\u0639\u064a\u062f \u062f\u0628\u0627\u062d \u0641\u064a \u0627\u0644\u062a\u0644\u0627\u0648\u0629 \u064a\u0646\u062a\u062c \u0647\u0630\u0627 \u0627\u0644\u0635\u0648\u062a Said Debbah",
+    "creator": "\u0627\u0644\u0642\u0627\u0631\u0626 \u0633\u0639\u064a\u062f \u062f\u0628\u0627\u062d",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/said-debbah_202004/\u0639\u0646\u062f\u0645\u0627 \u064a\u0628\u062f\u0639 \u0633\u0639\u064a\u062f \u062f\u0628\u0627\u062d \u0641\u064a \u0627\u0644\u062a\u0644\u0627\u0648\u0629 \u064a\u0646\u062a\u062c \u0647\u0630\u0627 \u0627\u0644\u0635\u0648\u062a Said Debbah.mp3"
+    ]
+  },
+  {
+    "identifier": "hazeeeeeeeeem",
+    "title": "hazeeeeeeeeem",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/hazeeeeeeeeem/mp3.ogg"
+    ]
+  },
+  {
+    "identifier": "gtm.js",
+    "title": "gtm.js",
+    "creator": "",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "the-red-devils-tiger-rag-1931",
+    "title": "The Red Devils Tiger Rag ( 1931)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/the-red-devils-tiger-rag-1931/The Red Devils - Tiger Rag (1931).mp3"
+    ]
+  },
+  {
+    "identifier": "u8sa7vnaop",
+    "title": "u8sa7vnaop",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/u8sa7vnaop/DJ-BREAKBEAT-AISYAH-LAGI-SYANTIK-JATUH-CINTA-PADA-JAMILAH-TERBARU-2019.mp3",
+      "https://archive.org/download/u8sa7vnaop/DJ-BREAKBEAT-AISYAH-LAGI-SYANTIK-JATUH-CINTA-PADA-JAMILAH-TERBARU-2019.ogg",
+      "https://archive.org/download/u8sa7vnaop/DJ-EMANG-LAGI SYANTIK-TIK-TOK-VIRAL-2019-FULL-BASS-MANTAB-JIWA-DJ-AISYAH.mp3",
+      "https://archive.org/download/u8sa7vnaop/DJ-EMANG-LAGI SYANTIK-TIK-TOK-VIRAL-2019-FULL-BASS-MANTAB-JIWA-DJ-AISYAH.ogg",
+      "https://archive.org/download/u8sa7vnaop/DJ-EMANG-LAGI-SYANTIK-2019-TIK-TOK-REMIX-VIRAL-TERBARU.mp3",
+      "https://archive.org/download/u8sa7vnaop/DJ-EMANG-LAGI-SYANTIK-2019-TIK-TOK-REMIX-VIRAL-TERBARU.ogg",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-DANGDUT-BREAKBEAT-REMIX-2019.mp3",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-DANGDUT-BREAKBEAT-REMIX-2019.ogg",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-GOYANG-DUA-JARI-AISYAH-DJ-VIRAL-PALING-ENAK-2019-2.mp3",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-GOYANG-DUA-JARI-AISYAH-DJ-VIRAL-PALING-ENAK-2019-2.ogg",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-REMIX-LAGU-DANGDUT-TERBARU-2019-MANTAP-JIWA.mp3",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-REMIX-LAGU-DANGDUT-TERBARU-2019-MANTAP-JIWA.ogg",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-TERBARU-BREAKBEAT-REMIX-2019.mp3",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-TERBARU-BREAKBEAT-REMIX-2019.ogg",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-TIK-TOK-SLOW-REMIX-2019-SITI-BADRIAH-PALING-VIRAL.mp3",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-TIK-TOK-SLOW-REMIX-2019-SITI-BADRIAH-PALING-VIRAL.ogg",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-V2-BREAKBEAT-REMIX-2019.mp3",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-V2-BREAKBEAT-REMIX-2019.ogg",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-VS-AISYAH-FULL-BASS-BREAKBEAT-REMIX-2019.mp3",
+      "https://archive.org/download/u8sa7vnaop/DJ-LAGI-SYANTIK-VS-AISYAH-FULL-BASS-BREAKBEAT-REMIX-2019.ogg"
+    ]
+  },
+  {
+    "identifier": "fajna_202304",
+    "title": "fajna",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/fajna_202304/fajna.mp3"
+    ]
+  },
+  {
+    "identifier": "freedom-trail-91",
+    "title": "Freedom Trail 91",
+    "creator": "Department Of Water Services of India",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/freedom-trail-91/2015-2-05 BobVance Bob exhibits the symptoms  part 2.mp3",
+      "https://archive.org/download/freedom-trail-91/2015-2-05 BobVance Bob exhibits the symptoms.mp3",
+      "https://archive.org/download/freedom-trail-91/2015-2-13 BobVance Bob tests the lines at radioshack part 2.mp3",
+      "https://archive.org/download/freedom-trail-91/2015-2-13 BobVance Bob tests the lines at radioshack part 3.mp3",
+      "https://archive.org/download/freedom-trail-91/2015-2-13 BobVance Bob tests the lines at radioshack.mp3",
+      "https://archive.org/download/freedom-trail-91/2015-3-05 BobVance Bob's Walk In's Mixlr.mp3"
+    ]
+  },
+  {
+    "identifier": "homilia-v-da-pascoa",
+    "title": "Ev. Domingo - V P\u00e1scoa (Ev: Jo 13, 31-33a. 34-35)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/homilia-v-da-pascoa/Homilia V da P\u00e1scoa.mp3"
+    ]
+  },
+  {
+    "identifier": "kalin-terzijski-podmenyame-dumi-no-otnoshenieto-kum-horata-s-uvrezhdaniya-ostava",
+    "title": "kalin-terzijski-podmenyame-dumi-no-otnoshenieto-kum-horata-s-uvrezhdaniya-ostava",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/kalin-terzijski-podmenyame-dumi-no-otnoshenieto-kum-horata-s-uvrezhdaniya-ostava/kalin-terzijski-podmenyame-dumi-no-otnoshenieto-kum-horata-s-uvrezhdaniya-ostava.mp3"
+    ]
+  },
+  {
+    "identifier": "ruqiah",
+    "title": "ruqiah",
+    "creator": "abdullah alblowi",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ruqiah/_mp3.ogg"
+    ]
+  },
+  {
+    "identifier": "BalladToALovelyLady",
+    "title": "Ballad To A Lovely Lady",
+    "creator": "Ken Griffin",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/BalladToALovelyLady/Ballad To A Lovely Lady.flac",
+      "https://archive.org/download/BalladToALovelyLady/Ballad To A Lovely Lady.mp3",
+      "https://archive.org/download/BalladToALovelyLady/Ballad To A Lovely Lady.ogg"
+    ]
+  },
+  {
+    "identifier": "ParadeOfTheWoodenSoldiers_765",
+    "title": "Parade of the wooden soldiers",
+    "creator": "Jessel",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ParadeOfTheWoodenSoldiers_765/ParadeOfTheWoodenSoldiers.flac",
+      "https://archive.org/download/ParadeOfTheWoodenSoldiers_765/ParadeOfTheWoodenSoldiers.mp3",
+      "https://archive.org/download/ParadeOfTheWoodenSoldiers_765/ParadeOfTheWoodenSoldiers.ogg",
+      "https://archive.org/download/ParadeOfTheWoodenSoldiers_765/ParadeOfTheWoodenSoldiers_vbr.mp3"
+    ]
+  },
+  {
+    "identifier": "OvernightHop",
+    "title": "Overnight Hop",
+    "creator": "Red Nichols and his Orchestra (Nichols - Maxted)",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/OvernightHop/Overnight Hop.flac",
+      "https://archive.org/download/OvernightHop/Overnight Hop.mp3",
+      "https://archive.org/download/OvernightHop/Overnight Hop.ogg"
+    ]
+  },
+  {
+    "identifier": "1922-USA-Archives-1922-00-00-Lucille-Hegamin-Blue-Flame-Syncopators-Jazz-Me-Blues",
+    "title": "Lucille Hegamin Blue Flame Syncopators Jazz Me Blues",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1922-USA-Archives-1922-00-00-Lucille-Hegamin-Blue-Flame-Syncopators-Jazz-Me-Blues/1922 (USA) Archives 1922 00 00 Lucille Hegamin Blue Flame Syncopators - Jazz Me Blues.mp3",
+      "https://archive.org/download/1922-USA-Archives-1922-00-00-Lucille-Hegamin-Blue-Flame-Syncopators-Jazz-Me-Blues/1922-USA-Archives-1922-00-00-Lucille-Hegamin-Blue-Flame-Syncopators-Jazz-Me-Blues.mp3"
+    ]
+  },
+  {
+    "identifier": "1928-USA-Archives-1928-12-05-Ted-Lewis-Band-Shes-Funny-That-Way",
+    "title": "Ted Lewis Band Shes Funny That Way",
+    "creator": "Ted Lewis Band",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1928-USA-Archives-1928-12-05-Ted-Lewis-Band-Shes-Funny-That-Way/1928(USA)Archives19281205TedLewisBand-ShesFunnyThatWay.mp3"
+    ]
+  },
+  {
+    "identifier": "1934-USA-Archives-1934-00-00-Duke-Ellington-Orch-v-Ivie-Anderson-Ebony-Rhapsody",
+    "title": "Duke Ellington Orch v Ivie Anderson Ebony Rhapsody",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1934-USA-Archives-1934-00-00-Duke-Ellington-Orch-v-Ivie-Anderson-Ebony-Rhapsody/1934(USA)Archives19340000DukeEllingtonOrchvIvieAnderson-EbonyRhapsody.mp3",
+      "https://archive.org/download/1934-USA-Archives-1934-00-00-Duke-Ellington-Orch-v-Ivie-Anderson-Ebony-Rhapsody/1934-USA-Archives-1934-00-00-Duke-Ellington-Orch-v-Ivie-Anderson-Ebony-Rhapsody.mp3"
+    ]
+  },
+  {
+    "identifier": "michele-fleta-mariano-muzas-mi-tiera-mariano-muzas-jose-l.-media-villa-victrola-993",
+    "title": "Michele Fleta, Mariano Muzas, Mi Tiera, Mariano Muzas, Jose L. Media Villa, Victrola 993",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/michele-fleta-mariano-muzas-mi-tiera-mariano-muzas-jose-l.-media-villa-victrola-993/MicheleFleta,MarianoMuzas,MiTiera,MarianoMuzas,JoseL.Media-Villa,Victrola993.mp3"
+    ]
+  },
+  {
+    "identifier": "TheWreckOfThe12-56OnTheC.AndO",
+    "title": "The wreck of the 12-56 on the C. and O",
+    "creator": "Carlos B. McAsee",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/TheWreckOfThe12-56OnTheC.AndO/TheWreckOfThe12-56OnTheC.AndO.--GuyMassey.flac",
+      "https://archive.org/download/TheWreckOfThe12-56OnTheC.AndO/TheWreckOfThe12-56OnTheC.AndO.--GuyMassey.mp3",
+      "https://archive.org/download/TheWreckOfThe12-56OnTheC.AndO/TheWreckOfThe12-56OnTheC.AndO.--GuyMassey.ogg"
+    ]
+  },
+  {
+    "identifier": "maria-gay-camille-sant-saens-samsonet-dalila-moncoeursouvreatavoix-gramophone-033041",
+    "title": "Maria Gay, Camille Sant Saens, Samsonet Dalila, Moncoeursouvreatavoix, Gramophone 033041",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/maria-gay-camille-sant-saens-samsonet-dalila-moncoeursouvreatavoix-gramophone-033041/MariaGay,CamilleSantSaens,SamsonetDalila,Moncoeursouvreatavoix,Gramophone033041.mp3"
+    ]
+  },
+  {
+    "identifier": "les-vieilles-de-chez-nous",
+    "title": "Les Vieilles de chez Nous - M\u00e9lodie - Ch. Levad\u00e9 - J. Lafforgue Chant & Orchestre",
+    "creator": "",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "antonio-magini-coletti-paolo-tosti-nont-ama-piu-fonotipia-39375",
+    "title": "Antonio Magini Coletti, Paolo Tosti, Nont Ama Piu, Fonotipia 39375",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/antonio-magini-coletti-paolo-tosti-nont-ama-piu-fonotipia-39375/AntonioMaginiColetti,PaoloTosti,NontAmaPiu,Fonotipia39375.mp3"
+    ]
+  },
+  {
+    "identifier": "giovanni-martinelli-roxas-abentornato-amore-victrola-64772",
+    "title": "Giovanni Martinelli, Roxas, ABentornato Amore, Victrola 64772",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/giovanni-martinelli-roxas-abentornato-amore-victrola-64772/GiovanniMartinelli,Roxas,ABentornatoAmore,Victrola64772.mp3"
+    ]
+  },
+  {
+    "identifier": "78_tivoli-foxtrot-odeon-salon-orkester-elith",
+    "title": "Tivoli-foxtrot",
+    "creator": [
+      "Odeon salon-orkester",
+      "Elith Worsing"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_tivoli-foxtrot-odeon-salon-orkester-elith/31053 Tivoli-foxtrot.mp3"
+    ]
+  },
+  {
+    "identifier": "p.-9155-pistor-andresen-vom-bade",
+    "title": "Parsifal: Vom Bade kehrt der K\u00f6nig heim",
+    "creator": "Ivar ANDRESEN - Bass, Gotthelf PISTOR - Tenor, Frieder WEISSMANN - Dirigent",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/p.-9155-pistor-andresen-vom-bade/P.9155 Pistor Andresen Vom Bade.flac",
+      "https://archive.org/download/p.-9155-pistor-andresen-vom-bade/P.9155 Pistor Andresen Vom Bade.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-03-00-George-Eckhardt-Jr-Cafe-Lafayette-Orch-You-Were-Meant-For-Me",
+    "title": "George Eckhardt Jr Cafe Lafayette Orch You Were Meant For Me",
+    "creator": "George Eckhardt Jr",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-03-00-George-Eckhardt-Jr-Cafe-Lafayette-Orch-You-Were-Meant-For-Me/1929(USA)Archives19290300GeorgeEckhardtJr.CafeLafayetteOrch-YouWereMeantForMe.mp3"
+    ]
+  },
+  {
+    "identifier": "78_zufriedenheit-g-boulanger-und-sein-orchester-g",
+    "title": "Zufriedenheit",
+    "creator": [
+      "G. Boulanger und sein orchester",
+      "G, Boulanger"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_zufriedenheit-g-boulanger-und-sein-orchester-g/23124 Zufriedenheit.mp3"
+    ]
+  },
+  {
+    "identifier": "friedrich-schorr-richard-wagner-die-meistersinger-von-nurnberg-jerum-jerum-his-masters-voice-d-1866",
+    "title": "Friedrich Schorr, Richard Wagner, Die Meistersinger Von N\u00fcrnberg, Jerum! Jerum, His Master's Voice D 1866",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/friedrich-schorr-richard-wagner-die-meistersinger-von-nurnberg-jerum-jerum-his-masters-voice-d-1866/FriedrichSchorr,RichardWagner,DieMeistersingerVonN\u00fcrnberg,Jerum!Jerum,HisMaster'sVoiceD1866.mp3"
+    ]
+  },
+  {
+    "identifier": "wilhem-hesch-charles-gounod-romeo-et-juliette-air-de-capulet-g.-t-3-42850",
+    "title": "Wilhem Hesch, Charles Gounod, Rom\u00e9o Et Juliette, Air De Capulet, G.& T 3 42850",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/wilhem-hesch-charles-gounod-romeo-et-juliette-air-de-capulet-g.-t-3-42850/WilhemHesch,CharlesGounod,Rom\u00e9oEtJuliette,AirDeCapulet,G.&T3-42850.mp3"
+    ]
+  },
+  {
+    "identifier": "kaspar-koch-richard-wagner-die-walkure-wintersturme-vox-3119",
+    "title": "Kaspar Koch, Richard Wagner, Die Walkure, Wintersturme, Vox 3119",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/kaspar-koch-richard-wagner-die-walkure-wintersturme-vox-3119/KasparKoch,RichardWagner,DieWalkure,Wintersturme,Vox3119 .mp3"
+    ]
+  },
+  {
+    "identifier": "1927-USA-Archives-1927-06-02-Ted-Lewis-Band-Alexanders-Ragtime-Band-",
+    "title": "Ted Lewis Band Alexanders Ragtime Band",
+    "creator": "Ted Lewis Band",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1927-USA-Archives-1927-06-02-Ted-Lewis-Band-Alexanders-Ragtime-Band-/1927(USA)Archives19270602TedLewisBand-AlexandersRagtimeBand.mp3"
+    ]
+  },
+  {
+    "identifier": "germaine-cernay-hector-berlioz-la-damnationde-faust-damourlardenteflamme-odeon-123721",
+    "title": "Germaine Cernay, Hector Berlioz, La Damnationde Faust, Damourlardenteflamme, Od\u00e9on 123721",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/germaine-cernay-hector-berlioz-la-damnationde-faust-damourlardenteflamme-odeon-123721/GermaineCernay,HectorBerlioz,LaDamnationdeFaust,Damourlardenteflamme,Odeon123721.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-07-15-All-Star-Orchestra-My-Dream-Memory",
+    "title": "All Star Orchestra My Dream Memory",
+    "creator": "All Star Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-07-15-All-Star-Orchestra-My-Dream-Memory/1929(USA)Archives19290715AllStarOrchestra-MyDreamMemory.mp3"
+    ]
+  },
+  {
+    "identifier": "titta-ruffo-hector-berlioz-l-damnation-de-faust-serenade-de-mephisto-victor-963",
+    "title": "Titta Ruffo, Hector Berlioz, L Damnation De Faust, S\u00e9r\u00e9nade De M\u00e9phisto, Victor 963",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/titta-ruffo-hector-berlioz-l-damnation-de-faust-serenade-de-mephisto-victor-963/TittaRuffo,HectorBerlioz,L DamnationDeFaust,S\u00e9r\u00e9nadeDeM\u00e9phisto,Victor963.mp3"
+    ]
+  },
+  {
+    "identifier": "riccardo-stracciari-alberto-franchetti-germania-ferito-prigionier-fonotipia-39159",
+    "title": "Riccardo Stracciari, Alberto Franchetti, Germania, Ferito Prigionier, Fonotipia 39159",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/riccardo-stracciari-alberto-franchetti-germania-ferito-prigionier-fonotipia-39159/RiccardoStracciari,AlbertoFranchetti,Germania,FeritoPrigionier,Fonotipia39159.mp3"
+    ]
+  },
+  {
+    "identifier": "lecuona-cuban-boys-vocal-by-manyo-lopez-boys-la-chancleta-son-montuno-majestic-1091-a-t-878-1",
+    "title": "La Chancleta (Son-Montuno)",
+    "creator": [
+      "Lecuona Cuban Boys",
+      "Manyo Lopez and Boys",
+      "Lopez",
+      "Arroyo"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/lecuona-cuban-boys-vocal-by-manyo-lopez-boys-la-chancleta-son-montuno-majestic-1091-a-t-878-1/Lecuona Cuban Boys, Vocal by Manyo Lopez & Boys -- La Chancleta, Son-Montuno -- Majestic, 1091 A, T-878-1.flac",
+      "https://archive.org/download/lecuona-cuban-boys-vocal-by-manyo-lopez-boys-la-chancleta-son-montuno-majestic-1091-a-t-878-1/Lecuona Cuban Boys, Vocal by Manyo Lopez & Boys -- La Chancleta, Son-Montuno -- Majestic, 1091 A, T-878-1.mp3"
+    ]
+  },
+  {
+    "identifier": "marche-tartare",
+    "title": "Marche Tartare - Edbar et Herv\u00e9 Musique du 5\u00e8me R\u00e9giment d'Infanterie sous la direction de M. J.-Ed. Barat",
+    "creator": "",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "miguel-villabella-mariotte-almaby-crepuscule-parolesde-emmanuel-flavia-leopold-pathe-x-93001",
+    "title": "Miguel Villabella, Mariotte Almaby, Crepuscule, Parolesde Emmanuel Flavia Leopold, Pathe X 93001",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/miguel-villabella-mariotte-almaby-crepuscule-parolesde-emmanuel-flavia-leopold-pathe-x-93001/MiguelVillabella,Mariotte Almaby,Crepuscule,ParolesdeEmmanuel-FlaviaLeopold,PatheX93001.mp3"
+    ]
+  },
+  {
+    "identifier": "miguel-villabella-si-jetais-roi-elles-est-princesse-pathe-pd-26-enregistre-le-29-mars-1934",
+    "title": "Miguel Villabella Si J'\u00e9tais Roi Elles Est Princesse Path\u00e9 PD 26 Enregistr\u00e9 Le 29 Mars 1934",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/miguel-villabella-si-jetais-roi-elles-est-princesse-pathe-pd-26-enregistre-le-29-mars-1934/Miguel Villabella - Si j'\u00e9tais roi - Elles est princesse - Path\u00e9 PD 26 enregistr\u00e9 le 29 mars 1934 .mp3"
+    ]
+  },
+  {
+    "identifier": "1923-USA-Archives-1923-07-24-Green-Brothers-Novelty-Band-Polly-Olly-Oo",
+    "title": "Polly-Olly-Oo",
+    "creator": "Green Brother's Novelty Band",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1923-USA-Archives-1923-07-24-Green-Brothers-Novelty-Band-Polly-Olly-Oo/1923 (USA) Archives 1923 07 24 Green Brother's Novelty Band - Polly-Olly-Oo.mp3"
+    ]
+  },
+  {
+    "identifier": "78_dido-and-aeneas-ruind-ere-the-set-of-sun_hobson-edna-ripley-gladys-coates-edit",
+    "title": "Dido and Aeneas; Ruin'd ere the set of sun?",
+    "creator": [
+      "Hobson, Edna",
+      "Ripley, Gladys",
+      "Coates, Edith",
+      "Philharmonia String Orchestra",
+      "Ord, Boris (harpsichord)",
+      "chorus"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_dido-and-aeneas-ruind-ere-the-set-of-sun_hobson-edna-ripley-gladys-coates-edit/C_3473_2EA_10523-3.flac",
+      "https://archive.org/download/78_dido-and-aeneas-ruind-ere-the-set-of-sun_hobson-edna-ripley-gladys-coates-edit/C_3473_2EA_10523-3.mp3"
+    ]
+  },
+  {
+    "identifier": "78_divertimento-in-d-k138-1st-mvt-andante-contd-presto_boyd-neel-string-orchestr",
+    "title": "Divertimento in D K.138 1st. Mvt: Andante (contd.) Presto",
+    "creator": "Boyd Neel String Orchestra",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_divertimento-in-d-k138-1st-mvt-andante-contd-presto_boyd-neel-string-orchestr/K_789_TA_1938-1.flac",
+      "https://archive.org/download/78_divertimento-in-d-k138-1st-mvt-andante-contd-presto_boyd-neel-string-orchestr/K_789_TA_1938-1.mp3"
+    ]
+  },
+  {
+    "identifier": "78_lady-of-spain_ambassador-club-band_wave",
+    "title": "Lady of Spain",
+    "creator": [
+      "Ambassador Club Band",
+      "Les Allen"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_lady-of-spain_ambassador-club-band_wave/lady of spain_ambassador club band.flac",
+      "https://archive.org/download/78_lady-of-spain_ambassador-club-band_wave/lady of spain_ambassador club band.mp3"
+    ]
+  },
+  {
+    "identifier": "CharlesMeuche78AnniversaryPgm02",
+    "title": "Charles Meuche 78 Anniversary Pgm 02",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 02.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 02.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 02.ogg",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 04.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 04.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 04.ogg",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 06.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 06.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 06.ogg",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 07.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 07.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 07.ogg",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 09.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 09.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 09.ogg",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 10.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 10.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 10.ogg",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 11 NO GOOD.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 11 NO GOOD.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 11 NO GOOD.ogg",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 11.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 11.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 11.ogg",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 13.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 13.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche 78 Anniversary Pgm 13.ogg",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche Hello By By Mademoiselle.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche Hello By By Mademoiselle.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche Hello By By Mademoiselle.ogg",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche Nonsense Side 1.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche Nonsense Side 1.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche Nonsense Side 1.ogg",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche Nonsense Side 2.flac",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche Nonsense Side 2.mp3",
+      "https://archive.org/download/CharlesMeuche78AnniversaryPgm02/Charles Meuche Nonsense Side 2.ogg"
+    ]
+  },
+  {
+    "identifier": "78_serenade-no-6-in-d-k239-serenata-notturno-marcia_willoughby-l-gilbert-m-mart",
+    "title": "Serenade No 6 in D K.239 (Serenata Notturno) Marcia",
+    "creator": [
+      "Willoughby, L.",
+      "Gilbert, M.",
+      "Martin, D.",
+      "Walton J (soloist)",
+      "Boyd Neel String Orchestra"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_serenade-no-6-in-d-k239-serenata-notturno-marcia_willoughby-l-gilbert-m-mart/K_813_TA_1939-1.flac",
+      "https://archive.org/download/78_serenade-no-6-in-d-k239-serenata-notturno-marcia_willoughby-l-gilbert-m-mart/K_813_TA_1939-1.mp3"
+    ]
+  },
+  {
+    "identifier": "78_symphony-no-104-dmaj-london-2nd-mvt-andante-pt2-concl_philharmonia-orchestra",
+    "title": "Symphony No. 104 Dmaj (London) - 2nd mvt Andante pt2 (concl)",
+    "creator": "Philharmonia Orchestra",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_symphony-no-104-dmaj-london-2nd-mvt-andante-pt2-concl_philharmonia-orchestra/C_3516_2EA_11119-2.flac",
+      "https://archive.org/download/78_symphony-no-104-dmaj-london-2nd-mvt-andante-pt2-concl_philharmonia-orchestra/C_3516_2EA_11119-2.mp3"
+    ]
+  },
+  {
+    "identifier": "78_tanz-und-tonfilm-auf-der-wurlitzer-del-1-wurlitzer-orgen-adolf",
+    "title": "Tanz und tonfilm auf der Wurlitzer - del 1",
+    "creator": "Wurlitzer orgen: Adolf Wolff",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_tanz-und-tonfilm-auf-der-wurlitzer-del-1-wurlitzer-orgen-adolf/30103 Tanz und tonfilm auf der Wurlitzer - del 1.mp3"
+    ]
+  },
+  {
+    "identifier": "78_the-handsom-territorial-nat-gonella-his-georgians-nat-gonella-kennedy",
+    "title": "The handsom territorial",
+    "creator": [
+      "Nat Gonella",
+      "Nat Gonella & his Georgians",
+      "Kennedy - Carr"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_the-handsom-territorial-nat-gonella-his-georgians-nat-gonella-kennedy/22878 The handsom territorial.mp3"
+    ]
+  },
+  {
+    "identifier": "78_till-eulenspiegels-lustige-streiche-op-28-pt4_london-symphony-orchestra",
+    "title": "Till Eulenspiegels Lustige Streiche Op. 28 pt4",
+    "creator": "London Symphony Orchestra",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_till-eulenspiegels-lustige-streiche-op-28-pt4_london-symphony-orchestra/D_1419_CR_1561-1A.flac",
+      "https://archive.org/download/78_till-eulenspiegels-lustige-streiche-op-28-pt4_london-symphony-orchestra/D_1419_CR_1561-1A.mp3"
+    ]
+  },
+  {
+    "identifier": "78_13058-Charlie-Kunz-piano-medley-no-D-77-del-1",
+    "title": "Charlie Kunz piano medley no D 77 - del 1",
+    "creator": [
+      "Charlie Kunz",
+      "Charlie Kunz piano sole with rhythm accomp"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_13058-Charlie-Kunz-piano-medley-no-D-77-del-1/13058-Charlie-Kunz-piano-medley-no-D-77-del-1.mp3"
+    ]
+  },
+  {
+    "identifier": "78_14859-Regndrabeserenade",
+    "title": "Regndrabeserenade",
+    "creator": [
+      "Birthe Buch",
+      "Robert Arnold",
+      "Bent Fabricius-Bjerres orkester",
+      "Philip Green"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_14859-Regndrabeserenade/14859-Regndrabeserenade.mp3"
+    ]
+  },
+  {
+    "identifier": "78_11644-The-bartered-bride-overture-del-2",
+    "title": "The bartered bride overture - del 2",
+    "creator": [
+      "Sir Hamilton Harty cond. London Philharmonic orch.",
+      "Smetana"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_11644-The-bartered-bride-overture-del-2/11644-The-bartered-bride-overture-del-2.mp3"
+    ]
+  },
+  {
+    "identifier": "78_agnus-dei-o-lamb-of-god-from-the-five-part-mass_st-georges-singers",
+    "title": "Agnus Dei (O Lamb of God) (From \"The Five Part Mass\")",
+    "creator": "St. George's Singers",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_agnus-dei-o-lamb-of-god-from-the-five-part-mass_st-georges-singers/5547_WA_7171.flac",
+      "https://archive.org/download/78_agnus-dei-o-lamb-of-god-from-the-five-part-mass_st-georges-singers/5547_WA_7171.mp3"
+    ]
+  },
+  {
+    "identifier": "78_auf-wiedersehen-my-dear_reginald-kings-orchestra_2024",
+    "title": "Auf Wiedersehen, My Dear - Reginald King's Orchestra",
+    "creator": "My 78s",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_auf-wiedersehen-my-dear_reginald-kings-orchestra_2024/auf wiedersehen my dear_reginald kings orchestra_mono_2024.flac",
+      "https://archive.org/download/78_auf-wiedersehen-my-dear_reginald-kings-orchestra_2024/auf wiedersehen my dear_reginald kings orchestra_mono_2024.mp3"
+    ]
+  },
+  {
+    "identifier": "78_10301-Im-opiumrausch",
+    "title": "Im opiumrausch",
+    "creator": [
+      "Palads danse orkester, Berlin",
+      "Jean Gilbert"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_10301-Im-opiumrausch/10301-Im-opiumrausch.mp3"
+    ]
+  },
+  {
+    "identifier": "78_2045-Klokkebloms-bellis-og-folfod",
+    "title": "Klokkeblomst og bellis og folfod",
+    "creator": [
+      "Aase Werrild",
+      "Arvid Maller",
+      "Sid Merrimann",
+      "Kai Ewans"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_2045-Klokkebloms-bellis-og-folfod/2045-Klokkebloms-bellis-og-folfod.mp3"
+    ]
+  },
+  {
+    "identifier": "78_fantasia-on-a-theme-of-tallis-pt4-concl_hall-orchestra",
+    "title": "Fantasia on a Theme of Tallis pt4 (concl)",
+    "creator": "Hall\u00e9 Orchestra",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_fantasia-on-a-theme-of-tallis-pt4-concl_hall-orchestra/C_3508_2ER_911-1.flac",
+      "https://archive.org/download/78_fantasia-on-a-theme-of-tallis-pt4-concl_hall-orchestra/C_3508_2ER_911-1.mp3"
+    ]
+  },
+  {
+    "identifier": "78_fantasia-upon-one-note_zorian-string-quartet-britten-benjamin",
+    "title": "Fantasia Upon One Note",
+    "creator": [
+      "Zorian String Quartet",
+      "Britten, Benjamin"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_fantasia-upon-one-note_zorian-string-quartet-britten-benjamin/C_3539_2EA_11334-1.flac",
+      "https://archive.org/download/78_fantasia-upon-one-note_zorian-string-quartet-britten-benjamin/C_3539_2EA_11334-1.mp3"
+    ]
+  },
+  {
+    "identifier": "78_concerto-no1-for-harpsichord-orchestra-part-1-allegro_roesgen-champion-mme",
+    "title": "Concerto No.1 for Harpsichord & Orchestra - Part 1 - Allegro",
+    "creator": [
+      "Roesgen-Champion, Mme Marguerite",
+      "Orchestre Symphonique of Paris"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_concerto-no1-for-harpsichord-orchestra-part-1-allegro_roesgen-champion-mme/LX_584_CPTX_254-1.flac",
+      "https://archive.org/download/78_concerto-no1-for-harpsichord-orchestra-part-1-allegro_roesgen-champion-mme/LX_584_CPTX_254-1.mp3"
+    ]
+  },
+  {
+    "identifier": "78_swing-low-sweet-chariot-paul-tremaine-and-his-orchestra-with-vocal",
+    "title": "Swing low, sweet chariot",
+    "creator": [
+      "with vocal chorus",
+      "Paul Tremaine and his orchestra",
+      "arr.: P. Tremaine"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_swing-low-sweet-chariot-paul-tremaine-and-his-orchestra-with-vocal/23275 Swing low, sweet chariot.mp3"
+    ]
+  },
+  {
+    "identifier": "DorusLompenEnMetalenDeccaM64105AA164105.1H",
+    "title": "Lompen En Metalen",
+    "creator": "Dorus",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/DorusLompenEnMetalenDeccaM64105AA164105.1H/Dorus - Lompen En Metalen(Decca M 64105)-(AA 164105.1 H).mp3",
+      "https://archive.org/download/DorusLompenEnMetalenDeccaM64105AA164105.1H/Dorus - Lompen En Metalen(Decca M 64105)-(AA 164105.1 H).ogg"
+    ]
+  },
+  {
+    "identifier": "DixieMarimbaPlayers78rpmCollection",
+    "title": "Dixie Marimba Players 78rpm Collection",
+    "creator": "78rpmCollection",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/01 A Shady Tree (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/01 A Shady Tree (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/02 Ramona (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/02 Ramona (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/03 Gypsy Love Song (Slumber On, My Little Gypsy Sweetheart) (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/03 Gypsy Love Song (Slumber On, My Little Gypsy Sweetheart) (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/04 Ah ! Sweet Mystery Of Life (The Dream Melody) (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/04 Ah ! Sweet Mystery Of Life (The Dream Melody) (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/05 Ramona (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/05 Ramona (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/06 Beloved (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/06 Beloved (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/07 I Wonder (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/07 I Wonder (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/08 There'll Never Be Another You (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/08 There'll Never Be Another You (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/09 King For A Day (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/09 King For A Day (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/10 Memories Of France (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/10 Memories Of France (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/11 Memories Of France (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/11 Memories Of France (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/12 Jeannie (I Dream Of Lilac Time) (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/12 Jeannie (I Dream Of Lilac Time) (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/13 Someday, Somewhere (We'll Meet Again) (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/13 Someday, Somewhere (We'll Meet Again) (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/14 Heart Of Mine (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/14 Heart Of Mine (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/15 My Angeline (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/15 My Angeline (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/16 Blue Hawaii (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/16 Blue Hawaii (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/17 Pagan Love Song (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/17 Pagan Love Song (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/18 Sleepy Valley (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/18 Sleepy Valley (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/19 The White Dove (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/19 The White Dove (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/20 The White Dove (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/20 The White Dove (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/21 There Will Never Be Another Mary (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/21 There Will Never Be Another Mary (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/22 Lazy Lou'siana Moon (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/22 Lazy Lou'siana Moon (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/23 Ride On, Vaquero.mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/23 Ride On, Vaquero.ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/24 Espanita (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/24 Espanita (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/25 Espanita (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/25 Espanita (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/26 Dancing With Tears In My Eyes (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/26 Dancing With Tears In My Eyes (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/27 Dancing With Tears In My Eyes (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/27 Dancing With Tears In My Eyes (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/28 Dancing With Tears In My Eyes (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/28 Dancing With Tears In My Eyes (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/29 La Serenata (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/29 La Serenata (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/30 Somewhere In Old Wyoming (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/30 Somewhere In Old Wyoming (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/31 Moonlight On The Colorado (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/31 Moonlight On The Colorado (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/32 Song Of The Trail (Old-Fashioned Song Of Love) (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/32 Song Of The Trail (Old-Fashioned Song Of Love) (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/33 Song Of The Trail (Old-Fashioned Song Of Love) (w).mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/33 Song Of The Trail (Old-Fashioned Song Of Love) (w).ogg",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/34 Beyond The Blue Horizon.mp3",
+      "https://archive.org/download/DixieMarimbaPlayers78rpmCollection/34 Beyond The Blue Horizon.ogg"
+    ]
+  },
+  {
+    "identifier": "NoMoreWorryin",
+    "title": "No more worryin'",
+    "creator": "kahn--Donaldson--Mills",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/NoMoreWorryin/NoMoreWorryin--paulWhiteman.flac",
+      "https://archive.org/download/NoMoreWorryin/NoMoreWorryin--paulWhiteman.mp3",
+      "https://archive.org/download/NoMoreWorryin/NoMoreWorryin--paulWhiteman.ogg"
+    ]
+  },
+  {
+    "identifier": "1928-USA-Archives-1928-09-00-Arrowhead-Inn-Orchestra-Meyer-Davis-Moonlight-Madness",
+    "title": "Arrowhead Inn Orchestra Meyer Davis Moonlight Madness",
+    "creator": "Arrowhead Inn Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1928-USA-Archives-1928-09-00-Arrowhead-Inn-Orchestra-Meyer-Davis-Moonlight-Madness/1928(USA)Archives19280900ArrowheadInnOrchestra(MeyerDavis)-MoonlightMadness.mp3"
+    ]
+  },
+  {
+    "identifier": "1934-USA-Archives-1934-02-08-Mike-Doty-Orch-Poppin-The-Cork",
+    "title": "Mike Doty Orch Poppin The Cork",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1934-USA-Archives-1934-02-08-Mike-Doty-Orch-Poppin-The-Cork/1934(USA)Archives19340208MikeDotyOrch-PoppinTheCork.mp3",
+      "https://archive.org/download/1934-USA-Archives-1934-02-08-Mike-Doty-Orch-Poppin-The-Cork/1934-USA-Archives-1934-02-08-Mike-Doty-Orch-Poppin-The-Cork.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-01-14-Carl-Fentons-Orch-Sweetheart-Of-All-My-Dreams",
+    "title": "Carl Fentons Orch Sweetheart Of All My Dreams",
+    "creator": "Carl Fentons Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-01-14-Carl-Fentons-Orch-Sweetheart-Of-All-My-Dreams/1929(USA)Archives19290114CarlFentonsOrch-SweetheartOfAllMyDreams.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-04-26-George-Belshaw-KKFB-Orch-Sweet-Liza-",
+    "title": "George Belshaw KKFB Orch Sweet Liza",
+    "creator": "George Belshaw KKFB Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-04-26-George-Belshaw-KKFB-Orch-Sweet-Liza-/1929(USA)Archives19290426GeorgeBelshawKKFBOrch-SweetLiza.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-06-06-Meyer-Davis-Hotel-Astor-Orch-Do-Something",
+    "title": "Meyer Davis Hotel Astor Orch Do Something",
+    "creator": "Meyer Davis Hotel Astor Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-06-06-Meyer-Davis-Hotel-Astor-Orch-Do-Something/1929(USA)Archives19290606MeyerDavisHotelAstorOrch-DoSomething.mp3"
+    ]
+  },
+  {
+    "identifier": "1929-USA-Archives-1929-09-27-Dick-Cherwin-Orch-Georgia-Pines",
+    "title": "Dick Cherwin Orch Georgia Pines",
+    "creator": "Dick Cherwin Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1929-USA-Archives-1929-09-27-Dick-Cherwin-Orch-Georgia-Pines/1929(USA)Archives19290927DickCherwinOrch-GeorgiaPines.mp3"
+    ]
+  },
+  {
+    "identifier": "1919-USA-Archives-1919-04-01-Louisiana-Five-Jazz-Orch-Yelping-Hound-Blues",
+    "title": "Yelping Hound Blues",
+    "creator": "Louisiana Five Jazz Orch",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1919-USA-Archives-1919-04-01-Louisiana-Five-Jazz-Orch-Yelping-Hound-Blues/1919 (USA) Archives 1919 04 01 Louisiana Five Jazz Orch - Yelping Hound Blues.mp3",
+      "https://archive.org/download/1919-USA-Archives-1919-04-01-Louisiana-Five-Jazz-Orch-Yelping-Hound-Blues/1919 (USA) Archives 1919 04 01 Louisiana Five Jazz Orch - Yelping Hound Blues.ogg"
+    ]
+  },
+  {
+    "identifier": "1922-USA-Archives-1922-07-11-Broadway-Dance-Orch-Dancing-Fool",
+    "title": "Broadway Dance Orch Dancing Fool",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/1922-USA-Archives-1922-07-11-Broadway-Dance-Orch-Dancing-Fool/1922 (USA) Archives 1922 07 11 Broadway Dance Orch - Dancing Fool.mp3",
+      "https://archive.org/download/1922-USA-Archives-1922-07-11-Broadway-Dance-Orch-Dancing-Fool/1922-USA-Archives-1922-07-11-Broadway-Dance-Orch-Dancing-Fool.mp3"
+    ]
+  },
+  {
+    "identifier": "michae-bohnen-giacomo-meyerbeer-dinorah-sei-vindicata-assai-brunswick-15097",
+    "title": "Michae Bohnen, Giacomo Meyerbeer, Dinorah, Sei Vindicata Assai, Brunswick 15097",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/michae-bohnen-giacomo-meyerbeer-dinorah-sei-vindicata-assai-brunswick-15097/Michae Bohnen,GiacomoMeyerbeer,Dinorah,SeiVindicataAssai,Brunswick15097.mp3"
+    ]
+  },
+  {
+    "identifier": "ernest-tilkin-servaiset-jacqueline-roger-il-trovatore-cestlordrequelefililssoitpuni-gramophone-w-715",
+    "title": "Ernest Tilkin Servaiset Jacqueline Roger, Il Trovatore, Cestlordrequelefililssoitpuni, Gramophone W 715",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ernest-tilkin-servaiset-jacqueline-roger-il-trovatore-cestlordrequelefililssoitpuni-gramophone-w-715/ErnestTilkin-ServaisetJacquelineRoger,Il Trovatore,Cestlordrequelefilssoitpuni,GramophoneW715.mp3"
+    ]
+  },
+  {
+    "identifier": "JV-3670-1928-QmZdUyGtkLG7YU4uasDwU3XSqePGM6SMe6pHoPMRvzsESU.mp3",
+    "title": "Amour De Gitane (Gypsy Love)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/JV-3670-1928-QmZdUyGtkLG7YU4uasDwU3XSqePGM6SMe6pHoPMRvzsESU.mp3/DV513496.mp3"
+    ]
+  },
+  {
+    "identifier": "JV-22614-1945-QmSan9Kt2SU1RR1WLzw2qQUjCh6B1fmAaKEXvhLTB8Vvve.mp3",
+    "title": "Bedroom Blues",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/JV-22614-1945-QmSan9Kt2SU1RR1WLzw2qQUjCh6B1fmAaKEXvhLTB8Vvve.mp3/CON9005.mp3"
+    ]
+  },
+  {
+    "identifier": "WhenTheMoonComesOverTheMountain",
+    "title": "When the moon comes over the mountain",
+    "creator": "Smith--Johnson--Woods",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/WhenTheMoonComesOverTheMountain/WhenTheMoonComesOverTheMountain--benAlley.flac",
+      "https://archive.org/download/WhenTheMoonComesOverTheMountain/WhenTheMoonComesOverTheMountain--benAlley.mp3",
+      "https://archive.org/download/WhenTheMoonComesOverTheMountain/WhenTheMoonComesOverTheMountain--benAlley.ogg"
+    ]
+  },
+  {
+    "identifier": "78_unbeldi_324_14",
+    "title": "Unbeldi",
+    "creator": [
+      "Mira Nobili-Mazzucchelli",
+      "Giacomo Puccini"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_unbeldi_324_14/Unbeldi - Mira Nobili-Mazzucchelli - Giacomo Puccini.flac",
+      "https://archive.org/download/78_unbeldi_324_14/Unbeldi - Mira Nobili-Mazzucchelli - Giacomo Puccini.mp3",
+      "https://archive.org/download/78_unbeldi_324_14/_14-Pathe 10389.flac",
+      "https://archive.org/download/78_unbeldi_324_14/_14-Pathe 10389.mp3"
+    ]
+  },
+  {
+    "identifier": "78_werunsgetraut_115_05",
+    "title": "Weruns Getraut",
+    "creator": [
+      "Phillaseigmann Wolff",
+      "Fritz Sturmfels",
+      "Johannii Strauss"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_werunsgetraut_115_05/Weruns Getraut - Phillaseigmann Wolff - Fritz Sturmfels - Johannii Strauss.flac",
+      "https://archive.org/download/78_werunsgetraut_115_05/Weruns Getraut - Phillaseigmann Wolff - Fritz Sturmfels - Johannii Strauss.mp3",
+      "https://archive.org/download/78_werunsgetraut_115_05/_05-Nicole 03065.flac",
+      "https://archive.org/download/78_werunsgetraut_115_05/_05-Nicole 03065.mp3"
+    ]
+  },
+  {
+    "identifier": "78_werunsgetraut_269_06",
+    "title": "Weruns Getraut",
+    "creator": [
+      "Elena Gerhardt",
+      "Max Bloch",
+      "Johann Strauss"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_werunsgetraut_269_06/Weruns Getraut - Elena Gerhardt - Max Bloch - Johann Strauss.flac",
+      "https://archive.org/download/78_werunsgetraut_269_06/Weruns Getraut - Elena Gerhardt - Max Bloch - Johann Strauss.mp3",
+      "https://archive.org/download/78_werunsgetraut_269_06/_06-Columbia E-4854.flac",
+      "https://archive.org/download/78_werunsgetraut_269_06/_06-Columbia E-4854.mp3"
+    ]
+  },
+  {
+    "identifier": "78_vienleonora_213_14",
+    "title": "Vien Leonora",
+    "creator": [
+      "Francisco D'Andrade",
+      "Donizetti",
+      "Max Wolfheim"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_vienleonora_213_14/Vien Leonora - Francisco D'Andrade - Donizetti - Max Wolfheim.flac",
+      "https://archive.org/download/78_vienleonora_213_14/Vien Leonora - Francisco D'Andrade - Donizetti - Max Wolfheim.mp3",
+      "https://archive.org/download/78_vienleonora_213_14/_14-Lyrophon d'A-8.flac",
+      "https://archive.org/download/78_vienleonora_213_14/_14-Lyrophon d'A-8.mp3"
+    ]
+  },
+  {
+    "identifier": "78_whathappiness_067_13",
+    "title": "Whathappiness",
+    "creator": [
+      "Dmitrialexeyevich Smirnov",
+      "Charles Davidov"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_whathappiness_067_13/Whathappiness - Dmitrialexeyevich Smirnov - Charles Davidov.flac",
+      "https://archive.org/download/78_whathappiness_067_13/Whathappiness - Dmitrialexeyevich Smirnov - Charles Davidov.mp3",
+      "https://archive.org/download/78_whathappiness_067_13/_13-HMV 4-22770.flac",
+      "https://archive.org/download/78_whathappiness_067_13/_13-HMV 4-22770.mp3"
+    ]
+  },
+  {
+    "identifier": "78_london-bridge-is-falling-down-statues_crane-calder_gbia0430164a",
+    "title": "LONDON BRIDGE IS FALLING DOWN; STATUES",
+    "creator": "CRANE CALDER",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_london-bridge-is-falling-down-statues_crane-calder_gbia0430164a/LONDON BRIDGE IS FALLING DOWN; STATUES - CRANE CALDER.flac",
+      "https://archive.org/download/78_london-bridge-is-falling-down-statues_crane-calder_gbia0430164a/LONDON BRIDGE IS FALLING DOWN; STATUES - CRANE CALDER.mp3"
+    ]
+  },
+  {
+    "identifier": "78_lorenziberg_toni-lenz_gbia3027813a",
+    "title": "LORENZIBERG",
+    "creator": "TONI LENZ",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_lorenziberg_toni-lenz_gbia3027813a/LORENZIBERG - TONI LENZ.flac",
+      "https://archive.org/download/78_lorenziberg_toni-lenz_gbia3027813a/LORENZIBERG - TONI LENZ.mp3"
+    ]
+  },
+  {
+    "identifier": "78_lyrische-suite-no-3-nocturne-notturno_bbc-wireless-symphony-orchestra",
+    "title": "Lyrische Suite - No. 3 - Nocturne (Notturno)",
+    "creator": "BBC Wireless Symphony Orchestra",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_lyrische-suite-no-3-nocturne-notturno_bbc-wireless-symphony-orchestra/991_AX_531.flac",
+      "https://archive.org/download/78_lyrische-suite-no-3-nocturne-notturno_bbc-wireless-symphony-orchestra/991_AX_531.mp3"
+    ]
+  },
+  {
+    "identifier": "78_mandragora_paul-franklin-his-orchestra-gil-howland_gbia3008512b",
+    "title": "MANDRAGORA",
+    "creator": [
+      "PAUL FRANKLIN & HIS ORCHESTRA",
+      "Gil Howland"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_mandragora_paul-franklin-his-orchestra-gil-howland_gbia3008512b/MANDRAGORA - PAUL FRANKLIN & HIS ORCHESTRA.flac",
+      "https://archive.org/download/78_mandragora_paul-franklin-his-orchestra-gil-howland_gbia3008512b/MANDRAGORA - PAUL FRANKLIN & HIS ORCHESTRA.mp3"
+    ]
+  },
+  {
+    "identifier": "78_move-up-a-little-higher-del-1-mahalia-jackson-jackson",
+    "title": "Move up a little higher - del 1",
+    "creator": [
+      "Mahalia Jackson",
+      "Jackson, Frye"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_move-up-a-little-higher-del-1-mahalia-jackson-jackson/26981 Move up a little higher - del 1.mp3"
+    ]
+  },
+  {
+    "identifier": "78_little-old-lady_roy-fox-and-his-orchestra-denny-dennis-adams-carmichael_gbia7020955a",
+    "title": "LITTLE OLD LADY",
+    "creator": [
+      "ROY FOX AND HIS ORCHESTRA",
+      "Denny Dennis",
+      "Adams & Carmichael"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_little-old-lady_roy-fox-and-his-orchestra-denny-dennis-adams-carmichael_gbia7020955a/LITTLE OLD LADY - ROY FOX AND HIS ORCHESTRA.flac",
+      "https://archive.org/download/78_little-old-lady_roy-fox-and-his-orchestra-denny-dennis-adams-carmichael_gbia7020955a/LITTLE OLD LADY - ROY FOX AND HIS ORCHESTRA.mp3"
+    ]
+  },
+  {
+    "identifier": "JV-11912-1937-Qmbyr1ABL5eiABbFF374Kjk9pw3joYLWx7LMLVFZ6SYtow.mp3",
+    "title": "Top Of The Town",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/JV-11912-1937-Qmbyr1ABL5eiABbFF374Kjk9pw3joYLWx7LMLVFZ6SYtow.mp3/BLU06850.mp3"
+    ]
+  },
+  {
+    "identifier": "78_pauvremartyrobscur_138_06",
+    "title": "Pauvremartyrobscur",
+    "creator": [
+      "Titta Ruffo",
+      "Emile Paladilhe"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_pauvremartyrobscur_138_06/Pauvremartyrobscur - Titta Ruffo - Emile Paladilhe.flac",
+      "https://archive.org/download/78_pauvremartyrobscur_138_06/Pauvremartyrobscur - Titta Ruffo - Emile Paladilhe.mp3",
+      "https://archive.org/download/78_pauvremartyrobscur_138_06/_06-Victor 88643.flac",
+      "https://archive.org/download/78_pauvremartyrobscur_138_06/_06-Victor 88643.mp3"
+    ]
+  },
+  {
+    "identifier": "78_restassuredthetimewillpass_118_10",
+    "title": "Restassured, thetimewillpass",
+    "creator": [
+      "Evgeniyaivanovna Zbrujeva",
+      "Nikolaiarkady Bolshakov",
+      "Glinka"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_restassuredthetimewillpass_118_10/Restassured,thetimewillpass - Evgeniyaivanovna Zbrujeva - Nikolaiarkady Bolshakov - Glinka.flac",
+      "https://archive.org/download/78_restassuredthetimewillpass_118_10/Restassured,thetimewillpass - Evgeniyaivanovna Zbrujeva - Nikolaiarkady Bolshakov - Glinka.mp3",
+      "https://archive.org/download/78_restassuredthetimewillpass_118_10/_10-Gram 2-23455.flac",
+      "https://archive.org/download/78_restassuredthetimewillpass_118_10/_10-Gram 2-23455.mp3"
+    ]
+  },
+  {
+    "identifier": "78_sapervorreste_038_12",
+    "title": "Sapervorreste",
+    "creator": [
+      "Minnie Nast",
+      "Giuseppe Verdi",
+      "Bruno Seidler-Winkler"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_sapervorreste_038_12/Sapervorreste - Minnie Nast - Giuseppe Verdi - Bruno Seidler-Winkler.flac",
+      "https://archive.org/download/78_sapervorreste_038_12/Sapervorreste - Minnie Nast - Giuseppe Verdi - Bruno Seidler-Winkler.mp3",
+      "https://archive.org/download/78_sapervorreste_038_12/_12-Gram 2-43284.flac",
+      "https://archive.org/download/78_sapervorreste_038_12/_12-Gram 2-43284.mp3"
+    ]
+  },
+  {
+    "identifier": "gBiKYibZZow",
+    "title": "Shehnai Instrumental-Raag Ahir Bhairav",
+    "creator": "Sunil Dhumal - Topic",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=gBiKYibZZow"
+    ]
+  },
+  {
+    "identifier": "K0DrqoCJ1NM",
+    "title": "Kerala Chenda Melam in Melmalaiyanur 8925728262singarimelam in temple festival|Tamilnadu",
+    "creator": "SaiBrother\u2019s Kalaikuzhu ",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=K0DrqoCJ1NM"
+    ]
+  },
+  {
+    "identifier": "_jaVh3fZokw",
+    "title": "Uppal ayyappa temple || chenda melam",
+    "creator": "CAVING COMPASS ",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=_jaVh3fZokw"
+    ]
   }
 ]
