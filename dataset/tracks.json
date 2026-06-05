@@ -236957,5 +236957,118 @@
     "audio_urls": [
       "https://youtube.com/watch?v=VCH2Ld1cp6o"
     ]
+  },
+  {
+    "identifier": "radio-ceylon-05-06-2026-friday-",
+    "title": "Radio Ceylon 05-06-2026~ Friday~",
+    "creator": "Ashwani Kumar",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/radio-ceylon-05-06-2026-friday-/Radio Ceylon 05-06-2026~Friday~01 Bhakti Sangeet -.mp3",
+      "https://archive.org/download/radio-ceylon-05-06-2026-friday-/Radio Ceylon 05-06-2026~Friday~02 Aapki Pasand - Part-A-.mp3",
+      "https://archive.org/download/radio-ceylon-05-06-2026-friday-/Radio Ceylon 05-06-2026~Friday~03 Aapki Pasand - Part-B-.mp3",
+      "https://archive.org/download/radio-ceylon-05-06-2026-friday-/Radio Ceylon 05-06-2026~Friday~04 Aapki Pasand - Part-C-.mp3",
+      "https://archive.org/download/radio-ceylon-05-06-2026-friday-/Radio Ceylon 05-06-2026~Friday~05 Purani Filmon Ka Sangeet -.mp3"
+    ]
+  },
+  {
+    "identifier": "billie_holder_part1",
+    "title": "Billie Holder: New Mexico in Ten Years: Part One",
+    "creator": "Alamogordo Public Library",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/billie_holder_part1/  - 978.9 Hold S1.aif.flac"
+    ]
+  },
+  {
+    "identifier": "0590543-marius-dochita-bat-o-focu-insuratoare",
+    "title": "MARIUS DOCHITA - BAT-O FOCU' INSURATOARE \ud83c\uddf7\ud83c\uddf4\ud83c\udfb6\ud83c\udfbb",
+    "creator": "Alexandru Georgescu Ploie\u0219ti",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/0590543-marius-dochita-bat-o-focu-insuratoare/0590543_MARIUS DOCHITA - BAT-O FOCU' INSURATOARE  \ud83c\uddf7\ud83c\uddf4\ud83c\udfb6\ud83c\udfbb.mp3"
+    ]
+  },
+  {
+    "identifier": "lp_sonata-in-d-major-op-12_eduardo-lalo",
+    "title": "Sonata In D Major (Op. 12)",
+    "creator": "Eduardo Lalo",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/01.01. Allegro Molto.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/01.01. Allegro Molto_sample.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/01.02. Andante.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/01.02. Andante_sample.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/01.03. Allegro Vivo.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/01.03. Allegro Vivo_sample.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/01.04. Allegro Quasi Presto.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/01.04. Allegro Quasi Presto_sample.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/02.01. Allegro Moderato.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/02.01. Allegro Moderato_sample.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/02.02. Theme And Variations (Andantino Con Moto).mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/02.02. Theme And Variations (Andantino Con Moto)_sample.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/02.03. Rondo (Vivace).mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/02.03. Rondo (Vivace)_sample.mp3",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/lp_sonata-in-d-major-op-12_eduardo-lalo_disc1side1.flac",
+      "https://archive.org/download/lp_sonata-in-d-major-op-12_eduardo-lalo/disc1/lp_sonata-in-d-major-op-12_eduardo-lalo_disc1side2.flac"
+    ]
+  },
+  {
+    "identifier": "78_pa-cafe-continental-poul-christiansens-danseorkester-hans-wrem-will-grosz-j",
+    "title": "P\u00e5 caf\u00e9 continental",
+    "creator": [
+      "Hans Wrem",
+      "Poul Christiansens danseorkester",
+      "Will Grosz - J Kennedy",
+      "Ove M\u00f8ller"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_pa-cafe-continental-poul-christiansens-danseorkester-hans-wrem-will-grosz-j/20879 Pa\u030a cafe\u0301 continental.mp3"
+    ]
+  },
+  {
+    "identifier": "78_parisienne-doll-jack-hylton-and-his-orchestra-with-vocal-refrain-may",
+    "title": "Parisienne doll",
+    "creator": [
+      "with vocal refrain",
+      "Jack Hylton and his orchestra",
+      "May & Whidden"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_parisienne-doll-jack-hylton-and-his-orchestra-with-vocal-refrain-may/28970 Parisienne doll.mp3"
+    ]
+  },
+  {
+    "identifier": "78_pierina-cupol-orkestret-dir-jerry-hogstedt-sven-olof-sandberg-evert",
+    "title": "Pierina",
+    "creator": [
+      "Sven-Olof Sandberg",
+      "Cupol-orkestret, dir.: Jerry H\u00f6gstedt",
+      "Evert Taube"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_pierina-cupol-orkestret-dir-jerry-hogstedt-sven-olof-sandberg-evert/31732 Pierina.mp3"
+    ]
+  },
+  {
+    "identifier": "h-OeBUdeMGY",
+    "title": "Tu Hi Re on Shehnai \ud83c\udfba\u2728 #Shehnai #TuHiRe #viralvideo  #Instrumental #Melody #SurShreeVadyaVrund",
+    "creator": "Rajkumar Shehnai",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=h-OeBUdeMGY"
+    ]
+  },
+  {
+    "identifier": "8JGBlS4ApT0",
+    "title": "90min Concert | Ramana Balachandhran, Anantha R. Krishnan",
+    "creator": "Ramana Balachandhran",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=8JGBlS4ApT0"
+    ]
   }
 ]
