@@ -28496,5 +28496,39 @@
       "https://youtube.com/watch?v=BAVepoqgzdo"
     ],
     "instrument": "chenda"
+  },
+  {
+    "identifier": "edison-80116_01_2114",
+    "title": "The Last Rose Of Summer",
+    "creator": [
+      "Venetian Instrumental Quartet",
+      "Thomas Moore"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/edison-80116_01_2114/cusb_ed_80116_01_2114_0b.flac",
+      "https://archive.org/download/edison-80116_01_2114/cusb_ed_80116_01_2114_0b.mp3"
+    ],
+    "instrument": "carnatic_instrumental"
+  },
+  {
+    "identifier": "MqTB3j40F90",
+    "title": "\ud83d\udd31 6th Day Annual Festival 2026  Mallari Nadaswaram  Instrumental \ud83c\udfb6  Highgate Hill Murugan Temple",
+    "creator": "LondonHinduTempleTV",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=MqTB3j40F90"
+    ],
+    "instrument": "nadaswaram"
+  },
+  {
+    "identifier": "JWiBJh1QeE4",
+    "title": "We One,Kollam at Mannoorkavu Devi Temple | Shinkari Melam | Chenda | Utsavam",
+    "creator": "VML Media",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=JWiBJh1QeE4"
+    ],
+    "instrument": "chenda"
   }
 ]
