@@ -27759,5 +27759,19 @@
     "audio_urls": [
       "https://youtube.com/watch?v=JWiBJh1QeE4"
     ]
+  },
+  {
+    "identifier": "78_requiem-op-48-3-offertory-pt1_les-chanteurs-de-lyon-trigentuor-instrumental-ly",
+    "title": "Requiem Op. 48 - 3 - Offertory pt1",
+    "creator": [
+      "Les Chanteurs de Lyon",
+      "Trigentuor Instrumental Lyonnais, Le",
+      "Commette, Edouard"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_requiem-op-48-3-offertory-pt1_les-chanteurs-de-lyon-trigentuor-instrumental-ly/LX_774_CLX_2106-1.flac",
+      "https://archive.org/download/78_requiem-op-48-3-offertory-pt1_les-chanteurs-de-lyon-trigentuor-instrumental-ly/LX_774_CLX_2106-1.mp3"
+    ]
   }
 ]
