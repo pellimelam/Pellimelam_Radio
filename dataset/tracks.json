@@ -255698,5 +255698,925 @@
     "audio_urls": [
       "https://youtube.com/watch?v=wJZFyvIM3fY"
     ]
+  },
+  {
+    "identifier": "omahabeat240525schoeps-mk4",
+    "title": "Omaha Beat Brigade May 25, 2024 ZOO Bar, Lincoln, NE",
+    "creator": "Omaha Beat Brigade",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525101.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525101.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525102.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525102.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525103.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525103.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525104.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525104.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525105.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525105.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525106.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525106.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525107.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525107.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525201.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525201.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525202.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525202.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525203.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525203.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525204.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525204.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525205.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525205.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525206.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525206.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525207.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525207.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525208.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525208.mp3",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525209.flac",
+      "https://archive.org/download/omahabeat240525schoeps-mk4/OmahaBeat2024-05-25.Schoeps4.Darby.Flac24/OmahaBeat240525209.mp3"
+    ]
+  },
+  {
+    "identifier": "phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448",
+    "title": "Phish - 2019-12-28 - Madison Square Garden - New York, NY",
+    "creator": "Phish",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t01.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t01.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t02.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t02.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t03.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t03.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t04.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t04.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t05.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t05.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t06.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t06.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t07.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t07.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t08.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t08.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t09.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t09.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t10.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t10.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t11.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t11.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t12.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t12.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t13.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t13.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t14.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t14.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t15.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t15.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t16.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t16.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t17.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t17.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t18.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t18.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t19.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t19.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t20.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t20.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t21.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t21.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t22.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t22.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t23.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t23.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t24.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t24.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t25.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t25.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t26.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t26.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t27.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t27.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t28.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t28.mp3",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t29.flac",
+      "https://archive.org/download/phish2019-12-28.148650.newyork.mk22.phishrabbi.flac2448/Phish2019.12.28.schoeps.mk22.flac24.t29.mp3"
+    ]
+  },
+  {
+    "identifier": "phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496",
+    "title": "Phish - 2022-05-28 - Wharf Amphitheater - Orange Beach, AL",
+    "creator": "Phish",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t01.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t01.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t02.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t02.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t03.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t03.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t04.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t04.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t05.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t05.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t06.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t06.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t07.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t07.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t08.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t08.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t09.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s01t09.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t01.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t01.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t02.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t02.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t03.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t03.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t04.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t04.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t05.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t05.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t06.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t06.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t07.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t07.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t08.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t08.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t09.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t09.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t10.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t10.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t11.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t11.mp3",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t12.flac",
+      "https://archive.org/download/phish2022-05-28.158236.orangebeach.cmc122l.durham.flac2496/phish2022-05-28_122L_96k_s02t12.mp3"
+    ]
+  },
+  {
+    "identifier": "phish2022-06-05.157006.noblesville.mk4.oldham.flac1644",
+    "title": "Phish - 2022-06-05 - Ruoff Music Center - Noblesville, IN",
+    "creator": "Phish",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/01 Tuning.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/01 Tuning.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/02 While My Guitar Gently Weeps.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/02 While My Guitar Gently Weeps.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/03 My Soul.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/03 My Soul.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/04 Rift.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/04 Rift.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/05 Horn.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/05 Horn.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/06 Wombat.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/06 Wombat.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/07 Evolve.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/07 Evolve.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/08 Guyute.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/08 Guyute.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/09 Limb By Limb.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/09 Limb By Limb.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/10 Mercury.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/10 Mercury.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/11 The Moma Dance.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/11 The Moma Dance.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/12 Tuning.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/12 Tuning.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/13 Sand.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/13 Sand.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/14 Sigma Oasis.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/14 Sigma Oasis.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/15 Sand.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/15 Sand.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/16 Twenty Years Later.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/16 Twenty Years Later.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/17 The Mango Song.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/17 The Mango Song.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/18 Rise-Come Together.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/18 Rise-Come Together.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/19 Free.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/19 Free.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/20 Encore Break.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/20 Encore Break.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/21 Grind.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/21 Grind.mp3",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/22 Slave To The Traffic Light.flac",
+      "https://archive.org/download/phish2022-06-05.157006.noblesville.mk4.oldham.flac1644/22 Slave To The Traffic Light.mp3"
+    ]
+  },
+  {
+    "identifier": "media-sanctuary-clf-program-spring-2022",
+    "title": "Upcoming Programming for Community Loan Fund of the Capital Region, Inc",
+    "creator": "The Sanctuary for Independent Media",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/media-sanctuary-clf-program-spring-2022/media-sanctuary-clf-program-spring-2022.flac",
+      "https://archive.org/download/media-sanctuary-clf-program-spring-2022/media-sanctuary-clf-program-spring-2022.mp3"
+    ]
+  },
+  {
+    "identifier": "media-sanctuary-jamaica-miles-responds-to-white-supremacy-and-police-brutality",
+    "title": "Jamaica Miles Responds to White Supremacy and Police Brutality",
+    "creator": "The Sanctuary for Independent Media",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/media-sanctuary-jamaica-miles-responds-to-white-supremacy-and-police-brutality/media-sanctuary-jamaica-miles-responds-to-white-supremacy-and-police-brutality.flac",
+      "https://archive.org/download/media-sanctuary-jamaica-miles-responds-to-white-supremacy-and-police-brutality/media-sanctuary-jamaica-miles-responds-to-white-supremacy-and-police-brutality.mp3"
+    ]
+  },
+  {
+    "identifier": "media-sanctuary-north-country-earth-action-works-on-climate-change",
+    "title": "North Country Earth Action Works On Climate Change",
+    "creator": "The Sanctuary for Independent Media",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/media-sanctuary-north-country-earth-action-works-on-climate-change/media-sanctuary-north-country-earth-action-works-on-climate-change.flac",
+      "https://archive.org/download/media-sanctuary-north-country-earth-action-works-on-climate-change/media-sanctuary-north-country-earth-action-works-on-climate-change.mp3"
+    ]
+  },
+  {
+    "identifier": "media-sanctuary-papscanee-island-returned-to-mohicans",
+    "title": "Papscanee Island Returned to Mohicans",
+    "creator": "The Sanctuary for Independent Media",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/media-sanctuary-papscanee-island-returned-to-mohicans/media-sanctuary-papscanee-island-returned-to-mohicans.flac",
+      "https://archive.org/download/media-sanctuary-papscanee-island-returned-to-mohicans/media-sanctuary-papscanee-island-returned-to-mohicans.mp3"
+    ]
+  },
+  {
+    "identifier": "media-sanctuary-part-two-miss-couple-on-intimacy-and-connection-during-covid-19",
+    "title": "Part Two: Miss Couple on Intimacy and Connection During COVID-19",
+    "creator": "The Sanctuary for Independent Media",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/media-sanctuary-part-two-miss-couple-on-intimacy-and-connection-during-covid-19/media-sanctuary-part-two-miss-couple-on-intimacy-and-connection-during-covid-19.flac",
+      "https://archive.org/download/media-sanctuary-part-two-miss-couple-on-intimacy-and-connection-during-covid-19/media-sanctuary-part-two-miss-couple-on-intimacy-and-connection-during-covid-19.mp3"
+    ]
+  },
+  {
+    "identifier": "media-sanctuary-salem-art-works-sculpture-park-arts-events-and-residencies",
+    "title": "Salem Art Works: Sculpture Park, Arts Events, and Residencies",
+    "creator": "The Sanctuary for Independent Media",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/media-sanctuary-salem-art-works-sculpture-park-arts-events-and-residencies/media-sanctuary-salem-art-works-sculpture-park-arts-events-and-residencies.flac",
+      "https://archive.org/download/media-sanctuary-salem-art-works-sculpture-park-arts-events-and-residencies/media-sanctuary-salem-art-works-sculpture-park-arts-events-and-residencies.mp3"
+    ]
+  },
+  {
+    "identifier": "media-sanctuary-rosemary-rivera-of-citizen-action-of-ny-speaks-about-covid-19",
+    "title": "Rosemary Rivera Citizen Action Interview",
+    "creator": "The Sanctuary for Independent Media",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/media-sanctuary-rosemary-rivera-of-citizen-action-of-ny-speaks-about-covid-19/media-sanctuary-rosemary-rivera-of-citizen-action-of-ny-speaks-about-covid-19.flac",
+      "https://archive.org/download/media-sanctuary-rosemary-rivera-of-citizen-action-of-ny-speaks-about-covid-19/media-sanctuary-rosemary-rivera-of-citizen-action-of-ny-speaks-about-covid-19.mp3"
+    ]
+  },
+  {
+    "identifier": "soundcloud-347906538",
+    "title": "Bill Warner PhD What I Admire About Islam",
+    "creator": "Political Islam",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/soundcloud-347906538/Bill_Warner_PhD_What_I_Admire_About_Islam-347906538.mp3",
+      "https://archive.org/download/soundcloud-347906538/Bill_Warner_PhD_What_I_Admire_About_Islam-347906538.ogg"
+    ]
+  },
+  {
+    "identifier": "soundcloud-729599509",
+    "title": "\u042d\u043f\u0438\u0437\u043e\u0434 5. \u041f\u0440\u043e\u0449\u0430\u0439\u0442\u0435, \u0433\u043e\u0440\u044b",
+    "creator": "\u041c\u0411\u0425 \u043c\u0435\u0434\u0438\u0430",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/soundcloud-729599509/729599509.mp3"
+    ]
+  },
+  {
+    "identifier": "soundcloud-1765412193",
+    "title": "ORGAN FETISH W/ BLXXDSHED [PROD TAKIZAVA]",
+    "creator": "oxxie",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/soundcloud-1765412193/ORGAN FETISH W\u29f8 BLXXDSHED [PROD TAKIZAVA] [1765412193].mp3"
+    ]
+  },
+  {
+    "identifier": "soundcloud-202944850",
+    "title": "Song Commission - Run With Me",
+    "creator": "NIIC",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/soundcloud-202944850/202944850.mp3"
+    ]
+  },
+  {
+    "identifier": "soundcloud-402272154",
+    "title": "Feelingz",
+    "creator": "TSJ Beats",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/soundcloud-402272154/402272154.mp3"
+    ]
+  },
+  {
+    "identifier": "chirb.it_AvrahamYagel",
+    "title": "chirb.it - AvrahamYagel",
+    "creator": "AvrahamYagel",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d1\u05d9\u05df \u05de\u05e9\u05db\u05df \u05dc\u05de\u05e7\u05d3\u05e9, \u05d1\u05d9\u05df \u05de\u05d3\u05d1\u05e8 \u05dc\u05de\u05d2\u05d9\u05dc\u05ea \u05d0\u05e1\u05ea\u05e8.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d3\u05e3 \u05d9\u05d5\u05de\u05d9 \u05d6\u05d1\u05d7\u05d9\u05dd \u05e1\u05d4 --\u05e1\u05d5.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d4\u05dc\u05db\u05d5\u05ea \u05d8\u05d4\u05e8\u05ea \u05d4\u05de\u05e9\u05e4\u05d7\u05d4 - \u05d7\u05d9\u05e9\u05d5\u05d1 \u05d6\u05de\u05e0\u05d9 \u05e4\u05e8\u05d9\u05e9\u05d4 \u05d5\u05ea\u05db\u05e0\u05d5\u05df \u05d9\u05dc\u05d5\u05d3\u05d4.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d4\u05e8\u05d1 \u05d1\u05df  \u05e6\u05d9\u05d5\u05df \u05d0\u05dc\u05d2\u05d6\u05d9.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05d8\u05d5 \u05d1\u05d0\u05d1 \u05e4\u05e8\u05e9\u05ea \u05d5\u05d0\u05ea\u05d7\u05e0\u05df \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05db\u05d1\u05d5\u05d3 \u05d8\u05d5 \u05d1\u05e9\u05d1\u05d8  \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e1\u05d7 \u05ea\u05e9\u05e2'\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e1\u05d7 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d0\u05d7\u05e8\u05d9 \u05de\u05d5\u05ea \u05e7\u05d3\u05d5\u05e9\u05d9\u05dd \u05ea\u05e9\u05e2'\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d0\u05de\u05d5\u05e8 \u05ea\u05e9\u05e2'\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d1\u05d0 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d1\u05d4\u05e2\u05dc\u05d5\u05ea\u05da \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d1\u05d4\u05e8 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d1\u05d7\u05d5\u05e7\u05d5\u05ea\u05d9 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d1\u05dc\u05e7 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d1\u05de\u05d3\u05d1\u05e8 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d1\u05e9\u05dc\u05d7 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d3\u05d1\u05e8\u05d9\u05dd \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d5\u05d0\u05e8\u05d0 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d5\u05d9\u05d2\u05e9 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d5\u05d9\u05d7\u05d9 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d5\u05d9\u05e7\u05d4\u05dc \u05e4\u05e7\u05d5\u05d3\u05d9 \u05ea\u05e9\u05e2\u05d7 \u05d5\u05e1\u05d9\u05d5\u05dd \u05d4\u05ea\u05e0\u05da.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d5\u05d9\u05e7\u05e8\u05d0 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d5\u05d9\u05e9\u05dc\u05d7 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05d7\u05e7\u05ea \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05de\u05d8\u05d5\u05ea \u05de\u05e1\u05e2\u05d9 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05de\u05e7\u05e5 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05de\u05e9\u05e4\u05d8\u05d9\u05dd \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05e4\u05d9\u05e0\u05d7\u05e1 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05e6\u05d5 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05e7\u05e8\u05d7 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05e9\u05de\u05d5\u05ea \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05ea\u05d6\u05e8\u05d9\u05e2 \u05de\u05e6\u05d5\u05e8\u05e2 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05ea\u05e6\u05d5\u05d4 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05e4\u05d5\u05e8\u05d9\u05de\u05d9 \u05dc\u05e9\u05d1\u05ea \u05db\u05d9 \u05ea\u05e9\u05d0 \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05d7\u05dc\u05e7 \u05de\u05e9\u05d9\u05e2\u05d5\u05e8 \u05d7\u05d9\u05d9\u05dd \u05d6\u05db\u05d5 \u05dc\u05e4\u05e8\u05e9\u05ea \u05e9\u05dc\u05d7 \u05dc\u05da \u05ea\u05e9\u05e2\u05d7.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05e9.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05ea\u05e7\u05e6\u05d9\u05e8 \u05d1\u05d9\u05d0\u05d5\u05e8 \u05d1\u05de\u05e2\u05e9\u05d4 \u05d7\u05db\u05de\u05d9\u05dd \u05e9\u05d4\u05d9\u05d5 \u05de\u05e1\u05d5\u05d1\u05d9\u05df \u05d1\u05d1'\u05d1.mp3",
+      "https://archive.org/download/chirb.it_AvrahamYagel/\u05ea\u05e7\u05e6\u05d9\u05e8 \u05d1\u05d9\u05d0\u05d5\u05e8 \u05d1\u05de\u05e2\u05e9\u05d4 \u05d7\u05db\u05de\u05d9\u05dd \u05e9\u05d4\u05d9\u05d5 \u05de\u05e1\u05d5\u05d1\u05d9\u05df \u05d7\u05dc\u05e72.mp3"
+    ]
+  },
+  {
+    "identifier": "gamesphere-wxvb8n",
+    "title": "Gamesphere",
+    "creator": "Color Advance SP",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 01 \u30b3\u30f3\u30bd\u30fc\u30ebINTERFACE.flac",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 01 \u30b3\u30f3\u30bd\u30fc\u30ebINTERFACE.mp3",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 02 \u30b3\u30f3\u30bd\u30fc\u30ebCUSTOMIZATION.flac",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 02 \u30b3\u30f3\u30bd\u30fc\u30ebCUSTOMIZATION.mp3",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 03 \u27f3\uff33\uff39\uff33\uff34\uff25\uff2d \uff35\uff30\uff24\uff21\uff34\uff25\u27f3.flac",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 03 \u27f3\uff33\uff39\uff33\uff34\uff25\uff2d \uff35\uff30\uff24\uff21\uff34\uff25\u27f3.mp3",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 04 eShop \u30b7\u30e7\u30c3\u30d2\u309a\u30f3\u30af\u3099.flac",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 04 eShop \u30b7\u30e7\u30c3\u30d2\u309a\u30f3\u30af\u3099.mp3",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 05 \u30dfSleep Mode\u5f61.flac",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 05 \u30dfSleep Mode\u5f61.mp3",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 06 SOCIAL\u30d5\u309a\u30ed\u30af\u3099\u30e9\u30e0.flac",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 06 SOCIAL\u30d5\u309a\u30ed\u30af\u3099\u30e9\u30e0.mp3",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 07 WEATHER\u30d5\u309a\u30ed\u30af\u3099\u30e9\u30e0.flac",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 07 WEATHER\u30d5\u309a\u30ed\u30af\u3099\u30e9\u30e0.mp3",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 08 NEWS\u30d5\u309a\u30ed\u30af\u3099\u30e9\u30e0.flac",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 08 NEWS\u30d5\u309a\u30ed\u30af\u3099\u30e9\u30e0.mp3",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 09 PICTURE\u30d5\u309a\u30ed\u30af\u3099\u30e9\u30e0.flac",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 09 PICTURE\u30d5\u309a\u30ed\u30af\u3099\u30e9\u30e0.mp3",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 10 MEDITATION\u30d5\u309a\u30ed\u30af\u3099\u30e9\u30e0.flac",
+      "https://archive.org/download/gamesphere-wxvb8n/Color Advance SP - Gamesphere - 10 MEDITATION\u30d5\u309a\u30ed\u30af\u3099\u30e9\u30e0.mp3"
+    ]
+  },
+  {
+    "identifier": "kaleidoscope-cove-2-w6lgbn",
+    "title": "kaleidoscope cove",
+    "creator": "synchro//start",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/kaleidoscope-cove-2-w6lgbn/synchro-start - kaleidoscope cove.flac",
+      "https://archive.org/download/kaleidoscope-cove-2-w6lgbn/synchro-start - kaleidoscope cove.mp3"
+    ]
+  },
+  {
+    "identifier": "lp_guided-dream_david-liebman-tolvan-big-band",
+    "title": "Guided Dream",
+    "creator": [
+      "David Liebman",
+      "Tolvan Big Band"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/01.01. Softly As In A Morning Sunrise.mp3",
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/01.01. Softly As In A Morning Sunrise_sample.mp3",
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/01.02. Doin' It Again.mp3",
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/01.02. Doin' It Again_sample.mp3",
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/01.03. Footprints.mp3",
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/01.03. Footprints_sample.mp3",
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/02.01. M.D. - Lookout Farm.mp3",
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/02.01. M.D. - Lookout Farm_sample.mp3",
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/02.02. The Picture Of Dorian Grey - Guided Dream.mp3",
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/02.02. The Picture Of Dorian Grey - Guided Dream_sample.mp3",
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/lp_guided-dream_david-liebman-tolvan-big-band_disc1side1.flac",
+      "https://archive.org/download/lp_guided-dream_david-liebman-tolvan-big-band/disc1/lp_guided-dream_david-liebman-tolvan-big-band_disc1side2.flac"
+    ]
+  },
+  {
+    "identifier": "luckyshot2-w6gj8d",
+    "title": "Luckyshot2",
+    "creator": "Manila Ice",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 01 Real heat.flac",
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 01 Real heat.mp3",
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 02 Life-love.flac",
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 02 Life-love.mp3",
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 03 High stakes.flac",
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 03 High stakes.mp3",
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 04 Spin kick.flac",
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 04 Spin kick.mp3",
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 05 Funk commander.flac",
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 05 Funk commander.mp3",
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 06 Final bout!.flac",
+      "https://archive.org/download/luckyshot2-w6gj8d/Manila Ice - Luckyshot2 - 06 Final bout!.mp3"
+    ]
+  },
+  {
+    "identifier": "the-kings-men-quartet-on-the-sunny-banks",
+    "title": "The King's Men Quartet - On The Sunny Banks",
+    "creator": "The King's Men Quartet",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/01-On The Sunny Banks.flac",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/01-On The Sunny Banks.mp3",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/02-What A Friend.flac",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/02-What A Friend.mp3",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/03-Great Big Wonderful God.flac",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/03-Great Big Wonderful God.mp3",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/04-My God Is Real.flac",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/04-My God Is Real.mp3",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/05-After All.flac",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/05-After All.mp3",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/06-The Night Before Easter.flac",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/06-The Night Before Easter.mp3",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/07-Jesus Is Coming Soon.flac",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/07-Jesus Is Coming Soon.mp3",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/08-It's Different Now.flac",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/08-It's Different Now.mp3",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/09-He Looked Beyond My Faults.flac",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/09-He Looked Beyond My Faults.mp3",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/10-This Love Of Mine.flac",
+      "https://archive.org/download/the-kings-men-quartet-on-the-sunny-banks/10-This Love Of Mine.mp3"
+    ]
+  },
+  {
+    "identifier": "trastorno-me-voy-producido-por-prodlem-www.hhgroups.com",
+    "title": "Me voy",
+    "creator": "Akatrastorno",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/trastorno-me-voy-producido-por-prodlem-www.hhgroups.com/Trastorno - Me voy [Producido por Prodlem] - www.hhgroups.com.mp3"
+    ]
+  },
+  {
+    "identifier": "20230722_20230722_1239",
+    "title": "\u062a\u0631\u0648\u0628\u0627\u062f\u0648\u0631 \u0637\u0646\u062c\u0629 - \u0644\u0627\u0645\u0648\u0646\u064a \u0627\u0644\u0645\u063a\u0631\u0628 \u0627\u0644\u0639\u0631\u0628\u064a",
+    "creator": "",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "letov_0016",
+    "title": "\u041b0016",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/letov_0016/crpage.mp3"
+    ]
+  },
+  {
+    "identifier": "maher-zain-online",
+    "title": "Maher Zain Online",
+    "creator": "Jombang",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/maher-zain-online/Aala Nahjak Mchit.mp3",
+      "https://archive.org/download/maher-zain-online/Freedom.TeFaHiTs.mp3",
+      "https://archive.org/download/maher-zain-online/Good Day.mp3",
+      "https://archive.org/download/maher-zain-online/Guide Me All The Way.mp3",
+      "https://archive.org/download/maher-zain-online/Hold My Hand.mp3",
+      "https://archive.org/download/maher-zain-online/Howa.Elquraan.mp3",
+      "https://archive.org/download/maher-zain-online/I Love You So.mp3",
+      "https://archive.org/download/maher-zain-online/Im Alive.mp3",
+      "https://archive.org/download/maher-zain-online/Insha Allah (English Version).mp3",
+      "https://archive.org/download/maher-zain-online/Kon Ra7ma.mp3"
+    ]
+  },
+  {
+    "identifier": "happy-birthday-fail-flute",
+    "title": "Happy Birthday Fail Flute",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/happy-birthday-fail-flute/Happy Birthday fail flute.mp3"
+    ]
+  },
+  {
+    "identifier": "happy-birthday-korean-ver",
+    "title": "Happy Birthday Korean Ver",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/happy-birthday-korean-ver/Happy Birthday Korean Ver.mp3",
+      "https://archive.org/download/happy-birthday-korean-ver/hihi.mp3"
+    ]
+  },
+  {
+    "identifier": "nixx-doma",
+    "title": "NIXX DOMA",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/nixx-doma/NIXX DOMA.flac",
+      "https://archive.org/download/nixx-doma/NIXX DOMA.mp3"
+    ]
+  },
+  {
+    "identifier": "ezy-zip-29",
+    "title": "Ezy Zip ( 29)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ezy-zip-29/ezyZip (29).mp3"
+    ]
+  },
+  {
+    "identifier": "ghl--11961",
+    "title": "gai-hoan-luong",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ghl--11961/6a532fdfab8fa2f712da68ef8ee833f0.mp3"
+    ]
+  },
+  {
+    "identifier": "boleti-n-informativo-editado",
+    "title": "BOLETI\u0301N INFORMATIVO",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/boleti-n-informativo-editado/BOLETI\u0301N INFORMATIVO (EDITADO).mp3"
+    ]
+  },
+  {
+    "identifier": "ratib-al-haddad-by-syarifah-nafidatul-jannah",
+    "title": "Ratib Al Haddad By Syarifah Nafidatul Jannah",
+    "creator": "Al Habib Abdullah Bin Alawi Al Haddad",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "maintheme_202012",
+    "title": "maintheme",
+    "creator": "",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "tel0711",
+    "title": "tel0711",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/tel0711/tel0711.mp3",
+      "https://archive.org/download/tel0711/tel0711.ogg"
+    ]
+  },
+  {
+    "identifier": "larrosa-juego-estudio-y-aprendizaje",
+    "title": "Larrosa comenta libro brailovsky",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/larrosa-juego-estudio-y-aprendizaje/larrosa arquitecto anfitrion.mp3",
+      "https://archive.org/download/larrosa-juego-estudio-y-aprendizaje/larrosa juego estudio y aprendizaje.mp3"
+    ]
+  },
+  {
+    "identifier": "jj20031105",
+    "title": "jj20031105",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t01.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t02.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t03.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t04.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t05.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t06.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t07.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t08.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t09.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t10.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t11.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t12.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t13.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t14.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t15.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t16.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t17.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t18.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t19.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t20.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t21.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t22.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t23.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t24.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t25.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t26.flac",
+      "https://archive.org/download/jj20031105/jj2003-11-05d1t27.flac"
+    ]
+  },
+  {
+    "identifier": "autumn-forest-relaxing-bird-and-wind-sound",
+    "title": "Autumn Forest Relaxing Bird And Wind Sound",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/autumn-forest-relaxing-bird-and-wind-sound/Autumn Forest relaxing bird and wind sound.mp3"
+    ]
+  },
+  {
+    "identifier": "BiAnSongHoangGiang",
+    "title": "B\u00ed \u1ea8n S\u00f4ng Hoang Giang",
+    "creator": "NgheTruyen.Net",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/BiAnSongHoangGiang/B\u00ed \u1ea8n S\u00f4ng Hoang Giang - T\u1eadp 001.mp3"
+    ]
+  },
+  {
+    "identifier": "bennett-lullaby-official-audio",
+    "title": "BENNETT Lullaby ( Official Audio)",
+    "creator": "BENNETT",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "ashwaq",
+    "title": "ashwaq",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ashwaq/mp3.ogg"
+    ]
+  },
+  {
+    "identifier": "mp3Num22",
+    "title": "Coment\u00e1rios em N\u00fameros Cap. 22, e 33 a 36, e Obadias, por Rev. S\u00e9rgio Lavoura e Hebreus cap 8 e 9 por Revda Margarete Lavoura.",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/mp3Num22/mp3Heb9.mp3",
+      "https://archive.org/download/mp3Num22/mp3Hebre8.mp3",
+      "https://archive.org/download/mp3Num22/mp3Num22.mp3",
+      "https://archive.org/download/mp3Num22/mp3Num32A.mp3",
+      "https://archive.org/download/mp3Num22/mp3Num32B.mp3",
+      "https://archive.org/download/mp3Num22/mp3Num33.mp3",
+      "https://archive.org/download/mp3Num22/mp3Num34.mp3",
+      "https://archive.org/download/mp3Num22/mp3Num35A.mp3",
+      "https://archive.org/download/mp3Num22/mp3Num35B.mp3",
+      "https://archive.org/download/mp3Num22/mp3Num36.mp3",
+      "https://archive.org/download/mp3Num22/mp3ObadiasA.mp3",
+      "https://archive.org/download/mp3Num22/mp3ObadiasB.mp3"
+    ]
+  },
+  {
+    "identifier": "dappa-d-jayye-jackin-let-me-clear-dziki-pojeb-gashmaker-bootleg",
+    "title": "Dappa D & Jayye Jackin Let Me Clear ( Dziki Pojeb & Gashmaker Bootleg)",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/dappa-d-jayye-jackin-let-me-clear-dziki-pojeb-gashmaker-bootleg/Dappa D & Jayye Jackin - Let Me Clear (Dziki Pojeb & Gashmaker Bootleg).flac",
+      "https://archive.org/download/dappa-d-jayye-jackin-let-me-clear-dziki-pojeb-gashmaker-bootleg/Dappa D & Jayye Jackin - Let Me Clear (Dziki Pojeb & Gashmaker Bootleg).mp3"
+    ]
+  },
+  {
+    "identifier": "demo222222222222",
+    "title": "CBDS DEMO #2",
+    "creator": "Cleveland Bound Death Sentence",
+    "source": "archive_org"
+  },
+  {
+    "identifier": "canto-del-aguila-arpia-harpia-harpyja",
+    "title": "Canto Del \u00c1guila Arp\u00eda Harpia Harpyja",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/canto-del-aguila-arpia-harpia-harpyja/Canto del \u00e1guila arp\u00eda Harpia harpyja.mp3"
+    ]
+  },
+  {
+    "identifier": "vibracion.-discotek.-dj.-vercion.-ani.-master-edwin-mp-3",
+    "title": "VIBRACION. DISCOTEK. DJ. VERCION. ANI. MASTER EDWIN",
+    "creator": "",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/vibracion.-discotek.-dj.-vercion.-ani.-master-edwin-mp-3/VIBRACION.DISCOTEK.DJ.VERCION.ANI.MASTER EDWIN(MP3).mp3"
+    ]
+  },
+  {
+    "identifier": "78_sobbin-blues-artie-shaw-and-his-orch-kassel",
+    "title": "Sobbin' blues",
+    "creator": [
+      "Artie Shaw and his orch.",
+      "Kassel - Berton"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_sobbin-blues-artie-shaw-and-his-orch-kassel/23052 Sobbin' blues.mp3"
+    ]
+  },
+  {
+    "identifier": "78_shir-hamajles-percy-kahn-piano-akkomp-chayele-grober",
+    "title": "Shir Hamajles",
+    "creator": [
+      "Chayele Grober",
+      "Percy Kahn, piano akkomp.",
+      "traditional"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_shir-hamajles-percy-kahn-piano-akkomp-chayele-grober/17730 Shir Hamajles.mp3"
+    ]
+  },
+  {
+    "identifier": "78_12970-Her-gar-det-godt-fru-kammerherreinde",
+    "title": "Her gar det godt (fru kammerherreinde)",
+    "creator": [
+      "Gunnar Lemvigh",
+      "Mogens Dam",
+      "Aage Juhl-Thomsens ork"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_12970-Her-gar-det-godt-fru-kammerherreinde/12970-Her-gar-det-godt-fru-kammerherreinde.mp3"
+    ]
+  },
+  {
+    "identifier": "78_14962-Pa-Lassas",
+    "title": "Pa Lassas",
+    "creator": [
+      "Alice Babs med sin datter Lilleba",
+      "Lilla Jatteorkestern",
+      "R. Elworth - G. Wersan"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_14962-Pa-Lassas/14962-Pa-Lassas.mp3"
+    ]
+  },
+  {
+    "identifier": "78_8993-Da-far-var-lille-del-1",
+    "title": "Da far var lille - del 2",
+    "creator": [
+      "Harald Mortensen",
+      "Harald Mortensens ork."
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_8993-Da-far-var-lille-del-1/8993-Da-far-var-lille-del-1.mp3"
+    ]
+  },
+  {
+    "identifier": "78_9141-Champagne-drengen",
+    "title": "Champagne-drengen",
+    "creator": [
+      "Ole Monty",
+      "Carl Hjerno",
+      "Holck og Peter's harmonikaorkester"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_9141-Champagne-drengen/9141-Champagne-drengen.mp3"
+    ]
+  },
+  {
+    "identifier": "78_11299-Hjertesorg",
+    "title": "Hjertesorg",
+    "creator": [
+      "Victor Cornelius",
+      "Osvald Helmuth og Fl. Geil",
+      "Erik Tuxen og hans ork.",
+      "W. Kierulff"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_11299-Hjertesorg/11299-Hjertesorg.mp3"
+    ]
+  },
+  {
+    "identifier": "78_12716-Skibet-det-gynger-valsepotpourri-del-1",
+    "title": "Skibet det gynger, valsepotpourri - del 1",
+    "creator": "Allan Reckley og Fristed",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_12716-Skibet-det-gynger-valsepotpourri-del-1/12716-Skibet-det-gynger-valsepotpourri-del-1.mp3"
+    ]
+  },
+  {
+    "identifier": "78_4091-Rund-um-die-Reeperbahn-del-1",
+    "title": "Rund um die Reeperbahn - del 1",
+    "creator": [
+      "Hans Georg Schatz",
+      "Krome"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_4091-Rund-um-die-Reeperbahn-del-1/4091-Rund-um-die-Reeperbahn-del-1.mp3"
+    ]
+  },
+  {
+    "identifier": "78_8434-Borgmesterens-kvaler",
+    "title": "Borgmesterens kvaler",
+    "creator": "Anna & Frederik Buch, Oda & Jac. Brochorst, Arvid Ringheim m.fl.",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_8434-Borgmesterens-kvaler/8434-Borgmesterens-kvaler.mp3"
+    ]
+  },
+  {
+    "identifier": "78_8567-Mandolino-Mandalino",
+    "title": "Mandolino - Mandalino",
+    "creator": [
+      "Rudi Schuricke",
+      "Alfred Hause mit seinem Tango-orch.",
+      "Winkler - Siegel"
+    ],
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/78_8567-Mandolino-Mandalino/8567-Mandolino-Mandalino.mp3"
+    ]
+  },
+  {
+    "identifier": "carlo-tagliabue-giuseppe-verdi-ernani-ode-verd-anni-miei-la-voce-del-padrone-db-11303",
+    "title": "Carlo Tagliabue, Giuseppe Verdi, Ernani, ODe Verd' Anni Miei, La Voce Del Padrone DB 11303",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/carlo-tagliabue-giuseppe-verdi-ernani-ode-verd-anni-miei-la-voce-del-padrone-db-11303/CarloTagliabue,GiuseppeVerdi,Ernani,ODeVerd'AnniMiei,LaVoceDelPadroneDB11303.mp3"
+    ]
+  },
+  {
+    "identifier": "ivogun-fruhlingsstimmen",
+    "title": "Fr\u00fchlingsstimmen-Walzer",
+    "creator": "Maria IVOGUEN - Sopran",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/ivogun-fruhlingsstimmen/Ivog\u00fcn Fr\u00fchlingsstimmen.flac",
+      "https://archive.org/download/ivogun-fruhlingsstimmen/Ivog\u00fcn Fr\u00fchlingsstimmen.mp3"
+    ]
+  },
+  {
+    "identifier": "francesco-tamagno-giuseppe-verdi-il-trovatore-di-quella-pira-mx-3012-ft-unpublihed",
+    "title": "Francesco Tamagno, Giuseppe Verdi, Il Trovatore, Di Quella Pira, Mx 3012 FT, Unpublihed",
+    "creator": "l\u00e9o472",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/francesco-tamagno-giuseppe-verdi-il-trovatore-di-quella-pira-mx-3012-ft-unpublihed/FrancescoTamagno,GiuseppeVerdi,IlTrovatore,DiQuellaPira,Mx3012FT, Unpublihed .mp3"
+    ]
+  },
+  {
+    "identifier": "v985emaMNnk",
+    "title": "Bhagyada Lakshmi Baramma | Padmashri Kanyakumari A | Shree Ragam | Purandara Dasar | Carnatic Violin",
+    "creator": "Adorable India",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=v985emaMNnk"
+    ]
+  },
+  {
+    "identifier": "MX0d7O0VlWk",
+    "title": "Nagumo #best #nadaswaram #music #concert #YouTube #trending #video #festival #temple #kerala #india",
+    "creator": "Ulsava kazhchakal",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=MX0d7O0VlWk"
+    ]
+  },
+  {
+    "identifier": "NhcMPfTEfmM",
+    "title": "Evoor temple festival 2014 - Seva - Nadaswaram/Thavil",
+    "creator": "Evoor temple festival 2014",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=NhcMPfTEfmM"
+    ]
   }
 ]
