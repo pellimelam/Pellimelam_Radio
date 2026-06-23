@@ -256618,5 +256618,18 @@
     "audio_urls": [
       "https://youtube.com/watch?v=NhcMPfTEfmM"
     ]
+  },
+  {
+    "identifier": "radio-ceylon-22-06-2026-monday-",
+    "title": "Radio Ceylon 22-06-2026~ Monday~",
+    "creator": "Ashwani Kumar",
+    "source": "archive_org",
+    "audio_urls": [
+      "https://archive.org/download/radio-ceylon-22-06-2026-monday-/Radio Ceylon 22-06-2026~Monday~01 Bhakti Sangeet -.mp3",
+      "https://archive.org/download/radio-ceylon-22-06-2026-monday-/Radio Ceylon 22-06-2026~Monday~02 Aapki Pasand - Songs Inspired from Western Music - Part-A-.mp3",
+      "https://archive.org/download/radio-ceylon-22-06-2026-monday-/Radio Ceylon 22-06-2026~Monday~03 Aapki Pasand - Songs Inspired from Western Music - Part-B-.mp3",
+      "https://archive.org/download/radio-ceylon-22-06-2026-monday-/Radio Ceylon 22-06-2026~Monday~04 Sheershak Sangeet - AKELA -.mp3",
+      "https://archive.org/download/radio-ceylon-22-06-2026-monday-/Radio Ceylon 22-06-2026~Monday~05 Purani Filmon Ka Sangeet -.mp3"
+    ]
   }
 ]
