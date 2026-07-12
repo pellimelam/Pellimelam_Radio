@@ -30274,5 +30274,25 @@
       "https://youtube.com/watch?v=73_JkXJHOV8"
     ],
     "instrument": "nadaswaram"
+  },
+  {
+    "identifier": "Ym2yYLwp-9o",
+    "title": "\ud83d\udd34 LIVE | 7th Day Annual Festival 2026 | Natheswara Kachery | Enfield Nagapooshani Ambaal Temple",
+    "creator": "LondonHinduTempleTV",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=Ym2yYLwp-9o"
+    ],
+    "instrument": "temple_music"
+  },
+  {
+    "identifier": "EVzDdqDctW8",
+    "title": "Chembada Melam \u26a1Kadavoor Akhil \u26a1Shree Bhadrakali Temple Pattanam, N.Paravur (Part1)",
+    "creator": "Sooraj_pisharody",
+    "source": "youtube",
+    "audio_urls": [
+      "https://youtube.com/watch?v=EVzDdqDctW8"
+    ],
+    "instrument": "chenda"
   }
 ]
